@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386419' stop='1546606386430'>
+    <name>Git Trigger Model generate secret</name>
+    <title>Git Trigger Model generate secret</title>
+    <test-cases>
+        <test-case start='1546606386419' status='passed' stop='1546606386425'>
+            <name>expect secret to no exist before generating it</name>
+            <title>expect secret to no exist before generating it</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386425' status='passed' stop='1546606386430'>
+            <name>expect secret length to equal 16</name>
+            <title>expect secret length to equal 16</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

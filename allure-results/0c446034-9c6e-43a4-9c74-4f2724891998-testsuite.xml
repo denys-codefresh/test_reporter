@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962844148' stop='1546962844676'>
+    <name>environments terminator start - starts an interval to trigger deletion of old environments</name>
+    <title>environments terminator start - starts an interval to trigger deletion of old environments</title>
+    <test-cases>
+        <test-case start='1546962844148' status='passed' stop='1546962844675'>
+            <name>should successfully start</name>
+            <title>should successfully start</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

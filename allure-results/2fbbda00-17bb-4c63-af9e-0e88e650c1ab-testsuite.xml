@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606378620' stop='1546606378628'>
+    <name>_chooseWorkflowUser unit test check if build must run</name>
+    <title>_chooseWorkflowUser unit test check if build must run</title>
+    <test-cases>
+        <test-case start='1546606378620' status='passed' stop='1546606378626'>
+            <name>should find files using multiglob pattern</name>
+            <title>should find files using multiglob pattern</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378626' status='passed' stop='1546606378626'>
+            <name>should find files using glob pattern</name>
+            <title>should find files using glob pattern</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378626' status='passed' stop='1546606378626'>
+            <name>should run for fork if forks allowed</name>
+            <title>should run for fork if forks allowed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378626' status='passed' stop='1546606378627'>
+            <name>should not run for fork if forks not allowed</name>
+            <title>should not run for fork if forks not allowed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378627' status='passed' stop='1546606378627'>
+            <name>should not run if comment does not match regex</name>
+            <title>should not run if comment does not match regex</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378627' status='passed' stop='1546606378627'>
+            <name>should not run if comment author is not OWNER or COLLABORATOR or MEMBER</name>
+            <title>should not run if comment author is not OWNER or COLLABORATOR or MEMBER</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378627' status='passed' stop='1546606378627'>
+            <name>should run if comment matches regex and comment author is OWNER</name>
+            <title>should run if comment matches regex and comment author is OWNER</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378627' status='passed' stop='1546606378627'>
+            <name>should run if comment matches regex and comment author is COLLABORATOR</name>
+            <title>should run if comment matches regex and comment author is COLLABORATOR</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378627' status='passed' stop='1546606378627'>
+            <name>should run if comment matches regex and comment author is MEMBER</name>
+            <title>should run if comment matches regex and comment author is MEMBER</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378627' status='passed' stop='1546606378628'>
+            <name>should run for heads (all)</name>
+            <title>should run for heads (all)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378628' status='passed' stop='1546606378628'>
+            <name>should run for heads (heads)</name>
+            <title>should run for heads (heads)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378628' status='passed' stop='1546606378628'>
+            <name>should not run for tags (heads)</name>
+            <title>should not run for tags (heads)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

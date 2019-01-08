@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962822699' stop='1546962822699'>
+    <name>consulNodes scheduler</name>
+    <title>consulNodes scheduler</title>
+    <test-cases>
+        <test-case start='1546962822699' status='pending' stop='1546962822699'>
+            <name>getDockerNode</name>
+            <title>getDockerNode</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962822699' status='pending' stop='1546962822699'>
+            <name>releaseDockerNode</name>
+            <title>releaseDockerNode</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

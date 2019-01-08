@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941820073' stop='1546941820076'>
+    <name>Badge logic unit tests Helm release badge _findBadgeInCache positive</name>
+    <title>Badge logic unit tests Helm release badge _findBadgeInCache positive</title>
+    <test-cases>
+        <test-case start='1546941820073' status='passed' stop='1546941820074'>
+            <name>when toleration exist</name>
+            <title>when toleration exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820074' status='passed' stop='1546941820075'>
+            <name>when toleration not exist</name>
+            <title>when toleration not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

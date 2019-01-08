@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941818794' stop='1546941819353'>
+    <name>Accounts Unit Tests 1. getUsersOfAccount get all not pending users of an account</name>
+    <title>Accounts Unit Tests 1. getUsersOfAccount get all not pending users of an account</title>
+    <test-cases>
+        <test-case start='1546941818794' status='passed' stop='1546941818827'>
+            <name>1.1 should return 2 users in case of both not pending users and using ignorePendingUser flag as true</name>
+            <title>1.1 should return 2 users in case of both not pending users and using ignorePendingUser flag as true</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941818827' status='passed' stop='1546941818895'>
+            <name>1.2 should return 2 users in case of both not pending users and using ignorePendingUser flag as false</name>
+            <title>1.2 should return 2 users in case of both not pending users and using ignorePendingUser flag as false</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941818898' status='passed' stop='1546941819004'>
+            <name>1.3 should return 2 users in case of both not pending users without options</name>
+            <title>1.3 should return 2 users in case of both not pending users without options</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941819004' status='passed' stop='1546941819043'>
+            <name>1.4 should return 1 user in case of 2 users but 1 of them is pending and using ignorePending flag</name>
+            <title>1.4 should return 1 user in case of 2 users but 1 of them is pending and using ignorePending flag</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941819043' status='passed' stop='1546941819078'>
+            <name>1.5 should return 1 user in case of 2 users but 1 of them is pending without options</name>
+            <title>1.5 should return 1 user in case of 2 users but 1 of them is pending without options</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941819081' status='passed' stop='1546941819117'>
+            <name>1.6 should return 2 users in case of 2 users but 1 of them is pending when using option ignorePendingUser as false</name>
+            <title>1.6 should return 2 users in case of 2 users but 1 of them is pending when using option ignorePendingUser as false</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941819117' status='passed' stop='1546941819161'>
+            <name>1.7 set user as admin</name>
+            <title>1.7 set user as admin</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941819161' status='passed' stop='1546941819199'>
+            <name>1.8 fail on set user as admin that is admin</name>
+            <title>1.8 fail on set user as admin that is admin</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941819200' status='passed' stop='1546941819234'>
+            <name>1.9 fail on set user as not from account</name>
+            <title>1.9 fail on set user as not from account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941819234' status='passed' stop='1546941819276'>
+            <name>1.10 remove admin from account</name>
+            <title>1.10 remove admin from account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941819276' status='passed' stop='1546941819313'>
+            <name>1.11 fail remove admin that is not part of account from account</name>
+            <title>1.11 fail remove admin that is not part of account from account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941819313' status='passed' stop='1546941819353'>
+            <name>1.12 fail remove account owner that is not part of account from account</name>
+            <title>1.12 fail remove account owner that is not part of account from account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

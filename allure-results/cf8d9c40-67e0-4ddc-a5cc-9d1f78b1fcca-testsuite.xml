@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962830622' stop='1546962830624'>
+    <name>Gitlab Provider Unit Tests Extract data from gitlab pull request webhook</name>
+    <title>Gitlab Provider Unit Tests Extract data from gitlab pull request webhook</title>
+    <test-cases>
+        <test-case start='1546962830623' status='passed' stop='1546962830623'>
+            <name>Should return extracted variables</name>
+            <title>Should return extracted variables</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962830623' status='passed' stop='1546962830623'>
+            <name>Should return extracted variables when PR have action merge</name>
+            <title>Should return extracted variables when PR have action merge</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962830624' status='passed' stop='1546962830624'>
+            <name>Should return extracted variables when PR have action close</name>
+            <title>Should return extracted variables when PR have action close</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962830624' status='passed' stop='1546962830624'>
+            <name>Should return extracted variables when PR have action open</name>
+            <title>Should return extracted variables when PR have action open</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

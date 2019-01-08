@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962843527' stop='1546962843532'>
+    <name>Compositions Unit Tests Compositions Launch</name>
+    <title>Compositions Unit Tests Compositions Launch</title>
+    <test-cases>
+        <test-case start='1546962843527' status='passed' stop='1546962843529'>
+            <name>Fail to launch for no available environments</name>
+            <title>Fail to launch for no available environments</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843529' status='passed' stop='1546962843530'>
+            <name>Fail to launch</name>
+            <title>Fail to launch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843530' status='passed' stop='1546962843531'>
+            <name>Fail to launch for no provisioned docker machine feature</name>
+            <title>Fail to launch for no provisioned docker machine feature</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843531' status='passed' stop='1546962843532'>
+            <name>Launch composition</name>
+            <title>Launch composition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

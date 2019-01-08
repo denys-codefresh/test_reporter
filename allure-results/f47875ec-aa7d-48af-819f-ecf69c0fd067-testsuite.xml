@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606333983' stop='1546606333990'>
+    <name>Verification Tests removeKey</name>
+    <title>Verification Tests removeKey</title>
+    <test-cases>
+        <test-case start='1546606333985' status='passed' stop='1546606333986'>
+            <name>getSubjectForKey fail with wrong data</name>
+            <title>getSubjectForKey fail with wrong data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606333986' status='passed' stop='1546606333990'>
+            <name>getSubjectForKey fail with wrong data</name>
+            <title>getSubjectForKey fail with wrong data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941829129' stop='1546941829148'>
+    <name>Registry Auth(Z/N) router tests</name>
+    <title>Registry Auth(Z/N) router tests</title>
+    <test-cases>
+        <test-case start='1546941829129' status='passed' stop='1546941829141'>
+            <name>test authz GET middleware</name>
+            <title>test authz GET middleware</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829141' status='passed' stop='1546941829144'>
+            <name>test auth GET middleware</name>
+            <title>test auth GET middleware</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829144' status='passed' stop='1546941829148'>
+            <name>test auth/token POST middleware</name>
+            <title>test auth/token POST middleware</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

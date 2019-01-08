@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962856196' stop='1546962856197'>
+    <name>monitor node Node base class toObject - returns the node as exposed object</name>
+    <title>monitor node Node base class toObject - returns the node as exposed object</title>
+    <test-cases>
+        <test-case start='1546962856196' status='passed' stop='1546962856197'>
+            <name>should return an object</name>
+            <title>should return an object</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962856197' status='passed' stop='1546962856197'>
+            <name>should return an object even if nothing was passed to the constructor</name>
+            <title>should return an object even if nothing was passed to the constructor</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

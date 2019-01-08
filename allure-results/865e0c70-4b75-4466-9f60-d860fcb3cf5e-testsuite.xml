@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941834176' stop='1546941834179'>
+    <name>monitor node Docker-node class updateBuildManager - calls the build manager with runtime environment to trigger pending builds positive tests</name>
+    <title>monitor node Docker-node class updateBuildManager - calls the build manager with runtime environment to trigger pending builds positive tests</title>
+    <test-cases>
+        <test-case start='1546941834176' status='passed' stop='1546941834177'>
+            <name>should call build manager wake up queue</name>
+            <title>should call build manager wake up queue</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941834178' status='passed' stop='1546941834179'>
+            <name>should print an error in case calling build manager wake up queue failed</name>
+            <title>should print an error in case calling build manager wake up queue failed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

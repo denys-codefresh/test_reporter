@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962849515' stop='1546962849526'>
+    <name>pipeline logic unit test Should prepare options for http request Build correct path to pipeline manager api</name>
+    <title>pipeline logic unit test Should prepare options for http request Build correct path to pipeline manager api</title>
+    <test-cases>
+        <test-case start='1546962849515' status='passed' stop='1546962849518'>
+            <name>createPipeline</name>
+            <title>createPipeline</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849518' status='passed' stop='1546962849519'>
+            <name>getAllAccountPipelines</name>
+            <title>getAllAccountPipelines</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849519' status='passed' stop='1546962849520'>
+            <name>getLabels</name>
+            <title>getLabels</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849520' status='passed' stop='1546962849521'>
+            <name>getLabelValues</name>
+            <title>getLabelValues</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849521' status='passed' stop='1546962849522'>
+            <name>deletePipelineByName</name>
+            <title>deletePipelineByName</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849522' status='passed' stop='1546962849523'>
+            <name>replacePipelineByName</name>
+            <title>replacePipelineByName</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849523' status='passed' stop='1546962849524'>
+            <name>getPipelineByNameOrId</name>
+            <title>getPipelineByNameOrId</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849525' status='passed' stop='1546962849525'>
+            <name>getAllPipelinesByScmTrigger</name>
+            <title>getAllPipelinesByScmTrigger</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

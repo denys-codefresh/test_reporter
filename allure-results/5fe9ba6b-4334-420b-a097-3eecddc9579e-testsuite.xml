@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851696' stop='1546962851698'>
+    <name>Test reporter logic</name>
+    <title>Test reporter logic</title>
+    <test-cases>
+        <test-case start='1546962851696' status='passed' stop='1546962851696'>
+            <name>getAccessToken should return access_token when credentials present</name>
+            <title>getAccessToken should return access_token when credentials present</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851696' status='passed' stop='1546962851696'>
+            <name>getAccessToken should throw error when credentials not present</name>
+            <title>getAccessToken should throw error when credentials not present</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851696' status='passed' stop='1546962851697'>
+            <name>getAccessToken should return access_token in case auth context</name>
+            <title>getAccessToken should return access_token in case auth context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851697' status='passed' stop='1546962851697'>
+            <name>getContext should return basic parsed context</name>
+            <title>getContext should return basic parsed context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851697' status='passed' stop='1546962851697'>
+            <name>getContext should return auth parsed context</name>
+            <title>getContext should return auth parsed context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851697' status='passed' stop='1546962851697'>
+            <name>getContext should return amazon parsed context</name>
+            <title>getContext should return amazon parsed context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851697' status='passed' stop='1546962851698'>
+            <name>getGCSAccessToken should return accessToken</name>
+            <title>getGCSAccessToken should return accessToken</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

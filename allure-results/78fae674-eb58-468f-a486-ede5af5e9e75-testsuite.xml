@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962857498' stop='1546962857500'>
+    <name>providers.cloud.azure getVmStartupScipt</name>
+    <title>providers.cloud.azure getVmStartupScipt</title>
+    <test-cases>
+        <test-case start='1546962857499' status='passed' stop='1546962857499'>
+            <name>withDns</name>
+            <title>withDns</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857499' status='passed' stop='1546962857500'>
+            <name>withoutDns</name>
+            <title>withoutDns</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962826061' stop='1546962826064'>
+    <name>monitor consul - handles all operations performed through consul extendDockerNodesWithKvData - extends consul docker nodes with additional information with consul key value negative tests</name>
+    <title>monitor consul - handles all operations performed through consul extendDockerNodesWithKvData - extends consul docker nodes with additional information with consul key value negative tests</title>
+    <test-cases>
+        <test-case start='1546962826061' status='passed' stop='1546962826064'>
+            <name>should return an error in case an error was thrown inside during the execution</name>
+            <title>should return an error in case an error was thrown inside during the execution</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

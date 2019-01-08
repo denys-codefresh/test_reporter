@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941776482' stop='1546941776483'>
+    <name>Notifications Tests negative</name>
+    <title>Notifications Tests negative</title>
+    <test-cases>
+        <test-case start='1546941776482' status='passed' stop='1546941776483'>
+            <name>should throw if missing required properties</name>
+            <title>should throw if missing required properties</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

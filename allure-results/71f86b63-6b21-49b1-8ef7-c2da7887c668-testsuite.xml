@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386348' stop='1546606386348'>
+    <name>Registry AuthZ Logic #createNew AuthZ Rule</name>
+    <title>Registry AuthZ Logic #createNew AuthZ Rule</title>
+    <test-cases>
+        <test-case start='1546606386348' status='pending' stop='1546606386348'>
+            <name>should create a new rule, when with valid values</name>
+            <title>should create a new rule, when with valid values</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

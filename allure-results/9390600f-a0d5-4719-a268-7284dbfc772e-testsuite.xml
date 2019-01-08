@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606379268' stop='1546606379344'>
+    <name>Environments tests Negative</name>
+    <title>Environments tests Negative</title>
+    <test-cases>
+        <test-case start='1546606379268' status='passed' stop='1546606379292'>
+            <name>Create empty environment and fail because status is not in Progress</name>
+            <title>Create empty environment and fail because status is not in Progress</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606379292' status='passed' stop='1546606379316'>
+            <name>should fail to update environment to status done and with empty instances</name>
+            <title>should fail to update environment to status done and with empty instances</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606379317' status='passed' stop='1546606379343'>
+            <name>should fail to update environment to status done and with incorrect environment</name>
+            <title>should fail to update environment to status done and with incorrect environment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

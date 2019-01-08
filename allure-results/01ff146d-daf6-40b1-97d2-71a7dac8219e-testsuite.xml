@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941820725' stop='1546941820771'>
+    <name>Boards controller unit tests Update board</name>
+    <title>Boards controller unit tests Update board</title>
+    <test-cases>
+        <test-case start='1546941820725' status='passed' stop='1546941820738'>
+            <name>should response with 200 and board</name>
+            <title>should response with 200 and board</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820738' status='passed' stop='1546941820756'>
+            <name>should throw NotFoundGatewayError while updating board from another account</name>
+            <title>should throw NotFoundGatewayError while updating board from another account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820756' status='passed' stop='1546941820771'>
+            <name>should throw DuplicationGatewayError while updating board with existing name</name>
+            <title>should throw DuplicationGatewayError while updating board with existing name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

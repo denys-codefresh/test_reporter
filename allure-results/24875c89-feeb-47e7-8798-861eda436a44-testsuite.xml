@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606392679' stop='1546606392682'>
+    <name>Cloud provider Gce allocateNewNode</name>
+    <title>Cloud provider Gce allocateNewNode</title>
+    <test-cases>
+        <test-case start='1546606392679' status='passed' stop='1546606392681'>
+            <name>should return a new node object</name>
+            <title>should return a new node object</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392681' status='passed' stop='1546606392682'>
+            <name>should return a new node object without account and role fields</name>
+            <title>should return a new node object without account and role fields</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

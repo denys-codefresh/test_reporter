@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941798088' stop='1546941798094'>
+    <name>Github Provider Unit Tests 11. getFileLocation</name>
+    <title>Github Provider Unit Tests 11. getFileLocation</title>
+    <test-cases>
+        <test-case start='1546941798089' status='passed' stop='1546941798090'>
+            <name>should return file location from url with blob</name>
+            <title>should return file location from url with blob</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798090' status='passed' stop='1546941798091'>
+            <name>should return file location from url with blob - deep folder</name>
+            <title>should return file location from url with blob - deep folder</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798091' status='passed' stop='1546941798091'>
+            <name>should return file location from url with raw</name>
+            <title>should return file location from url with raw</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798091' status='passed' stop='1546941798092'>
+            <name>should return file location from url with raw - deep folder</name>
+            <title>should return file location from url with raw - deep folder</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798092' status='passed' stop='1546941798093'>
+            <name>should return null from url with blob - no file</name>
+            <title>should return null from url with blob - no file</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798093' status='passed' stop='1546941798093'>
+            <name>should return null from url with blob - no file with /</name>
+            <title>should return null from url with blob - no file with /</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798093' status='passed' stop='1546941798094'>
+            <name>should return null from url with no file </name>
+            <title>should return null from url with no file </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798094' status='passed' stop='1546941798094'>
+            <name>should return null with no url </name>
+            <title>should return null with no url </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

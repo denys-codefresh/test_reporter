@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941834105' stop='1546941834113'>
+    <name>monitor node Docker-node class extendFromConsulNode - extends a docker node object with data from consul positive tests</name>
+    <title>monitor node Docker-node class extendFromConsulNode - extends a docker node object with data from consul positive tests</title>
+    <test-cases>
+        <test-case start='1546941834105' status='passed' stop='1546941834110'>
+            <name>should succeed with extending node with consul data</name>
+            <title>should succeed with extending node with consul data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941834110' status='passed' stop='1546941834112'>
+            <name>should calculate status as running in case it was not retrieved from consul specifically and all checks passed</name>
+            <title>should calculate status as running in case it was not retrieved from consul specifically and all checks passed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941834112' status='passed' stop='1546941834113'>
+            <name>should calculate status as error in case it was not retrieved from consul specifically and at least 1 check failed</name>
+            <title>should calculate status as error in case it was not retrieved from consul specifically and at least 1 check failed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

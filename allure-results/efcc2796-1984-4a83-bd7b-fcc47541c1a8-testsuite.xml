@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941823039' stop='1546941823070'>
+    <name>Feature Toggling</name>
+    <title>Feature Toggling</title>
+    <test-cases>
+        <test-case start='1546941823039' status='passed' stop='1546941823044'>
+            <name>Look up non-existing features for account</name>
+            <title>Look up non-existing features for account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941823044' status='passed' stop='1546941823051'>
+            <name>Create and find account features</name>
+            <title>Create and find account features</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941823051' status='passed' stop='1546941823062'>
+            <name>Add feature to non existing feature obj</name>
+            <title>Add feature to non existing feature obj</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941823062' status='passed' stop='1546941823070'>
+            <name>Create and find account features</name>
+            <title>Create and find account features</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

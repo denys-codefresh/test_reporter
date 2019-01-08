@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941780295' stop='1546941780295'>
+    <name>Shallow Firebase Client Removing Child</name>
+    <title>Shallow Firebase Client Removing Child</title>
+    <test-cases>
+        <test-case start='1546941780295' status='pending' stop='1546941780295'>
+            <name>should request for the right path when asking for children</name>
+            <title>should request for the right path when asking for children</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941780295' status='pending' stop='1546941780295'>
+            <name>should add the secret key to the "auth" query parameter</name>
+            <title>should add the secret key to the "auth" query parameter</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941780295' status='pending' stop='1546941780295'>
+            <name>should send a delete request</name>
+            <title>should send a delete request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

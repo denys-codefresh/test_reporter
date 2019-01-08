@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606359161' stop='1546606359265'>
+    <name>Progress Tests 10. createUserFirebaseToken negative tests</name>
+    <title>Progress Tests 10. createUserFirebaseToken negative tests</title>
+    <test-cases>
+        <test-case start='1546606359161' status='passed' stop='1546606359193'>
+            <name>should fail in case user does not contain _id field</name>
+            <title>should fail in case user does not contain _id field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606359193' status='passed' stop='1546606359229'>
+            <name>should fail in case user does not have getActiveAccount function</name>
+            <title>should fail in case user does not have getActiveAccount function</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606359229' status='passed' stop='1546606359265'>
+            <name>should fail in case generating a new token failed</name>
+            <title>should fail in case generating a new token failed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

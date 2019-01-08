@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851625' stop='1546962851655'>
+    <name>Team Unit Tests 2. Rename team</name>
+    <title>Team Unit Tests 2. Rename team</title>
+    <test-cases>
+        <test-case start='1546962851625' status='passed' stop='1546962851635'>
+            <name>Should rename team</name>
+            <title>Should rename team</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851635' status='passed' stop='1546962851643'>
+            <name>Should block rename linked team</name>
+            <title>Should block rename linked team</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851643' status='passed' stop='1546962851655'>
+            <name>Should not rename team from another account</name>
+            <title>Should not rename team from another account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

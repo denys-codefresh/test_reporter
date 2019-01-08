@@ -1,0 +1,151 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941777113' stop='1546941777151'>
+    <name>DAL tests</name>
+    <title>DAL tests</title>
+    <test-cases>
+        <test-case start='1546941777122' status='passed' stop='1546941777123'>
+            <name> Fail with invalid parameters: schema</name>
+            <title> Fail with invalid parameters: schema</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777123' status='passed' stop='1546941777124'>
+            <name> Fail with invalid parameters: query</name>
+            <title> Fail with invalid parameters: query</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777124' status='passed' stop='1546941777126'>
+            <name>Find simple query</name>
+            <title>Find simple query</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777126' status='passed' stop='1546941777128'>
+            <name>Find simple query with sort</name>
+            <title>Find simple query with sort</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777128' status='passed' stop='1546941777132'>
+            <name>Find simple query with pagination</name>
+            <title>Find simple query with pagination</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777132' status='passed' stop='1546941777133'>
+            <name>Find simple query with pagination and page</name>
+            <title>Find simple query with pagination and page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777133' status='passed' stop='1546941777135'>
+            <name>Find with select field</name>
+            <title>Find with select field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777135' status='passed' stop='1546941777136'>
+            <name> select multiple fields</name>
+            <title> select multiple fields</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777136' status='passed' stop='1546941777138'>
+            <name>Find with property field</name>
+            <title>Find with property field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777138' status='passed' stop='1546941777140'>
+            <name>Fail find with multiple property field</name>
+            <title>Fail find with multiple property field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777140' status='passed' stop='1546941777142'>
+            <name>Find with select contains</name>
+            <title>Find with select contains</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777142' status='passed' stop='1546941777143'>
+            <name>fail pagination with no schema</name>
+            <title>fail pagination with no schema</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777143' status='passed' stop='1546941777143'>
+            <name>fail pagination with not supporting pagination</name>
+            <title>fail pagination with not supporting pagination</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777143' status='passed' stop='1546941777145'>
+            <name>pass pagination findWithPagination </name>
+            <title>pass pagination findWithPagination </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777145' status='passed' stop='1546941777147'>
+            <name>aggregate without populate</name>
+            <title>aggregate without populate</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777147' status='passed' stop='1546941777148'>
+            <name>aggregate with pagination and sort (and without populate) </name>
+            <title>aggregate with pagination and sort (and without populate) </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777148' status='passed' stop='1546941777149'>
+            <name>aggregate without populate throw an error when sending a sort object in query and in pagination</name>
+            <title>aggregate without populate throw an error when sending a sort object in query and in pagination</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941777149' status='passed' stop='1546941777151'>
+            <name>aggregate with populate  </name>
+            <title>aggregate with populate  </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

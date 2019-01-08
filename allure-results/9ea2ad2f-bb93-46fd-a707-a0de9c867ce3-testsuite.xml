@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941821895' stop='1546941822101'>
+    <name>Environments tests Positive</name>
+    <title>Environments tests Positive</title>
+    <test-cases>
+        <test-case start='1546941821895' status='passed' stop='1546941821927'>
+            <name>remove empty environment</name>
+            <title>remove empty environment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821927' status='passed' stop='1546941821961'>
+            <name>succeed in creating empty environment because status is in Progress</name>
+            <title>succeed in creating empty environment because status is in Progress</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821961' status='passed' stop='1546941821988'>
+            <name>return IN_PROGRESS creation status after environment creation</name>
+            <title>return IN_PROGRESS creation status after environment creation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821988' status='passed' stop='1546941822017'>
+            <name>rename an environment</name>
+            <title>rename an environment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941822017' status='passed' stop='1546941822046'>
+            <name>should show an environment</name>
+            <title>should show an environment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941822046' status='passed' stop='1546941822074'>
+            <name>should index (show..) an environment</name>
+            <title>should index (show..) an environment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941822074' status='passed' stop='1546941822101'>
+            <name>should not return services that are marked with visibility internal</name>
+            <title>should not return services that are marked with visibility internal</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

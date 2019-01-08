@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941776312' stop='1546941776412'>
+    <name>Rules operations</name>
+    <title>Rules operations</title>
+    <test-cases>
+        <test-case start='1546941776312' status='passed' stop='1546941776333'>
+            <name>Create rules</name>
+            <title>Create rules</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776333' status='passed' stop='1546941776352'>
+            <name>update tags </name>
+            <title>update tags </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776352' status='passed' stop='1546941776372'>
+            <name>update tags - batch</name>
+            <title>update tags - batch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776373' status='passed' stop='1546941776392'>
+            <name>createOrDeleteGrantRules</name>
+            <title>createOrDeleteGrantRules</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776393' status='passed' stop='1546941776412'>
+            <name>duplicate rules</name>
+            <title>duplicate rules</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

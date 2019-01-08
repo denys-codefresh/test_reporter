@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941799887' stop='1546941799892'>
+    <name>Base Role</name>
+    <title>Base Role</title>
+    <test-cases>
+        <test-case start='1546941799888' status='passed' stop='1546941799890'>
+            <name>should configure routes base on it's getRoutes method</name>
+            <title>should configure routes base on it's getRoutes method</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941799890' status='passed' stop='1546941799890'>
+            <name>should configure routes the given app</name>
+            <title>should configure routes the given app</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

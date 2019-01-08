@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606362849' stop='1546606362851'>
+    <name>Bitbucket Provider Unit Tests 3. hasRepositoryAccess negative</name>
+    <title>Bitbucket Provider Unit Tests 3. hasRepositoryAccess negative</title>
+    <test-cases>
+        <test-case start='1546606362849' status='passed' stop='1546606362851'>
+            <name>should return false in case a user is connected and does not have access</name>
+            <title>should return false in case a user is connected and does not have access</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606333935' stop='1546606333939'>
+    <name>abac.logic can</name>
+    <title>abac.logic can</title>
+    <test-cases>
+        <test-case start='1546606333935' status='passed' stop='1546606333936'>
+            <name>can admin do anything</name>
+            <title>can admin do anything</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606333936' status='passed' stop='1546606333937'>
+            <name>can existing user view tagged resources</name>
+            <title>can existing user view tagged resources</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606333937' status='passed' stop='1546606333938'>
+            <name>can existing user do allowed action</name>
+            <title>can existing user do allowed action</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606333938' status='passed' stop='1546606333938'>
+            <name>can codefresh user do create action</name>
+            <title>can codefresh user do create action</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606333938' status='passed' stop='1546606333939'>
+            <name>can existing user do allowed action on tagged resource</name>
+            <title>can existing user do allowed action on tagged resource</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

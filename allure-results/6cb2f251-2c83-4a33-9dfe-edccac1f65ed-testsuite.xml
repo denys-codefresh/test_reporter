@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941836368' stop='1546941836372'>
+    <name>Workflow revision dal unit test Get workflow revision With decryption</name>
+    <title>Workflow revision dal unit test Get workflow revision With decryption</title>
+    <test-cases>
+        <test-case start='1546941836368' status='passed' stop='1546941836370'>
+            <name>Return all revision when options are not passed - DONT decrypt</name>
+            <title>Return all revision when options are not passed - DONT decrypt</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836370' status='passed' stop='1546941836372'>
+            <name>Return all and decrypt</name>
+            <title>Return all and decrypt</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

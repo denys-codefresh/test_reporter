@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941836350' stop='1546941836353'>
+    <name>System Internal Controller publishEventOnBehalf positive</name>
+    <title>System Internal Controller publishEventOnBehalf positive</title>
+    <test-cases>
+        <test-case start='1546941836350' status='passed' stop='1546941836353'>
+            <name>should publish event and return if successfull</name>
+            <title>should publish event and return if successfull</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

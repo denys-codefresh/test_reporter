@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606362487' stop='1546606362492'>
+    <name>monitor nodes - handles all operations on nodes set local - sets the local node negative tests</name>
+    <title>monitor nodes - handles all operations on nodes set local - sets the local node negative tests</title>
+    <test-cases>
+        <test-case start='1546606362487' status='passed' stop='1546606362492'>
+            <name>should throw an error in case provided node is not a Node class</name>
+            <title>should throw an error in case provided node is not a Node class</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

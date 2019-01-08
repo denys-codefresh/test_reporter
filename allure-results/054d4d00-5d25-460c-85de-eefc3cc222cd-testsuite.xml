@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606334482' stop='1546606334483'>
+    <name>Verification Tests verifyRequest</name>
+    <title>Verification Tests verifyRequest</title>
+    <test-cases>
+        <test-case start='1546606334482' status='passed' stop='1546606334483'>
+            <name>verifyRequest fail with no request</name>
+            <title>verifyRequest fail with no request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

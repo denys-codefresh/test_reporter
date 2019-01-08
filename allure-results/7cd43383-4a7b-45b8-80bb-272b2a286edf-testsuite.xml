@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606378860' stop='1546606378867'>
+    <name>Contexts logic getVariablesFromContexts positive</name>
+    <title>Contexts logic getVariablesFromContexts positive</title>
+    <test-cases>
+        <test-case start='1546606378860' status='passed' stop='1546606378862'>
+            <name>should return an empty array in case of no passed contexts</name>
+            <title>should return an empty array in case of no passed contexts</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378862' status='passed' stop='1546606378863'>
+            <name>should return an empty array in case of empty array of contexts</name>
+            <title>should return an empty array in case of empty array of contexts</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378863' status='passed' stop='1546606378864'>
+            <name>should return environment variables for one context</name>
+            <title>should return environment variables for one context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378864' status='passed' stop='1546606378865'>
+            <name>should return environment variables for two contexts</name>
+            <title>should return environment variables for two contexts</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378865' status='passed' stop='1546606378866'>
+            <name>should return environment variables with precedence such that [0] will override [1]</name>
+            <title>should return environment variables with precedence such that [0] will override [1]</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378866' status='passed' stop='1546606378867'>
+            <name>Should get variables from helm-repository context</name>
+            <title>Should get variables from helm-repository context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

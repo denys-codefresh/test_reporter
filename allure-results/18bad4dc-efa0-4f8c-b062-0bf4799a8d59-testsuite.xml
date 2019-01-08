@@ -1,0 +1,135 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606393379' stop='1546606393381'>
+    <name>Sub rule verification</name>
+    <title>Sub rule verification</title>
+    <test-cases>
+        <test-case start='1546606393379' status='passed' stop='1546606393379'>
+            <name>should pass a value which is the same as the rule</name>
+            <title>should pass a value which is the same as the rule</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393379' status='passed' stop='1546606393379'>
+            <name>should fail a value which isn't the same as the rule</name>
+            <title>should fail a value which isn't the same as the rule</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393379' status='passed' stop='1546606393379'>
+            <name>should pass a value which is the same as the rule after variable interpolation</name>
+            <title>should pass a value which is the same as the rule after variable interpolation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393379' status='passed' stop='1546606393379'>
+            <name>should fail a value which isn't the same as the rule after variable interpolation</name>
+            <title>should fail a value which isn't the same as the rule after variable interpolation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393379' status='passed' stop='1546606393379'>
+            <name>should pass a value which is the same as the rule after variable interpolation with no brackets</name>
+            <title>should pass a value which is the same as the rule after variable interpolation with no brackets</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393379' status='passed' stop='1546606393380'>
+            <name>should fail a value which isn't the same as the rule after variable interpolation with no brackets</name>
+            <title>should fail a value which isn't the same as the rule after variable interpolation with no brackets</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393380' status='passed' stop='1546606393380'>
+            <name>should pass a value which isn't the same as the rule after multiple variable interpolation</name>
+            <title>should pass a value which isn't the same as the rule after multiple variable interpolation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393380' status='passed' stop='1546606393380'>
+            <name>should pass a value which is a match of the rule</name>
+            <title>should pass a value which is a match of the rule</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393380' status='passed' stop='1546606393380'>
+            <name>should fail a value which isn't a match of the rule</name>
+            <title>should fail a value which isn't a match of the rule</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393380' status='passed' stop='1546606393380'>
+            <name>should pass a value which is a match of the rule after variable interpolation</name>
+            <title>should pass a value which is a match of the rule after variable interpolation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393380' status='passed' stop='1546606393380'>
+            <name>should fail a value which isn't a match of the rule after variable interpolation</name>
+            <title>should fail a value which isn't a match of the rule after variable interpolation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393380' status='passed' stop='1546606393380'>
+            <name>should pass a value which is a match of the rule after variable interpolation with no brackets</name>
+            <title>should pass a value which is a match of the rule after variable interpolation with no brackets</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393380' status='passed' stop='1546606393380'>
+            <name>should fail a value which isn't a match of the rule after variable interpolation with no brackets</name>
+            <title>should fail a value which isn't a match of the rule after variable interpolation with no brackets</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393380' status='passed' stop='1546606393381'>
+            <name>should pass a value which isn't a match of the rule after multiple variable interpolation</name>
+            <title>should pass a value which isn't a match of the rule after multiple variable interpolation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393381' status='passed' stop='1546606393381'>
+            <name>should interpolate with using regex</name>
+            <title>should interpolate with using regex</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393381' status='passed' stop='1546606393381'>
+            <name>should not interpolate rule when using double dollar ($)</name>
+            <title>should not interpolate rule when using double dollar ($)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

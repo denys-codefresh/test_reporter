@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606356847' stop='1546606356953'>
+    <name>Stash Provider Unit Tests hasRepoAccess positive</name>
+    <title>Stash Provider Unit Tests hasRepoAccess positive</title>
+    <test-cases>
+        <test-case start='1546606356847' status='passed' stop='1546606356953'>
+            <name>should return true in case a user is connected and has access</name>
+            <title>should return true in case a user is connected and has access</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

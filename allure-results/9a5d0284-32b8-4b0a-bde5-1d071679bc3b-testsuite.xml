@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962849295' stop='1546962849299'>
+    <name>Onboarding logic unit test: get onboarding sections for user:</name>
+    <title>Onboarding logic unit test: get onboarding sections for user:</title>
+    <test-cases>
+        <test-case start='1546962849295' status='passed' stop='1546962849298'>
+            <name>user does not have row at onboarding collection</name>
+            <title>user does not have row at onboarding collection</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849298' status='passed' stop='1546962849299'>
+            <name>user have sections in db</name>
+            <title>user have sections in db</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

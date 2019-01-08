@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962841187' stop='1546962841264'>
+    <name>Accounts Unit Tests 2. update - updates user account 2.1 positive</name>
+    <title>Accounts Unit Tests 2. update - updates user account 2.1 positive</title>
+    <test-cases>
+        <test-case start='1546962841187' status='passed' stop='1546962841212'>
+            <name>2.1.1 should succeed when trying to update notifications type webhook with all required field</name>
+            <title>2.1.1 should succeed when trying to update notifications type webhook with all required field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962841212' status='passed' stop='1546962841239'>
+            <name>2.1.2 should succeed when trying to update notifications type slack with all required field</name>
+            <title>2.1.2 should succeed when trying to update notifications type slack with all required field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962841239' status='pending' stop='1546962841239'>
+            <name>2.1.3 should succeed when trying to update user email</name>
+            <title>2.1.3 should succeed when trying to update user email</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962841239' status='passed' stop='1546962841264'>
+            <name>2.1.4 should succeed when updating a specific notification</name>
+            <title>2.1.4 should succeed when updating a specific notification</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

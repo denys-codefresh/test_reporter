@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606385980' stop='1546606386145'>
+    <name>ECR Registry Unit Tests :Update</name>
+    <title>ECR Registry Unit Tests :Update</title>
+    <test-cases>
+        <test-case start='1546606385980' status='passed' stop='1546606386007'>
+            <name>should successfully update accessKeyId</name>
+            <title>should successfully update accessKeyId</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386007' status='passed' stop='1546606386031'>
+            <name>should successfully update secretAccessKey</name>
+            <title>should successfully update secretAccessKey</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386031' status='passed' stop='1546606386062'>
+            <name>should successfully update region</name>
+            <title>should successfully update region</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386062' status='passed' stop='1546606386089'>
+            <name>should fail to update accessKeyId to be empty</name>
+            <title>should fail to update accessKeyId to be empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386089' status='passed' stop='1546606386118'>
+            <name>should fail to update secretAccessKey to be empty</name>
+            <title>should fail to update secretAccessKey to be empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386118' status='passed' stop='1546606386145'>
+            <name>should fail to update region to be empty</name>
+            <title>should fail to update region to be empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

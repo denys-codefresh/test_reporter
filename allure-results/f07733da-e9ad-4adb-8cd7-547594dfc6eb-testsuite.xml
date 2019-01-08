@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606387087' stop='1546606387218'>
+    <name>Workflows Workflow statistic</name>
+    <title>Workflows Workflow statistic</title>
+    <test-cases>
+        <test-case start='1546606387087' status='passed' stop='1546606387133'>
+            <name>buildStatisticByPipeline</name>
+            <title>buildStatisticByPipeline</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606387133' status='passed' stop='1546606387176'>
+            <name>buildStatisticByPipeline with elected date</name>
+            <title>buildStatisticByPipeline with elected date</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606387176' status='passed' stop='1546606387218'>
+            <name>buildStatisticByPipeline with metrics</name>
+            <title>buildStatisticByPipeline with metrics</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962846778' stop='1546962848153'>
+    <name>Images Tests Images search</name>
+    <title>Images Tests Images search</title>
+    <test-cases>
+        <test-case start='1546962846778' status='passed' stop='1546962846836'>
+            <name>get only tagged images</name>
+            <title>get only tagged images</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846837' status='passed' stop='1546962846899'>
+            <name>get only untagged images</name>
+            <title>get only untagged images</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846899' status='passed' stop='1546962846962'>
+            <name>search with limit</name>
+            <title>search with limit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846962' status='passed' stop='1546962847025'>
+            <name>search with imageDisplayNameRegex</name>
+            <title>search with imageDisplayNameRegex</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962847025' status='passed' stop='1546962847086'>
+            <name>search with imageDisplayNameRegex - should failed</name>
+            <title>search with imageDisplayNameRegex - should failed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962847087' status='passed' stop='1546962847141'>
+            <name>search with limit and page</name>
+            <title>search with limit and page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962847141' status='passed' stop='1546962847209'>
+            <name>search with hash value</name>
+            <title>search with hash value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

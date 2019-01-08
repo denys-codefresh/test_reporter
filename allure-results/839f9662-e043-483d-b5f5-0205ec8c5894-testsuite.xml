@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941804012' stop='1546941804024'>
+    <name>monitor consul - handles all operations performed through consul getDockerNodes - get all docker nodes including extension of key value data negative tests</name>
+    <title>monitor consul - handles all operations performed through consul getDockerNodes - get all docker nodes including extension of key value data negative tests</title>
+    <test-cases>
+        <test-case start='1546941804012' status='passed' stop='1546941804015'>
+            <name>should return an error in case getting docker node services failed</name>
+            <title>should return an error in case getting docker node services failed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941804015' status='passed' stop='1546941804019'>
+            <name>should return an error in case getting docker nodes kv data failed</name>
+            <title>should return an error in case getting docker nodes kv data failed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941804019' status='passed' stop='1546941804024'>
+            <name>should return an error in case extending docker nodes with kv data failed</name>
+            <title>should return an error in case extending docker nodes with kv data failed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

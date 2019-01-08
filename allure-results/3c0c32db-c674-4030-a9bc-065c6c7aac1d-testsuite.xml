@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941826530' stop='1546941826608'>
+    <name>Images Tests getImage - gets an image by id positive</name>
+    <title>Images Tests getImage - gets an image by id positive</title>
+    <test-cases>
+        <test-case start='1546941826530' status='passed' stop='1546941826572'>
+            <name>should respond with the build in case the requesting user is from the associated account get by imageId</name>
+            <title>should respond with the build in case the requesting user is from the associated account get by imageId</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941826573' status='passed' stop='1546941826608'>
+            <name>should respond with the build in case the requesting user is from the associated account (get by internalImageId)</name>
+            <title>should respond with the build in case the requesting user is from the associated account (get by internalImageId)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

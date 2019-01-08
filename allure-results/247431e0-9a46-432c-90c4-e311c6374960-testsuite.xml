@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941783010' stop='1546941783037'>
+    <name>Github Provider Unit Tests 6. hasRepoAccess positive</name>
+    <title>Github Provider Unit Tests 6. hasRepoAccess positive</title>
+    <test-cases>
+        <test-case start='1546941783011' status='passed' stop='1546941783027'>
+            <name>should return true in case a user is connected and has access</name>
+            <title>should return true in case a user is connected and has access</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941783027' status='passed' stop='1546941783037'>
+            <name>should return true in case a user is not connected and repo is public</name>
+            <title>should return true in case a user is not connected and repo is public</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

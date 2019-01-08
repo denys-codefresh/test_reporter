@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941820023' stop='1546941820026'>
+    <name>Agent controller unit test get tasks positive</name>
+    <title>Agent controller unit test get tasks positive</title>
+    <test-cases>
+        <test-case start='1546941820023' status='passed' stop='1546941820026'>
+            <name>should return tasks</name>
+            <title>should return tasks</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

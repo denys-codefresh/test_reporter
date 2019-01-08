@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941835536' stop='1546941835538'>
+    <name>Cloud provider Gce Constructor</name>
+    <title>Cloud provider Gce Constructor</title>
+    <test-cases>
+        <test-case start='1546941835536' status='passed' stop='1546941835538'>
+            <name>providerName field should be set to gce</name>
+            <title>providerName field should be set to gce</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

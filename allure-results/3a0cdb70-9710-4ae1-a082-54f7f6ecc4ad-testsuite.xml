@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606393334' stop='1546606393344'>
+    <name>Account Limits Unit Tests Interval Manipulation</name>
+    <title>Account Limits Unit Tests Interval Manipulation</title>
+    <test-cases>
+        <test-case start='1546606393334' status='passed' stop='1546606393344'>
+            <name>should be able to configure the interval</name>
+            <title>should be able to configure the interval</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393344' status='pending' stop='1546606393344'>
+            <name>should fail to configure the interval with an unsupported value</name>
+            <title>should fail to configure the interval with an unsupported value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

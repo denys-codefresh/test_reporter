@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606358083' stop='1546606358083'>
+    <name>Progress Tests 1. Progress Job Status</name>
+    <title>Progress Tests 1. Progress Job Status</title>
+    <test-cases>
+        <test-case start='1546606358083' status='passed' stop='1546606358083'>
+            <name>1.1 Make sure statuses have the expected value</name>
+            <title>1.1 Make sure statuses have the expected value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606358083' status='passed' stop='1546606358083'>
+            <name>1.2 Validate job statuses</name>
+            <title>1.2 Validate job statuses</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606358083' status='passed' stop='1546606358083'>
+            <name>1.2 Check in-progress job statuses</name>
+            <title>1.2 Check in-progress job statuses</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606363655' stop='1546606363742'>
+    <name>BitbucketServer Provider Unit Tests getCredentials BitbucketServer</name>
+    <title>BitbucketServer Provider Unit Tests getCredentials BitbucketServer</title>
+    <test-cases>
+        <test-case start='1546606363655' status='passed' stop='1546606363741'>
+            <name>BitbucketServer should return credentials in git format</name>
+            <title>BitbucketServer should return credentials in git format</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

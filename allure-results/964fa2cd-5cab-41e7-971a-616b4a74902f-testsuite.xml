@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606357865' stop='1546606357867'>
+    <name>CFExtendedError testing Ctor testing Positive:</name>
+    <title>CFExtendedError testing Ctor testing Positive:</title>
+    <test-cases>
+        <test-case start='1546606357865' status='passed' stop='1546606357865'>
+            <name>Should accept ctor with no params</name>
+            <title>Should accept ctor with no params</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357865' status='passed' stop='1546606357866'>
+            <name>Should accept ctor with just cause</name>
+            <title>Should accept ctor with just cause</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357866' status='passed' stop='1546606357866'>
+            <name>Should accept ctor with just options</name>
+            <title>Should accept ctor with just options</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357866' status='passed' stop='1546606357866'>
+            <name>Should accept ctor with cause and options</name>
+            <title>Should accept ctor with cause and options</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357866' status='passed' stop='1546606357867'>
+            <name>Should avoid option in case that passing empty object</name>
+            <title>Should avoid option in case that passing empty object</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962849286' stop='1546962849289'>
+    <name>Docker Node API - validate validate validateRequest positive</name>
+    <title>Docker Node API - validate validate validateRequest positive</title>
+    <test-cases>
+        <test-case start='1546962849286' status='passed' stop='1546962849287'>
+            <name>validate internal node</name>
+            <title>validate internal node</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849287' status='passed' stop='1546962849289'>
+            <name>validate Customer Node</name>
+            <title>validate Customer Node</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

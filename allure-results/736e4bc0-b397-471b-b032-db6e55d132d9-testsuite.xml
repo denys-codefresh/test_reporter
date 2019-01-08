@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851271' stop='1546962851289'>
+    <name>Git Trigger Model generate endpoint positive</name>
+    <title>Git Trigger Model generate endpoint positive</title>
+    <test-cases>
+        <test-case start='1546962851271' status='passed' stop='1546962851275'>
+            <name>expect endpoint to not exist before generating it</name>
+            <title>expect endpoint to not exist before generating it</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851275' status='passed' stop='1546962851281'>
+            <name>expect id to not exist before generating endpoint</name>
+            <title>expect id to not exist before generating endpoint</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851282' status='passed' stop='1546962851288'>
+            <name>endpoint should equal required value</name>
+            <title>endpoint should equal required value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

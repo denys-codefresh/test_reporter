@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962847210' stop='1546962848152'>
+    <name>Images Tests Images search Metadata search</name>
+    <title>Images Tests Images search Metadata search</title>
+    <test-cases>
+        <test-case start='1546962847210' status='passed' stop='1546962847272'>
+            <name>search only volumes</name>
+            <title>search only volumes</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962847272' status='passed' stop='1546962847335'>
+            <name>search only non volumes</name>
+            <title>search only non volumes</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962847335' status='passed' stop='1546962847415'>
+            <name>search string metadata</name>
+            <title>search string metadata</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962847415' status='passed' stop='1546962847506'>
+            <name>search string metadata multiple values</name>
+            <title>search string metadata multiple values</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962847506' status='passed' stop='1546962847594'>
+            <name>search number val with $gt</name>
+            <title>search number val with $gt</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962847594' status='passed' stop='1546962847689'>
+            <name>search number val with $lt</name>
+            <title>search number val with $lt</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962847689' status='passed' stop='1546962847782'>
+            <name>search number val with $gt and $lt</name>
+            <title>search number val with $gt and $lt</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962847782' status='passed' stop='1546962847882'>
+            <name>search percentage val with $gt</name>
+            <title>search percentage val with $gt</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962847882' status='passed' stop='1546962847975'>
+            <name>search percentage val with $lt</name>
+            <title>search percentage val with $lt</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962847975' status='passed' stop='1546962848069'>
+            <name>search percentage val with $gt and $lt</name>
+            <title>search percentage val with $gt and $lt</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962848069' status='passed' stop='1546962848152'>
+            <name>search only volumes and by string metadata</name>
+            <title>search only volumes and by string metadata</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

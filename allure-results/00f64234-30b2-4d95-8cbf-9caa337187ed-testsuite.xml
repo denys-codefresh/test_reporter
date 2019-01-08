@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384509' stop='1546606384513'>
+    <name>Kubernetes logic _getImageId</name>
+    <title>Kubernetes logic _getImageId</title>
+    <test-cases>
+        <test-case start='1546606384509' status='passed' stop='1546606384511'>
+            <name>with prefix docker-pullable:// from cfcr</name>
+            <title>with prefix docker-pullable:// from cfcr</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384511' status='passed' stop='1546606384512'>
+            <name>with prefix docker-pullable:// from other registry should resolve empty</name>
+            <title>with prefix docker-pullable:// from other registry should resolve empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384512' status='passed' stop='1546606384513'>
+            <name>with prefix docker:// from docker default registry</name>
+            <title>with prefix docker:// from docker default registry</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

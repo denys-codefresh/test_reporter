@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941820038' stop='1546941820059'>
+    <name>Badge controller unit tests Tests for public services Error badges handling</name>
+    <title>Badge controller unit tests Tests for public services Error badges handling</title>
+    <test-cases>
+        <test-case start='1546941820038' status='passed' stop='1546941820041'>
+            <name>Should handle an error when account return err and create invalid request badge</name>
+            <title>Should handle an error when account return err and create invalid request badge</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820041' status='passed' stop='1546941820042'>
+            <name>Should handle an error when account not found and create invalid request badge</name>
+            <title>Should handle an error when account not found and create invalid request badge</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820042' status='passed' stop='1546941820044'>
+            <name>Should handle an error when account not provided and create invalid request badge</name>
+            <title>Should handle an error when account not provided and create invalid request badge</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820044' status='passed' stop='1546941820046'>
+            <name>Should handle an error or pipeline not found  during getPipeline and then create pipeline not found badge</name>
+            <title>Should handle an error or pipeline not found  during getPipeline and then create pipeline not found badge</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820046' status='passed' stop='1546941820048'>
+            <name>Should handle an error or service not found during getService and then create service not found badge</name>
+            <title>Should handle an error or service not found during getService and then create service not found badge</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820048' status='passed' stop='1546941820051'>
+            <name>Should handle an error when requesting badge and return invalid request </name>
+            <title>Should handle an error when requesting badge and return invalid request </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820051' status='passed' stop='1546941820053'>
+            <name>Should handle an error when BadgeBuild constructor throws an exeption</name>
+            <title>Should handle an error when BadgeBuild constructor throws an exeption</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820053' status='passed' stop='1546941820056'>
+            <name>Should handle an error when permission to service denied and create no permission badge</name>
+            <title>Should handle an error when permission to service denied and create no permission badge</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820056' status='passed' stop='1546941820058'>
+            <name>Should serve error badge</name>
+            <title>Should serve error badge</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820058' status='passed' stop='1546941820059'>
+            <name>Should serve error badge with default value</name>
+            <title>Should serve error badge with default value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

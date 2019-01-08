@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606359985' stop='1546606359987'>
+    <name>User Integration Tests 7. create new user 7.2 negative</name>
+    <title>User Integration Tests 7. create new user 7.2 negative</title>
+    <test-cases>
+        <test-case start='1546606359985' status='passed' stop='1546606359987'>
+            <name>7.2.1 it should fail when trying to pass notification of type pr</name>
+            <title>7.2.1 it should fail when trying to pass notification of type pr</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

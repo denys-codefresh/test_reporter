@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606387065' stop='1546606387073'>
+    <name>Workflow Events tests resolve internal images positive tests</name>
+    <title>Workflow Events tests resolve internal images positive tests</title>
+    <test-cases>
+        <test-case start='1546606387065' status='passed' stop='1546606387070'>
+            <name>should return an empty object in case no images was provided on the reuqest</name>
+            <title>should return an empty object in case no images was provided on the reuqest</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606387070' status='passed' stop='1546606387071'>
+            <name>should return an object containing only the mapping between images that were found</name>
+            <title>should return an object containing only the mapping between images that were found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606387071' status='passed' stop='1546606387073'>
+            <name>should add 'latest' as the image tag if not tag appears on the image</name>
+            <title>should add 'latest' as the image tag if not tag appears on the image</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941780390' stop='1546941781438'>
+    <name>BitbucketServer Provider Unit Tests BS_provider Repositories</name>
+    <title>BitbucketServer Provider Unit Tests BS_provider Repositories</title>
+    <test-cases>
+        <test-case start='1546941780390' status='passed' stop='1546941780717'>
+            <name>BS_provider getRepo</name>
+            <title>BS_provider getRepo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780717' status='passed' stop='1546941780838'>
+            <name>BS_provider getRepos</name>
+            <title>BS_provider getRepos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780838' status='passed' stop='1546941780953'>
+            <name>BS_provider getRepos - error</name>
+            <title>BS_provider getRepos - error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780953' status='passed' stop='1546941781069'>
+            <name>BS_provider getRepos - error 401</name>
+            <title>BS_provider getRepos - error 401</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941781069' status='passed' stop='1546941781177'>
+            <name>BS_provider getBranches</name>
+            <title>BS_provider getBranches</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941781177' status='passed' stop='1546941781297'>
+            <name>BS_provider getCommits - single</name>
+            <title>BS_provider getCommits - single</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941781303' status='passed' stop='1546941781438'>
+            <name>BS_provider getCommits - multi</name>
+            <title>BS_provider getCommits - multi</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

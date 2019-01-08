@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941802196' stop='1546941802217'>
+    <name>User Integration Tests 4. addPendingUser - adds a not existing, never logged in user in the system as pending user 4.1 positive</name>
+    <title>User Integration Tests 4. addPendingUser - adds a not existing, never logged in user in the system as pending user 4.1 positive</title>
+    <test-cases>
+        <test-case start='1546941802196' status='passed' stop='1546941802217'>
+            <name>4.1.1 create a new pending user</name>
+            <title>4.1.1 create a new pending user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

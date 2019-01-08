@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384762' stop='1546606384909'>
+    <name>Bintray Registry Unit Tests :Create</name>
+    <title>Bintray Registry Unit Tests :Create</title>
+    <test-cases>
+        <test-case start='1546606384762' status='passed' stop='1546606384790'>
+            <name>should successfully create a new registry record</name>
+            <title>should successfully create a new registry record</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384790' status='passed' stop='1546606384814'>
+            <name>should mark the first created registry as default</name>
+            <title>should mark the first created registry as default</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384814' status='passed' stop='1546606384835'>
+            <name>should fail on missing credentials (all)</name>
+            <title>should fail on missing credentials (all)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384835' status='passed' stop='1546606384858'>
+            <name>should fail on missing credentials (username)</name>
+            <title>should fail on missing credentials (username)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384858' status='passed' stop='1546606384885'>
+            <name>should fail on missing credentials (token)</name>
+            <title>should fail on missing credentials (token)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384885' status='passed' stop='1546606384909'>
+            <name>should fail on missing domain</name>
+            <title>should fail on missing domain</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

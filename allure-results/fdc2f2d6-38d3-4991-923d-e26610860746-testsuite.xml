@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606332111' stop='1546606332211'>
+    <name>Safe Unit Tests Get Or Create</name>
+    <title>Safe Unit Tests Get Or Create</title>
+    <test-cases>
+        <test-case start='1546606332112' status='passed' stop='1546606332180'>
+            <name>Create a new safe</name>
+            <title>Create a new safe</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606332180' status='passed' stop='1546606332210'>
+            <name>Create a new safe and get it once more</name>
+            <title>Create a new safe and get it once more</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

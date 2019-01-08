@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962827215' stop='1546962827216'>
+    <name>monitor nodes - handles all operations on nodes removeNode - remove a node negative tests</name>
+    <title>monitor nodes - handles all operations on nodes removeNode - remove a node negative tests</title>
+    <test-cases>
+        <test-case start='1546962827215' status='passed' stop='1546962827216'>
+            <name>should throw an error in case nodeId param is missing</name>
+            <title>should throw an error in case nodeId param is missing</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

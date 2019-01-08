@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941836324' stop='1546941836330'>
+    <name>Build badges unit tests Negative:</name>
+    <title>Build badges unit tests Negative:</title>
+    <test-cases>
+        <test-case start='1546941836324' status='passed' stop='1546941836325'>
+            <name>Should throw an error when created without pipeline id</name>
+            <title>Should throw an error when created without pipeline id</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836325' status='passed' stop='1546941836326'>
+            <name>Should throw an error when pipeline id not found</name>
+            <title>Should throw an error when pipeline id not found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836326' status='passed' stop='1546941836327'>
+            <name>Should throw an error when workflow not found for pipeline id and branch</name>
+            <title>Should throw an error when workflow not found for pipeline id and branch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836327' status='passed' stop='1546941836329'>
+            <name>Should validate error in case of getPipelineBuildStatusForBranch field </name>
+            <title>Should validate error in case of getPipelineBuildStatusForBranch field </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836329' status='passed' stop='1546941836330'>
+            <name>Should validate error in case of pipeline not found</name>
+            <title>Should validate error in case of pipeline not found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

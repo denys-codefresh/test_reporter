@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962844936' stop='1546962844945'>
+    <name>Encrypted Env Vars Unit Tests Encrypted Env Vars</name>
+    <title>Encrypted Env Vars Unit Tests Encrypted Env Vars</title>
+    <test-cases>
+        <test-case start='1546962844936' status='passed' stop='1546962844936'>
+            <name>Mask encrypted elements</name>
+            <title>Mask encrypted elements</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962844936' status='passed' stop='1546962844939'>
+            <name>Decrypt vars</name>
+            <title>Decrypt vars</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962844939' status='passed' stop='1546962844939'>
+            <name>Decrypt non existing vars</name>
+            <title>Decrypt non existing vars</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

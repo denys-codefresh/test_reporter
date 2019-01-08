@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962822702' stop='1546962822710'>
+    <name>Cache testing</name>
+    <title>Cache testing</title>
+    <test-cases>
+        <test-case start='1546962822702' status='passed' stop='1546962822704'>
+            <name>Should return undefined when cache not exist</name>
+            <title>Should return undefined when cache not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962822704' status='passed' stop='1546962822705'>
+            <name>Should return cache after putting</name>
+            <title>Should return cache after putting</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962822706' status='passed' stop='1546962822707'>
+            <name>Should throw an error when putting into cache</name>
+            <title>Should throw an error when putting into cache</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962822707' status='passed' stop='1546962822709'>
+            <name>Should get by pattern</name>
+            <title>Should get by pattern</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962822709' status='passed' stop='1546962822710'>
+            <name>should return cache after putting only once in case getAndDelete flag is set</name>
+            <title>should return cache after putting only once in case getAndDelete flag is set</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

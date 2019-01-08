@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941827274' stop='1546941827343'>
+    <name>Kubernetes logic prepareInstallChartWorkflow, preparePromoteChartWorkflow</name>
+    <title>Kubernetes logic prepareInstallChartWorkflow, preparePromoteChartWorkflow</title>
+    <test-cases>
+        <test-case start='1546941827274' status='passed' stop='1546941827299'>
+            <name>Check environment variables (except CHART_REPO_URL and VALUES) for private helm repo</name>
+            <title>Check environment variables (except CHART_REPO_URL and VALUES) for private helm repo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827299' status='passed' stop='1546941827319'>
+            <name>Check environment variables (except CHART_REPO_URL and VALUES) for public helm repo</name>
+            <title>Check environment variables (except CHART_REPO_URL and VALUES) for public helm repo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827319' status='passed' stop='1546941827339'>
+            <name>Check environment variables for promotion</name>
+            <title>Check environment variables for promotion</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

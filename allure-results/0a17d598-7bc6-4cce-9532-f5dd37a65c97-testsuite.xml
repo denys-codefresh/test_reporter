@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962827222' stop='1546962827225'>
+    <name>monitor nodes - handles all operations on nodes getNode - retrieves a node if it exists negative tests</name>
+    <title>monitor nodes - handles all operations on nodes getNode - retrieves a node if it exists negative tests</title>
+    <test-cases>
+        <test-case start='1546962827222' status='passed' stop='1546962827223'>
+            <name>should throw an error in case nodeId param is missing</name>
+            <title>should throw an error in case nodeId param is missing</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827223' status='passed' stop='1546962827224'>
+            <name>should throw an error in case the nodes does not exist</name>
+            <title>should throw an error in case the nodes does not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

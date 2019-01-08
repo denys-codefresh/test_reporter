@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962823924' stop='1546962823925'>
+    <name>Public Services Unit Tests isServicePublic</name>
+    <title>Public Services Unit Tests isServicePublic</title>
+    <test-cases>
+        <test-case start='1546962823924' status='passed' stop='1546962823925'>
+            <name>should always return false</name>
+            <title>should always return false</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

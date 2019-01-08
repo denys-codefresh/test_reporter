@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606362854' stop='1546606362859'>
+    <name>Bitbucket Provider Unit Tests 5. getBracnhes positive</name>
+    <title>Bitbucket Provider Unit Tests 5. getBracnhes positive</title>
+    <test-cases>
+        <test-case start='1546606362854' status='passed' stop='1546606362856'>
+            <name>should succeeed in case there is only 1 single page</name>
+            <title>should succeeed in case there is only 1 single page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606362856' status='passed' stop='1546606362859'>
+            <name>should succeed in case there are multiple pages</name>
+            <title>should succeed in case there are multiple pages</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

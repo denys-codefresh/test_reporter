@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962833707' stop='1546962834155'>
+    <name>Stash Provider Unit Tests Repositories</name>
+    <title>Stash Provider Unit Tests Repositories</title>
+    <test-cases>
+        <test-case start='1546962833707' status='passed' stop='1546962833776'>
+            <name>getRepo</name>
+            <title>getRepo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962833776' status='passed' stop='1546962833834'>
+            <name>getRepos</name>
+            <title>getRepos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962833834' status='passed' stop='1546962833899'>
+            <name>getRepos - error</name>
+            <title>getRepos - error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962833899' status='passed' stop='1546962833963'>
+            <name>getRepos - error 401</name>
+            <title>getRepos - error 401</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962833963' status='passed' stop='1546962834031'>
+            <name>getBranches</name>
+            <title>getBranches</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962834032' status='passed' stop='1546962834098'>
+            <name>getCommits - single</name>
+            <title>getCommits - single</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962834098' status='passed' stop='1546962834155'>
+            <name>getCommits - multi</name>
+            <title>getCommits - multi</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

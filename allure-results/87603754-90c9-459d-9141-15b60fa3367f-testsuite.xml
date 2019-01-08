@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941823173' stop='1546941823174'>
+    <name>Internal idp</name>
+    <title>Internal idp</title>
+    <test-cases>
+        <test-case start='1546941823173' status='passed' stop='1546941823173'>
+            <name>refreshAccessToken should return new access token for google</name>
+            <title>refreshAccessToken should return new access token for google</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941823174' status='passed' stop='1546941823174'>
+            <name>refreshAccessToken should throw error if idp don`t have handler</name>
+            <title>refreshAccessToken should throw error if idp don`t have handler</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851350' stop='1546962851362'>
+    <name>pipeline logic unit test Error handling</name>
+    <title>pipeline logic unit test Error handling</title>
+    <test-cases>
+        <test-case start='1546962851350' status='passed' stop='1546962851353'>
+            <name>getAllRuntimeEnvironmentsByAccountId Should throw error when no runtime environments were found</name>
+            <title>getAllRuntimeEnvironmentsByAccountId Should throw error when no runtime environments were found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851353' status='passed' stop='1546962851354'>
+            <name>getRuntimeEnvironmentByNameForAccount Should throw error when no runtime environments were found by the given name</name>
+            <title>getRuntimeEnvironmentByNameForAccount Should throw error when no runtime environments were found by the given name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851354' status='passed' stop='1546962851355'>
+            <name>upsertRuntimeEnvironmentForAccount Should throw error when no runtime environments were found by the given name</name>
+            <title>upsertRuntimeEnvironmentForAccount Should throw error when no runtime environments were found by the given name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851355' status='passed' stop='1546962851356'>
+            <name>setDefaultForAccount Should throw error when no runtime environments were found by the given name</name>
+            <title>setDefaultForAccount Should throw error when no runtime environments were found by the given name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851356' status='passed' stop='1546962851357'>
+            <name>deleteRuntimeEnvironmentByNameForAccount Should throw error when no runtime environments were found by the given name</name>
+            <title>deleteRuntimeEnvironmentByNameForAccount Should throw error when no runtime environments were found by the given name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851358' status='passed' stop='1546962851359'>
+            <name>setRuntimeEnvironmentStatusForAccount Should throw error when no runtime environments were found by the given name</name>
+            <title>setRuntimeEnvironmentStatusForAccount Should throw error when no runtime environments were found by the given name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851359' status='passed' stop='1546962851360'>
+            <name>getRuntimeEnvironmentForWorkflow Should throw error when no runtime environments were found by the given name</name>
+            <title>getRuntimeEnvironmentForWorkflow Should throw error when no runtime environments were found by the given name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851360' status='passed' stop='1546962851362'>
+            <name>getAccountDefaultRE Should throw error when no runtime environments were found by the given name</name>
+            <title>getAccountDefaultRE Should throw error when no runtime environments were found by the given name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606377207' stop='1546606377209'>
+    <name>Agent controller unit test get tasks negative</name>
+    <title>Agent controller unit test get tasks negative</title>
+    <test-cases>
+        <test-case start='1546606377207' status='passed' stop='1546606377208'>
+            <name>should throw an error in case of failure to bring awaiting tasks</name>
+            <title>should throw an error in case of failure to bring awaiting tasks</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

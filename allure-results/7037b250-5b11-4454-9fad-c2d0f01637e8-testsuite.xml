@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606377240' stop='1546606377244'>
+    <name>Badge controller unit tests Tests for private services</name>
+    <title>Badge controller unit tests Tests for private services</title>
+    <test-cases>
+        <test-case start='1546606377240' status='passed' stop='1546606377241'>
+            <name>Should validate proper flow when all params received correctly</name>
+            <title>Should validate proper flow when all params received correctly</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606377242' status='passed' stop='1546606377244'>
+            <name>Should handle an error when account owner is not the one as the service account and create no permission badge</name>
+            <title>Should handle an error when account owner is not the one as the service account and create no permission badge</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

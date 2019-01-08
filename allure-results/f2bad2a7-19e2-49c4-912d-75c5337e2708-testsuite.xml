@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962826128' stop='1546962826134'>
+    <name>monitor listener listenOnEvents - starts listening on events positive tests</name>
+    <title>monitor listener listenOnEvents - starts listening on events positive tests</title>
+    <test-cases>
+        <test-case start='1546962826128' status='passed' stop='1546962826130'>
+            <name>should handle an event that has a matching function</name>
+            <title>should handle an event that has a matching function</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962826130' status='passed' stop='1546962826133'>
+            <name>should not do anything when getting unknown event</name>
+            <title>should not do anything when getting unknown event</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

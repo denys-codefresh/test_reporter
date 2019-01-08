@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962798176' stop='1546962798871'>
+    <name>Authentication Tests - Routes 1. Routing Tests</name>
+    <title>Authentication Tests - Routes 1. Routing Tests</title>
+    <test-cases>
+        <test-case start='1546962798177' status='passed' stop='1546962798198'>
+            <name>1.1 should respond with a redirect url for an existing provider</name>
+            <title>1.1 should respond with a redirect url for an existing provider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962798198' status='passed' stop='1546962798207'>
+            <name>1.2 should respond with 400 for a provider that does not exist</name>
+            <title>1.2 should respond with 400 for a provider that does not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962798207' status='passed' stop='1546962798214'>
+            <name>1.3 should respond with 404 for a a missing provider</name>
+            <title>1.3 should respond with 404 for a a missing provider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962798215' status='passed' stop='1546962798354'>
+            <name>1.4 should populate the req object with the user providing a valid accessToken</name>
+            <title>1.4 should populate the req object with the user providing a valid accessToken</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962798354' status='passed' stop='1546962798412'>
+            <name>1.5 should populate the req object with the user providing a valid accessToken</name>
+            <title>1.5 should populate the req object with the user providing a valid accessToken</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962798412' status='passed' stop='1546962798419'>
+            <name>1.6 should return 401 for a route needed authentication when token is not specified</name>
+            <title>1.6 should return 401 for a route needed authentication when token is not specified</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962798419' status='passed' stop='1546962798425'>
+            <name>1.7 should return 401 for a route needed authentication when local token is not valid</name>
+            <title>1.7 should return 401 for a route needed authentication when local token is not valid</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962798425' status='passed' stop='1546962798434'>
+            <name>1.8 should return 401 for a route needed authentication when local token is valid but user does not exist in database</name>
+            <title>1.8 should return 401 for a route needed authentication when local token is valid but user does not exist in database</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962798434' status='passed' stop='1546962798610'>
+            <name>1.10 should return 307 for a route needed authentication when local token is valid but user has no user name</name>
+            <title>1.10 should return 307 for a route needed authentication when local token is valid but user has no user name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962798610' status='passed' stop='1546962798621'>
+            <name>1.11 should return 400 not existing user</name>
+            <title>1.11 should return 400 not existing user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962798621' status='passed' stop='1546962798871'>
+            <name>1.12 should return 401 for SSO not configured for the user user</name>
+            <title>1.12 should return 401 for SSO not configured for the user user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

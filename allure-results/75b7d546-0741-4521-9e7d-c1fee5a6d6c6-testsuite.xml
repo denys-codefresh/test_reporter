@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941834118' stop='1546941834131'>
+    <name>monitor node Docker-node class updateStatusByLimits</name>
+    <title>monitor node Docker-node class updateStatusByLimits</title>
+    <test-cases>
+        <test-case start='1546941834118' status='passed' stop='1546941834119'>
+            <name>should call limit pause in case running flows equals than maxRunningFlows and node is in status running</name>
+            <title>should call limit pause in case running flows equals than maxRunningFlows and node is in status running</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941834119' status='passed' stop='1546941834120'>
+            <name>should call limit pause in case containers are greater than maxContainers and node is in status running</name>
+            <title>should call limit pause in case containers are greater than maxContainers and node is in status running</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941834120' status='passed' stop='1546941834125'>
+            <name>should not call limit pause in case running flows are greater than maxRunningFlows and node is in status different than running</name>
+            <title>should not call limit pause in case running flows are greater than maxRunningFlows and node is in status different than running</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941834125' status='passed' stop='1546941834127'>
+            <name>should call limit pause in case containers count equals maxContainers and node is in status running</name>
+            <title>should call limit pause in case containers count equals maxContainers and node is in status running</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941834127' status='passed' stop='1546941834128'>
+            <name>should call limit pause in case containers count is greater than maxContainers and node is in status running</name>
+            <title>should call limit pause in case containers count is greater than maxContainers and node is in status running</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941834128' status='passed' stop='1546941834129'>
+            <name>should not call limit pause in case containers count equals maxContainers and node is in status different than running</name>
+            <title>should not call limit pause in case containers count equals maxContainers and node is in status different than running</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941834129' status='passed' stop='1546941834130'>
+            <name>should call unpause in case the node was in limitPause status and passed all restrictions</name>
+            <title>should call unpause in case the node was in limitPause status and passed all restrictions</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941834130' status='passed' stop='1546941834131'>
+            <name>should not call unpause in case the node was in limitPause status and passed all restrictions and status is different than limitPause</name>
+            <title>should not call unpause in case the node was in limitPause status and passed all restrictions and status is different than limitPause</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

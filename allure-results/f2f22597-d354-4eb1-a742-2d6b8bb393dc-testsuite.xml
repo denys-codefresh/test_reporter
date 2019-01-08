@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606390634' stop='1546606390739'>
+    <name>Workflows Find ScmMetadata</name>
+    <title>Workflows Find ScmMetadata</title>
+    <test-cases>
+        <test-case start='1546606390634' status='passed' stop='1546606390701'>
+            <name>Find ScmMetadata by process id</name>
+            <title>Find ScmMetadata by process id</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606390701' status='passed' stop='1546606390739'>
+            <name>Find non existent request</name>
+            <title>Find non existent request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

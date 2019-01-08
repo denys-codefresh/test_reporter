@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941801538' stop='1546941801650'>
+    <name>Progress Tests 7. Downloadable progress logs</name>
+    <title>Progress Tests 7. Downloadable progress logs</title>
+    <test-cases>
+        <test-case start='1546941801538' status='passed' stop='1546941801614'>
+            <name>7.1 Download un-archived progress</name>
+            <title>7.1 Download un-archived progress</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941801614' status='passed' stop='1546941801650'>
+            <name>7.2 Download archived progress</name>
+            <title>7.2 Download archived progress</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

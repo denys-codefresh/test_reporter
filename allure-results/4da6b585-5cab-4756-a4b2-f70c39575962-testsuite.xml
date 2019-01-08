@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941820886' stop='1546941820934'>
+    <name>Sections controller unit tests Get section</name>
+    <title>Sections controller unit tests Get section</title>
+    <test-cases>
+        <test-case start='1546941820886' status='passed' stop='1546941820898'>
+            <name>should response with 200 and section</name>
+            <title>should response with 200 and section</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820898' status='passed' stop='1546941820909'>
+            <name>should throw NotFoundGatewayError if section not found in account</name>
+            <title>should throw NotFoundGatewayError if section not found in account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

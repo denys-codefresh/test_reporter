@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606360369' stop='1546606361376'>
+    <name>monitor consul - handles all operations performed through consul start - starts all listeners</name>
+    <title>monitor consul - handles all operations performed through consul start - starts all listeners</title>
+    <test-cases>
+        <test-case start='1546606360369' status='passed' stop='1546606361376'>
+            <name>should succeed in starting</name>
+            <title>should succeed in starting</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

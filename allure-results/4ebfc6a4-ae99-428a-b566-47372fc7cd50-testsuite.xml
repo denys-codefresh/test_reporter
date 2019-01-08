@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941835618' stop='1546941835619'>
+    <name>Get Planner</name>
+    <title>Get Planner</title>
+    <test-cases>
+        <test-case start='1546941835618' status='passed' stop='1546941835619'>
+            <name>Of unknown version</name>
+            <title>Of unknown version</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835619' status='passed' stop='1546941835619'>
+            <name>For an unspecified version (default planner)</name>
+            <title>For an unspecified version (default planner)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835619' status='passed' stop='1546941835619'>
+            <name>For a specified version </name>
+            <title>For a specified version </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

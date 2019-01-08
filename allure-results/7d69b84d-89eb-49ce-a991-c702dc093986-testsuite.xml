@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606385082' stop='1546606385230'>
+    <name>CFCR Registry Unit Tests :Create</name>
+    <title>CFCR Registry Unit Tests :Create</title>
+    <test-cases>
+        <test-case start='1546606385082' status='passed' stop='1546606385111'>
+            <name>should successfully create a new registry record</name>
+            <title>should successfully create a new registry record</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606385111' status='passed' stop='1546606385135'>
+            <name>should mark the first created registry as default</name>
+            <title>should mark the first created registry as default</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606385135' status='passed' stop='1546606385157'>
+            <name>should fail on missing credentials (all)</name>
+            <title>should fail on missing credentials (all)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606385157' status='passed' stop='1546606385184'>
+            <name>should fail on missing credentials (username)</name>
+            <title>should fail on missing credentials (username)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606385184' status='passed' stop='1546606385206'>
+            <name>should fail on missing credentials (password)</name>
+            <title>should fail on missing credentials (password)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606385206' status='passed' stop='1546606385230'>
+            <name>should fail when creating two cfcr entries</name>
+            <title>should fail when creating two cfcr entries</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

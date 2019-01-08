@@ -1,0 +1,67 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962841886' stop='1546962841886'>
+    <name>Admin Account Integration Tests Add a new account</name>
+    <title>Admin Account Integration Tests Add a new account</title>
+    <test-cases>
+        <test-case start='1546962841886' status='pending' stop='1546962841886'>
+            <name>Fail to subscribe the account</name>
+            <title>Fail to subscribe the account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962841886' status='pending' stop='1546962841886'>
+            <name>Private runtime account without privateAccountOwner</name>
+            <title>Private runtime account without privateAccountOwner</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962841886' status='pending' stop='1546962841886'>
+            <name>Shared runtime account</name>
+            <title>Shared runtime account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962841886' status='pending' stop='1546962841886'>
+            <name>Get or create private runtime account</name>
+            <title>Get or create private runtime account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962841886' status='pending' stop='1546962841886'>
+            <name>Private runtime account with privateAccountOwner</name>
+            <title>Private runtime account with privateAccountOwner</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

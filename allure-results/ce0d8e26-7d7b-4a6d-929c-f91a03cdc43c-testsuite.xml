@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606376006' stop='1546606376008'>
+    <name>WorkFLow process negative</name>
+    <title>WorkFLow process negative</title>
+    <test-cases>
+        <test-case start='1546606376007' status='pending' stop='1546606376007'>
+            <name>should not report to monitor in case error came from runtime</name>
+            <title>should not report to monitor in case error came from runtime</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606376007' status='pending' stop='1546606376007'>
+            <name>should report to monitor in case no worker got the job</name>
+            <title>should report to monitor in case no worker got the job</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

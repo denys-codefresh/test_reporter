@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386448' stop='1546606386453'>
+    <name>Git Trigger Model generate endpoint negative</name>
+    <title>Git Trigger Model generate endpoint negative</title>
+    <test-cases>
+        <test-case start='1546606386448' status='passed' stop='1546606386453'>
+            <name>expect to fail in case no endpoint is defined for a provider</name>
+            <title>expect to fail in case no endpoint is defined for a provider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

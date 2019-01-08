@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941827260' stop='1546941827264'>
+    <name>Kubernetes controller unit test Resolve selectors from query</name>
+    <title>Kubernetes controller unit test Resolve selectors from query</title>
+    <test-cases>
+        <test-case start='1546941827260' status='passed' stop='1546941827262'>
+            <name>with no selectors</name>
+            <title>with no selectors</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827262' status='passed' stop='1546941827263'>
+            <name>with one selector</name>
+            <title>with one selector</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827263' status='passed' stop='1546941827264'>
+            <name>with many selector</name>
+            <title>with many selector</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

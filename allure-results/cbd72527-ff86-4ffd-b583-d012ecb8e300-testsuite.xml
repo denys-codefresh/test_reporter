@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941829197' stop='1546941829218'>
+    <name>Repo Entity Tests add webhook positive</name>
+    <title>Repo Entity Tests add webhook positive</title>
+    <test-cases>
+        <test-case start='1546941829197' status='passed' stop='1546941829209'>
+            <name>should store git trigger entity in case externalId was added to gitTrigger and it is new</name>
+            <title>should store git trigger entity in case externalId was added to gitTrigger and it is new</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829209' status='passed' stop='1546941829218'>
+            <name>should not store git trigger entity in case the git trigger already exists in storage</name>
+            <title>should not store git trigger entity in case the git trigger already exists in storage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

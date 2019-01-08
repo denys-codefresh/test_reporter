@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606365926' stop='1546606365928'>
+    <name>Gitlab Provider Unit Tests getRepositoryFileURL</name>
+    <title>Gitlab Provider Unit Tests getRepositoryFileURL</title>
+    <test-cases>
+        <test-case start='1546606365926' status='passed' stop='1546606365928'>
+            <name>should return proper Gitlab file URL</name>
+            <title>should return proper Gitlab file URL</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,79 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606377103' stop='1546606377181'>
+    <name>Accounts Unit Tests 10. updateIntegrationSettings</name>
+    <title>Accounts Unit Tests 10. updateIntegrationSettings</title>
+    <test-cases>
+        <test-case start='1546606377103' status='passed' stop='1546606377112'>
+            <name>should update stash integration settings</name>
+            <title>should update stash integration settings</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606377112' status='passed' stop='1546606377121'>
+            <name>should keep stash token/password value if not specified</name>
+            <title>should keep stash token/password value if not specified</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606377121' status='passed' stop='1546606377130'>
+            <name>should remove stash credentials when deactivating</name>
+            <title>should remove stash credentials when deactivating</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606377130' status='passed' stop='1546606377138'>
+            <name>should update github integration settings</name>
+            <title>should update github integration settings</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606377138' status='passed' stop='1546606377147'>
+            <name>should keep github token/password value if not specified</name>
+            <title>should keep github token/password value if not specified</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606377147' status='passed' stop='1546606377155'>
+            <name>should remove github credentials when deactivating</name>
+            <title>should remove github credentials when deactivating</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606377155' status='passed' stop='1546606377162'>
+            <name>should update gitlab integration settings</name>
+            <title>should update gitlab integration settings</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606377162' status='passed' stop='1546606377172'>
+            <name>should keep gitlab token/password value if not specified</name>
+            <title>should keep gitlab token/password value if not specified</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606377172' status='passed' stop='1546606377180'>
+            <name>should remove gitlab credentials when deactivating</name>
+            <title>should remove gitlab credentials when deactivating</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962798873' stop='1546962798928'>
+    <name>Authentication Tests - Routes 2. API key Routing Tests</name>
+    <title>Authentication Tests - Routes 2. API key Routing Tests</title>
+    <test-cases>
+        <test-case start='1546962798873' status='passed' stop='1546962798891'>
+            <name>should fail with no api key</name>
+            <title>should fail with no api key</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962798891' status='passed' stop='1546962798908'>
+            <name>should fail with invalid api key</name>
+            <title>should fail with invalid api key</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962798908' status='passed' stop='1546962798928'>
+            <name>should return 200 on existing account and valid key</name>
+            <title>should return 200 on existing account and valid key</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962829209' stop='1546962829220'>
+    <name>Github SCM Service Unit Tests 5. getRepositoryTypePermission positive</name>
+    <title>Github SCM Service Unit Tests 5. getRepositoryTypePermission positive</title>
+    <test-cases>
+        <test-case start='1546962829209' status='passed' stop='1546962829212'>
+            <name>should return private in case repo scope exists</name>
+            <title>should return private in case repo scope exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962829212' status='passed' stop='1546962829217'>
+            <name>should return private in case repo scope exists</name>
+            <title>should return private in case repo scope exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962829217' status='passed' stop='1546962829220'>
+            <name>should return public in case repo scope does not exist</name>
+            <title>should return public in case repo scope does not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

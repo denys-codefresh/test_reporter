@@ -1,0 +1,207 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606378745' stop='1546606378814'>
+    <name>Compositions Unit Tests Compositions Create</name>
+    <title>Compositions Unit Tests Compositions Create</title>
+    <test-cases>
+        <test-case start='1546606378745' status='passed' stop='1546606378748'>
+            <name>Create normal composition</name>
+            <title>Create normal composition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378748' status='passed' stop='1546606378751'>
+            <name>Create a composition with explicit ports on a private environment</name>
+            <title>Create a composition with explicit ports on a private environment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378751' status='passed' stop='1546606378752'>
+            <name>Create a composition with a container volume on a shared environment</name>
+            <title>Create a composition with a container volume on a shared environment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378752' status='passed' stop='1546606378758'>
+            <name>Create a composition with volumes on a private environment</name>
+            <title>Create a composition with volumes on a private environment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378758' status='passed' stop='1546606378762'>
+            <name>Create composition with vars</name>
+            <title>Create composition with vars</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378762' status='passed' stop='1546606378765'>
+            <name>Create raw composition</name>
+            <title>Create raw composition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378765' status='passed' stop='1546606378766'>
+            <name>Create empty composition</name>
+            <title>Create empty composition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378766' status='passed' stop='1546606378767'>
+            <name>Create empty advanced composition</name>
+            <title>Create empty advanced composition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378767' status='passed' stop='1546606378770'>
+            <name>Fail on creating with same name</name>
+            <title>Fail on creating with same name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378770' status='passed' stop='1546606378774'>
+            <name>Create composition with Compose_v1 format and accessible services with existing entry point</name>
+            <title>Create composition with Compose_v1 format and accessible services with existing entry point</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378774' status='passed' stop='1546606378779'>
+            <name>Create composition with Compose_v1 format and accessible services with nonexistent entry point</name>
+            <title>Create composition with Compose_v1 format and accessible services with nonexistent entry point</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378779' status='passed' stop='1546606378781'>
+            <name>Create composition with Compose_v1 format and accessible services with undefined entry point</name>
+            <title>Create composition with Compose_v1 format and accessible services with undefined entry point</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378781' status='passed' stop='1546606378784'>
+            <name>Create composition with Compose_v1 format and inaccessible services with existing entry point</name>
+            <title>Create composition with Compose_v1 format and inaccessible services with existing entry point</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378784' status='passed' stop='1546606378786'>
+            <name>Create composition with Compose_v1 format and inaccessible services with nonexistent entry point</name>
+            <title>Create composition with Compose_v1 format and inaccessible services with nonexistent entry point</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378786' status='passed' stop='1546606378788'>
+            <name>Create composition with Compose_v1 format and inaccessible services with undefined entry point</name>
+            <title>Create composition with Compose_v1 format and inaccessible services with undefined entry point</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378788' status='passed' stop='1546606378791'>
+            <name>Create composition with Compose_v2 format and accessible services with existing entry point</name>
+            <title>Create composition with Compose_v2 format and accessible services with existing entry point</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378791' status='passed' stop='1546606378794'>
+            <name>Create composition with Compose_v2 format and accessible services with nonexistent entry point</name>
+            <title>Create composition with Compose_v2 format and accessible services with nonexistent entry point</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378794' status='passed' stop='1546606378795'>
+            <name>Create composition with Compose_v2 format and accessible services with undefined entry point</name>
+            <title>Create composition with Compose_v2 format and accessible services with undefined entry point</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378796' status='passed' stop='1546606378800'>
+            <name>Create composition with Compose_v2 format and inaccessible services with existing entry point</name>
+            <title>Create composition with Compose_v2 format and inaccessible services with existing entry point</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378800' status='passed' stop='1546606378803'>
+            <name>Create composition with Compose_v2 format and inaccessible services with nonexistent entry point</name>
+            <title>Create composition with Compose_v2 format and inaccessible services with nonexistent entry point</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378803' status='passed' stop='1546606378805'>
+            <name>Create composition with Compose_v2 format and inaccessible services with undefined entry point</name>
+            <title>Create composition with Compose_v2 format and inaccessible services with undefined entry point</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378805' status='passed' stop='1546606378805'>
+            <name>Duplicate</name>
+            <title>Duplicate</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378806' status='passed' stop='1546606378806'>
+            <name>should fail on Duplicate</name>
+            <title>should fail on Duplicate</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378808' status='passed' stop='1546606378813'>
+            <name>Duplicate with vars</name>
+            <title>Duplicate with vars</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378813' status='passed' stop='1546606378813'>
+            <name>Remove</name>
+            <title>Remove</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

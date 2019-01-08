@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962821054' stop='1546962821247'>
+    <name>Stash Provider Unit Tests getRepoPermission</name>
+    <title>Stash Provider Unit Tests getRepoPermission</title>
+    <test-cases>
+        <test-case start='1546962821054' status='passed' stop='1546962821247'>
+            <name>should always return private</name>
+            <title>should always return private</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

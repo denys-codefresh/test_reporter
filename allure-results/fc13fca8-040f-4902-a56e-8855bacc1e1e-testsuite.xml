@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962840706' stop='1546962840710'>
+    <name>WorkflowScheduler processBuild - process a build</name>
+    <title>WorkflowScheduler processBuild - process a build</title>
+    <test-cases>
+        <test-case start='1546962840706' status='passed' stop='1546962840708'>
+            <name>Set account</name>
+            <title>Set account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962840708' status='passed' stop='1546962840709'>
+            <name>No jobs</name>
+            <title>No jobs</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962840709' status='passed' stop='1546962840710'>
+            <name>Should send notification when parallel builds limit reached</name>
+            <title>Should send notification when parallel builds limit reached</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

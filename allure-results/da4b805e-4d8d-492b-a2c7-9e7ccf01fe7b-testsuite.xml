@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941800939' stop='1546941801170'>
+    <name>Progress Tests 3. updateJob - Update existing job</name>
+    <title>Progress Tests 3. updateJob - Update existing job</title>
+    <test-cases>
+        <test-case start='1546941800939' status='passed' stop='1546941800978'>
+            <name>3.1 should be able to create a new job model</name>
+            <title>3.1 should be able to create a new job model</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941800978' status='passed' stop='1546941801017'>
+            <name>3.2. should fail to update a non existing job</name>
+            <title>3.2. should fail to update a non existing job</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941801017' status='passed' stop='1546941801052'>
+            <name>3.3. should fail to update an existing job which the user does not have access too</name>
+            <title>3.3. should fail to update an existing job which the user does not have access too</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941801052' status='passed' stop='1546941801087'>
+            <name>3.4. should fail to update an existing job with an invalid status</name>
+            <title>3.4. should fail to update an existing job with an invalid status</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941801087' status='passed' stop='1546941801133'>
+            <name>3.5. should be able to add more information to the data object</name>
+            <title>3.5. should be able to add more information to the data object</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941801133' status='passed' stop='1546941801170'>
+            <name>3.1 Update job model with an environment</name>
+            <title>3.1 Update job model with an environment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

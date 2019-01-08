@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941812670' stop='1546941812903'>
+    <name>Group handler</name>
+    <title>Group handler</title>
+    <test-cases>
+        <test-case start='1546941812670' status='passed' stop='1546941812726'>
+            <name>create group</name>
+            <title>create group</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941812726' status='passed' stop='1546941812778'>
+            <name>remove group</name>
+            <title>remove group</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941812778' status='passed' stop='1546941812848'>
+            <name>update group - add new member</name>
+            <title>update group - add new member</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941812848' status='passed' stop='1546941812903'>
+            <name>update group - remove old member</name>
+            <title>update group - remove old member</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

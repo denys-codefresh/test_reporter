@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962834501' stop='1546962834503'>
+    <name>Workflow Features Provision Docker Machine</name>
+    <title>Workflow Features Provision Docker Machine</title>
+    <test-cases>
+        <test-case start='1546962834501' status='passed' stop='1546962834502'>
+            <name>Fail because the user has the feature disabled</name>
+            <title>Fail because the user has the feature disabled</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962834503' status='passed' stop='1546962834503'>
+            <name>Succeed</name>
+            <title>Succeed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

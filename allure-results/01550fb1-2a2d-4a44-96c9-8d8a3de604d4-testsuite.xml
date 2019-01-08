@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606333940' stop='1546606333941'>
+    <name>abac.model toJSON</name>
+    <title>abac.model toJSON</title>
+    <test-cases>
+        <test-case start='1546606333940' status='passed' stop='1546606333941'>
+            <name>should convert Mongoose document to JSON</name>
+            <title>should convert Mongoose document to JSON</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606333941' status='passed' stop='1546606333941'>
+            <name>should convert cluster rule Mongoose document to JSON</name>
+            <title>should convert cluster rule Mongoose document to JSON</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

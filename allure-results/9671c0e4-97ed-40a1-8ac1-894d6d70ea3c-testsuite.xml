@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606387012' stop='1546606387020'>
+    <name>Workflow environment variable extractor Promise array preparation</name>
+    <title>Workflow environment variable extractor Promise array preparation</title>
+    <test-cases>
+        <test-case start='1546606387012' status='passed' stop='1546606387013'>
+            <name>Should add promises when scm model not exist</name>
+            <title>Should add promises when scm model not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606387014' status='passed' stop='1546606387015'>
+            <name>Should add promises when scm model is empty object</name>
+            <title>Should add promises when scm model is empty object</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606387015' status='passed' stop='1546606387019'>
+            <name>Should add promises when scm model is not empty object</name>
+            <title>Should add promises when scm model is not empty object</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941807157' stop='1546941807184'>
+    <name>Github SCM Service Unit Tests 6. hasRepositoryAccess positive</name>
+    <title>Github SCM Service Unit Tests 6. hasRepositoryAccess positive</title>
+    <test-cases>
+        <test-case start='1546941807157' status='passed' stop='1546941807168'>
+            <name>should return true in case a user is connected and has access</name>
+            <title>should return true in case a user is connected and has access</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941807168' status='passed' stop='1546941807184'>
+            <name>should return true in case a user is not connected and repo is public</name>
+            <title>should return true in case a user is not connected and repo is public</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

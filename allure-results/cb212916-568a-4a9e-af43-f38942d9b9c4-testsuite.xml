@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606387245' stop='1546606387319'>
+    <name>Workflows Request</name>
+    <title>Workflows Request</title>
+    <test-cases>
+        <test-case start='1546606387245' status='passed' stop='1546606387281'>
+            <name>Find</name>
+            <title>Find</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606387281' status='passed' stop='1546606387319'>
+            <name>Find non existent request</name>
+            <title>Find non existent request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

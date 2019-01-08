@@ -1,0 +1,76 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386515' stop='1546606386674'>
+    <name>Preparing payload for build triggered by different events</name>
+    <title>Preparing payload for build triggered by different events</title>
+    <test-cases>
+        <test-case start='1546606386515' status='failed' stop='1546606386540'>
+            <name>Should return correct payload</name>
+            <title>Should return correct payload</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>expected { Object (event, scmsName, ...) } to deeply equal { Object (event, scmsName, ...) }</message>
+                <stack-trace>AssertionError: expected { Object (event, scmsName, ...) } to deeply equal { Object (event, scmsName, ...) }
+                    at Promise.resolve.then (server/api/scm_services/test/scm_services.controller.unit.spec.js:106:47)
+                    at __NR_wrappedThenHandler (node_modules/newrelic/lib/instrumentation/promise.js:344:23)
+                    at bound (domain.js:396:14)
+                    at runBound (domain.js:409:12)
+                    at process.topLevelDomainCallback (domain.js:121:23)
+                From previous event:
+                    at Promise.__NR_wrappedThen [as then] (node_modules/newrelic/lib/instrumentation/promise.js:324:23)
+                    at SCMServicesController.ctrl._startBuild (server/api/scm_services/test/scm_services.controller.unit.spec.js:104:18)
+                    at SCMServicesController.handleGithubWebhookDelivery (server/api/scm_services/scm_services.controller.js:29:871)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606386541' status='passed' stop='1546606386561'>
+            <name>Should return correct pull request labels for github</name>
+            <title>Should return correct pull request labels for github</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386561' status='passed' stop='1546606386583'>
+            <name>Should return correct pull request labels for gitlab</name>
+            <title>Should return correct pull request labels for gitlab</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386583' status='passed' stop='1546606386605'>
+            <name>Should throw error</name>
+            <title>Should throw error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386605' status='passed' stop='1546606386625'>
+            <name>Should return correct payload for bitbucket server</name>
+            <title>Should return correct payload for bitbucket server</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386625' status='passed' stop='1546606386646'>
+            <name>Should return correct payload for github issue_comment (added) event</name>
+            <title>Should return correct payload for github issue_comment (added) event</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386646' status='passed' stop='1546606386667'>
+            <name>Should return correct payload for bitbucket push event</name>
+            <title>Should return correct payload for bitbucket push event</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

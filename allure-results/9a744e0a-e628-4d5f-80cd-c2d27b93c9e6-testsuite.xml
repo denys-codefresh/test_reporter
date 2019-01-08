@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962830636' stop='1546962830647'>
+    <name>Gitlab Provider Unit Tests removeRepositoryWebHook</name>
+    <title>Gitlab Provider Unit Tests removeRepositoryWebHook</title>
+    <test-cases>
+        <test-case start='1546962830636' status='passed' stop='1546962830640'>
+            <name>should delete a webhook in case webhook exists with endpoint</name>
+            <title>should delete a webhook in case webhook exists with endpoint</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962830640' status='passed' stop='1546962830643'>
+            <name>should delete a webhook in case webhook exists with old depreacted endpoint</name>
+            <title>should delete a webhook in case webhook exists with old depreacted endpoint</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962830643' status='passed' stop='1546962830647'>
+            <name>should not delete any webhook in case webhook does not exist</name>
+            <title>should not delete any webhook in case webhook does not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

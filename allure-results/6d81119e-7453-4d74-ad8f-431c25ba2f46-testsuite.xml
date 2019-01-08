@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962843417' stop='1546962843533'>
+    <name>Compositions Unit Tests Compositions</name>
+    <title>Compositions Unit Tests Compositions</title>
+    <test-cases>
+        <test-case start='1546962843417' status='passed' stop='1546962843422'>
+            <name>Mask encrypted elements</name>
+            <title>Mask encrypted elements</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843422' status='passed' stop='1546962843425'>
+            <name>Decrypt composition vars</name>
+            <title>Decrypt composition vars</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

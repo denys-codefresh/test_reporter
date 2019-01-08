@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941826957' stop='1546941827177'>
+    <name>Images Tests Compositions</name>
+    <title>Images Tests Compositions</title>
+    <test-cases>
+        <test-case start='1546941826957' status='passed' stop='1546941827001'>
+            <name>Get JSON V1 compositions</name>
+            <title>Get JSON V1 compositions</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827002' status='passed' stop='1546941827044'>
+            <name>Get empty JSON V1 compositions</name>
+            <title>Get empty JSON V1 compositions</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827044' status='passed' stop='1546941827086'>
+            <name>Get YAML advanced V1 compositions</name>
+            <title>Get YAML advanced V1 compositions</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827086' status='passed' stop='1546941827134'>
+            <name>Get empty YAML advanced V1 compositions</name>
+            <title>Get empty YAML advanced V1 compositions</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827134' status='passed' stop='1546941827177'>
+            <name>Get YAML advanced V2 compositions</name>
+            <title>Get YAML advanced V2 compositions</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

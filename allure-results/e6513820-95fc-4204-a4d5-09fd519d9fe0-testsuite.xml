@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606334445' stop='1546606334447'>
+    <name>Authentication Tests - Token 2. Authenticate token</name>
+    <title>Authentication Tests - Token 2. Authenticate token</title>
+    <test-cases>
+        <test-case start='1546606334445' status='passed' stop='1546606334446'>
+            <name>2.1 should authenticate a valid token</name>
+            <title>2.1 should authenticate a valid token</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606334446' status='passed' stop='1546606334446'>
+            <name>2.2 should authenticate 2 valid tokens async</name>
+            <title>2.2 should authenticate 2 valid tokens async</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606334446' status='passed' stop='1546606334447'>
+            <name>2.3 should return an error for an invalid token</name>
+            <title>2.3 should return an error for an invalid token</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

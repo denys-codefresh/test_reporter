@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606385404' stop='1546606385487'>
+    <name>Registries Common Unit Tests :Common :Read</name>
+    <title>Registries Common Unit Tests :Common :Read</title>
+    <test-cases>
+        <test-case start='1546606385404' status='passed' stop='1546606385432'>
+            <name>should successfully get a specific registry by id</name>
+            <title>should successfully get a specific registry by id</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606385432' status='passed' stop='1546606385458'>
+            <name>should successfully get a specific registry by name</name>
+            <title>should successfully get a specific registry by name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606385458' status='passed' stop='1546606385487'>
+            <name>should successfully get all registries tied to an account</name>
+            <title>should successfully get all registries tied to an account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

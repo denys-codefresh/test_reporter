@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941806787' stop='1546941807039'>
+    <name>BitbucketServer Provider Unit Tests removeRepositoryWebHook BitbucketServer</name>
+    <title>BitbucketServer Provider Unit Tests removeRepositoryWebHook BitbucketServer</title>
+    <test-cases>
+        <test-case start='1546941806787' status='passed' stop='1546941806851'>
+            <name>BitbucketServer should delete a webhook in case webhook exists with endpoint</name>
+            <title>BitbucketServer should delete a webhook in case webhook exists with endpoint</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941806851' status='passed' stop='1546941806909'>
+            <name>BitbucketServer should delete a webhook in case webhook exists with old depreacted endpoint</name>
+            <title>BitbucketServer should delete a webhook in case webhook exists with old depreacted endpoint</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941806909' status='passed' stop='1546941806975'>
+            <name>BitbucketServer should not delete any webhook in case webhook does not exist</name>
+            <title>BitbucketServer should not delete any webhook in case webhook does not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941806975' status='passed' stop='1546941807039'>
+            <name>BitbucketServer should use project key instead of repoOwner</name>
+            <title>BitbucketServer should use project key instead of repoOwner</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

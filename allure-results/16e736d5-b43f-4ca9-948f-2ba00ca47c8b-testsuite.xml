@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941820804' stop='1546941820855'>
+    <name>Boards controller unit tests Delete board</name>
+    <title>Boards controller unit tests Delete board</title>
+    <test-cases>
+        <test-case start='1546941820804' status='passed' stop='1546941820815'>
+            <name>should response with 200 and deleted board</name>
+            <title>should response with 200 and deleted board</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820815' status='passed' stop='1546941820826'>
+            <name>should throw NotFoundGatewayError while deleting board from another account</name>
+            <title>should throw NotFoundGatewayError while deleting board from another account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820827' status='passed' stop='1546941820837'>
+            <name>should throw NotFoundGatewayError while deleting board of another type</name>
+            <title>should throw NotFoundGatewayError while deleting board of another type</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820837' status='passed' stop='1546941820855'>
+            <name>should throw NotFoundGatewayError while deleting wrong board</name>
+            <title>should throw NotFoundGatewayError while deleting wrong board</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

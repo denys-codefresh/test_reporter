@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941836030' stop='1546941836053'>
+    <name>Admin Users Integration Tests 4. deleteUser - Delete user negative</name>
+    <title>Admin Users Integration Tests 4. deleteUser - Delete user negative</title>
+    <test-cases>
+        <test-case start='1546941836030' status='passed' stop='1546941836035'>
+            <name>should fail to delete a non existing user</name>
+            <title>should fail to delete a non existing user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836036' status='passed' stop='1546941836041'>
+            <name>should fail if deleteUser is not enabled in config file</name>
+            <title>should fail if deleteUser is not enabled in config file</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836041' status='passed' stop='1546941836047'>
+            <name>should fail if deleteUser is not configured in the config file</name>
+            <title>should fail if deleteUser is not configured in the config file</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836047' status='passed' stop='1546941836053'>
+            <name>should fail if deleteUser whitelist is configured and the username is not in it</name>
+            <title>should fail if deleteUser whitelist is configured and the username is not in it</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

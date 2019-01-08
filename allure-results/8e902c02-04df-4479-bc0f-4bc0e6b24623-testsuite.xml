@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962822701' stop='1546962822701'>
+    <name>Scheduler - common DockerNodes</name>
+    <title>Scheduler - common DockerNodes</title>
+    <test-cases>
+        <test-case start='1546962822701' status='pending' stop='1546962822701'>
+            <name>getDockerNode - positive</name>
+            <title>getDockerNode - positive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962822701' status='pending' stop='1546962822701'>
+            <name>getDockerNode - negative</name>
+            <title>getDockerNode - negative</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962822701' status='pending' stop='1546962822701'>
+            <name>releaseDockerNoide</name>
+            <title>releaseDockerNoide</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941774705' stop='1546941776289'>
+    <name>Safe Unit Tests Read and write</name>
+    <title>Safe Unit Tests Read and write</title>
+    <test-cases>
+        <test-case start='1546941774706' status='passed' stop='1546941774735'>
+            <name>Successfully read and write</name>
+            <title>Successfully read and write</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941774735' status='passed' stop='1546941776249'>
+            <name>Fallback to tripplesec read</name>
+            <title>Fallback to tripplesec read</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776249' status='passed' stop='1546941776289'>
+            <name>Tamper with the safe key and fail to read and write</name>
+            <title>Tamper with the safe key and fail to read and write</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

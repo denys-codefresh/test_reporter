@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941819645' stop='1546941819660'>
+    <name>Accounts Unit Tests 5. rename account positive</name>
+    <title>Accounts Unit Tests 5. rename account positive</title>
+    <test-cases>
+        <test-case start='1546941819645' status='passed' stop='1546941819652'>
+            <name>rename account to new name should work</name>
+            <title>rename account to new name should work</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941819653' status='passed' stop='1546941819660'>
+            <name>rename account to same name should work</name>
+            <title>rename account to same name should work</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

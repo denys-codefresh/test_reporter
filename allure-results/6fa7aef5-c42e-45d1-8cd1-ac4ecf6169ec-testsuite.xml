@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962857630' stop='1546962857635'>
+    <name>workflow-account tests  setPendingLicenseForNonChosenWorkflows</name>
+    <title>workflow-account tests  setPendingLicenseForNonChosenWorkflows</title>
+    <test-cases>
+        <test-case start='1546962857630' status='passed' stop='1546962857632'>
+            <name>should report pending license only on non executed pending workflows</name>
+            <title>should report pending license only on non executed pending workflows</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857632' status='passed' stop='1546962857633'>
+            <name>should not update in case of non pending license workflows</name>
+            <title>should not update in case of non pending license workflows</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857633' status='passed' stop='1546962857635'>
+            <name>should report error in case of failure</name>
+            <title>should report error in case of failure</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

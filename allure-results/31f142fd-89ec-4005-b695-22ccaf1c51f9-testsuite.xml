@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606361420' stop='1546606361439'>
+    <name>monitor consul - handles all operations performed through consul updateDockerNodes - updates all existing and new nodes with information from consul positive tests</name>
+    <title>monitor consul - handles all operations performed through consul updateDockerNodes - updates all existing and new nodes with information from consul positive tests</title>
+    <test-cases>
+        <test-case start='1546606361420' status='passed' stop='1546606361426'>
+            <name>should add a new node to nodes list</name>
+            <title>should add a new node to nodes list</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606361426' status='passed' stop='1546606361430'>
+            <name>should update an existing node with new data</name>
+            <title>should update an existing node with new data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606361430' status='passed' stop='1546606361433'>
+            <name>should delete status in case node exists and is in status deleting currently</name>
+            <title>should delete status in case node exists and is in status deleting currently</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606361433' status='passed' stop='1546606361436'>
+            <name>should remove a docker-node that existed in nodes internal list and was not retrieved from consul</name>
+            <title>should remove a docker-node that existed in nodes internal list and was not retrieved from consul</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606361436' status='passed' stop='1546606361439'>
+            <name>should not remove a docker-node with status creating that existed in nodes internal list and was not retrieved from consul</name>
+            <title>should not remove a docker-node with status creating that existed in nodes internal list and was not retrieved from consul</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

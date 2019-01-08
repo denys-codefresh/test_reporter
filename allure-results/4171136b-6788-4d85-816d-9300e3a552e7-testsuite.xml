@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606392607' stop='1546606392614'>
+    <name>Cloud provider Aws create - creates ec2 instance positive</name>
+    <title>Cloud provider Aws create - creates ec2 instance positive</title>
+    <test-cases>
+        <test-case start='1546606392607' status='passed' stop='1546606392613'>
+            <name>should return node object of created instance</name>
+            <title>should return node object of created instance</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

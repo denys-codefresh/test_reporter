@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941820022' stop='1546941820023'>
+    <name>Admin Account Integration Tests deleteAccount negative</name>
+    <title>Admin Account Integration Tests deleteAccount negative</title>
+    <test-cases>
+        <test-case start='1546941820023' status='pending' stop='1546941820023'>
+            <name>trying to delete a non existing account should fail</name>
+            <title>trying to delete a non existing account should fail</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941820023' status='pending' stop='1546941820023'>
+            <name>should fail if deleteAccount is not enabled in config file</name>
+            <title>should fail if deleteAccount is not enabled in config file</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941820023' status='pending' stop='1546941820023'>
+            <name>should fail if deleteAccount does not exist</name>
+            <title>should fail if deleteAccount does not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606365915' stop='1546606365916'>
+    <name>Gitlab Provider Api Tests 1. repo_getFile</name>
+    <title>Gitlab Provider Api Tests 1. repo_getFile</title>
+    <test-cases>
+        <test-case start='1546606365915' status='passed' stop='1546606365916'>
+            <name>1.1 should reject if branch or revision not specified</name>
+            <title>1.1 should reject if branch or revision not specified</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606365916' status='passed' stop='1546606365916'>
+            <name>1.2 should resolve if revision specified</name>
+            <title>1.2 should resolve if revision specified</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606365916' status='passed' stop='1546606365916'>
+            <name>1.3 should resolve if branch specified</name>
+            <title>1.3 should resolve if branch specified</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

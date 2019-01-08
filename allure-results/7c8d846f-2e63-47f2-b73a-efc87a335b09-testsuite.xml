@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962828430' stop='1546962828874'>
+    <name>BitbucketServer Provider Unit Tests addRepositoryWebHook BitbucketServer</name>
+    <title>BitbucketServer Provider Unit Tests addRepositoryWebHook BitbucketServer</title>
+    <test-cases>
+        <test-case start='1546962828430' status='passed' stop='1546962828488'>
+            <name>BitbucketServer should create a webhook in case webhook does not yet exists</name>
+            <title>BitbucketServer should create a webhook in case webhook does not yet exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962828489' status='passed' stop='1546962828551'>
+            <name>BitbucketServer should not create a webhook in case webhook already exists with the same endpoint</name>
+            <title>BitbucketServer should not create a webhook in case webhook already exists with the same endpoint</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962828551' status='passed' stop='1546962828617'>
+            <name>BitbucketServer should not create a webhook in case webhook already exists with the old deprecated endpoint</name>
+            <title>BitbucketServer should not create a webhook in case webhook already exists with the old deprecated endpoint</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962828617' status='passed' stop='1546962828685'>
+            <name>BitbucketServer should handle error on webhook creation error</name>
+            <title>BitbucketServer should handle error on webhook creation error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962828685' status='passed' stop='1546962828748'>
+            <name>BitbucketServer should add modified event when BB version support this event</name>
+            <title>BitbucketServer should add modified event when BB version support this event</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962828748' status='passed' stop='1546962828808'>
+            <name>BitbucketServer should not add modified event when BB version not support this event</name>
+            <title>BitbucketServer should not add modified event when BB version not support this event</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962828808' status='passed' stop='1546962828874'>
+            <name>BitbucketServer should use project key instead of repoOwner</name>
+            <title>BitbucketServer should use project key instead of repoOwner</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941802219' stop='1546941802381'>
+    <name>User Integration Tests 5. Add pending user to an account</name>
+    <title>User Integration Tests 5. Add pending user to an account</title>
+    <test-cases>
+        <test-case start='1546941802219' status='passed' stop='1546941802240'>
+            <name>5.1 search if user exists before he logged in should return null if not using ignorePendingUser flag</name>
+            <title>5.1 search if user exists before he logged in should return null if not using ignorePendingUser flag</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941802240' status='passed' stop='1546941802266'>
+            <name>5.2 search if user exists before he logged in should the user if using ignorePendingUser flag</name>
+            <title>5.2 search if user exists before he logged in should the user if using ignorePendingUser flag</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941802266' status='passed' stop='1546941802381'>
+            <name>5.3 search if user exists after he logged in should return a user when using ignorePendingUser</name>
+            <title>5.3 search if user exists after he logged in should return a user when using ignorePendingUser</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962844779' stop='1546962844866'>
+    <name>User favorites</name>
+    <title>User favorites</title>
+    <test-cases>
+        <test-case start='1546962844779' status='passed' stop='1546962844790'>
+            <name>Should create favorite if not exists</name>
+            <title>Should create favorite if not exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962844790' status='passed' stop='1546962844803'>
+            <name>Should update favorite</name>
+            <title>Should update favorite</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962844803' status='passed' stop='1546962844811'>
+            <name>Should throw error when entities not exists</name>
+            <title>Should throw error when entities not exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962844811' status='passed' stop='1546962844820'>
+            <name>Should find favorites</name>
+            <title>Should find favorites</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962844820' status='passed' stop='1546962844839'>
+            <name>Should delete from favorites</name>
+            <title>Should delete from favorites</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962844839' status='passed' stop='1546962844853'>
+            <name>Should update only favorites relevant to own account</name>
+            <title>Should update only favorites relevant to own account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962844853' status='passed' stop='1546962844866'>
+            <name>Should delete only favorites relevant to own account</name>
+            <title>Should delete only favorites relevant to own account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

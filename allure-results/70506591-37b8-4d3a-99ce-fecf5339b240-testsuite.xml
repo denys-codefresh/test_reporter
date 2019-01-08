@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962829129' stop='1546962829192'>
+    <name>BitbucketServer WebHook Unit Tests</name>
+    <title>BitbucketServer WebHook Unit Tests</title>
+    <test-cases>
+        <test-case start='1546962829129' status='passed' stop='1546962829191'>
+            <name>BitbucketServer Failed to find commit</name>
+            <title>BitbucketServer Failed to find commit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606387075' stop='1546606387076'>
+    <name>Workflow Events tests report snapshot</name>
+    <title>Workflow Events tests report snapshot</title>
+    <test-cases>
+        <test-case start='1546606387075' status='passed' stop='1546606387076'>
+            <name>should succeed in case updateing workflow metadata succeeded</name>
+            <title>should succeed in case updateing workflow metadata succeeded</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

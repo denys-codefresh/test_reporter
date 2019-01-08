@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962827592' stop='1546962827600'>
+    <name>Bitbucket Provider Unit Tests removeRepositoryWebHook</name>
+    <title>Bitbucket Provider Unit Tests removeRepositoryWebHook</title>
+    <test-cases>
+        <test-case start='1546962827592' status='passed' stop='1546962827594'>
+            <name>should delete a webhook in case webhook exists with endpoint</name>
+            <title>should delete a webhook in case webhook exists with endpoint</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827595' status='passed' stop='1546962827597'>
+            <name>should delete a webhook in case webhook exists with old depreacted endpoint</name>
+            <title>should delete a webhook in case webhook exists with old depreacted endpoint</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827597' status='passed' stop='1546962827600'>
+            <name>should not delete any webhook in case webhook does not exist</name>
+            <title>should not delete any webhook in case webhook does not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

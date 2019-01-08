@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851524' stop='1546962851537'>
+    <name>security extend trigger context positive</name>
+    <title>security extend trigger context positive</title>
+    <test-cases>
+        <test-case start='1546962851524' status='passed' stop='1546962851530'>
+            <name>in case id exists in the endpoint retrieve the matching trigger</name>
+            <title>in case id exists in the endpoint retrieve the matching trigger</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851530' status='passed' stop='1546962851537'>
+            <name>in case id does not exist in the endpoint do not retrieve any trigger and continue</name>
+            <title>in case id does not exist in the endpoint do not retrieve any trigger and continue</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

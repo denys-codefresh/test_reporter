@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941777211' stop='1546941780240'>
+    <name>Notifications Unit Tests 1. Mail - mail notification tests</name>
+    <title>Notifications Unit Tests 1. Mail - mail notification tests</title>
+    <test-cases>
+        <test-case start='1546941777211' status='passed' stop='1546941778215'>
+            <name>1.1 should call process function once for no notifications on service and account</name>
+            <title>1.1 should call process function once for no notifications on service and account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941778216' status='passed' stop='1546941779225'>
+            <name>1.2 should call process twice for no notifications on service and account</name>
+            <title>1.2 should call process twice for no notifications on service and account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941779226' status='passed' stop='1546941780239'>
+            <name>1.3 should not call process when user email notification events does not include build-success</name>
+            <title>1.3 should not call process when user email notification events does not include build-success</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

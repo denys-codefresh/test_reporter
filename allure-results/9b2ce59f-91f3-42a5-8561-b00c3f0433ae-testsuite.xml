@@ -1,0 +1,67 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606337658' stop='1546606337660'>
+    <name>Clean Firebase Progress Jobs Logs Cleaner</name>
+    <title>Clean Firebase Progress Jobs Logs Cleaner</title>
+    <test-cases>
+        <test-case start='1546606337658' status='pending' stop='1546606337658'>
+            <name>should archive job logs of old job which are finished</name>
+            <title>should archive job logs of old job which are finished</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606337658' status='pending' stop='1546606337658'>
+            <name>should not archive job logs of new jobs which are finished</name>
+            <title>should not archive job logs of new jobs which are finished</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606337658' status='pending' stop='1546606337658'>
+            <name>should not archive job logs of new jobs which are haven't finish</name>
+            <title>should not archive job logs of new jobs which are haven't finish</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606337658' status='pending' stop='1546606337658'>
+            <name>should fetch firebase "build-logs" bucket</name>
+            <title>should fetch firebase "build-logs" bucket</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606337658' status='pending' stop='1546606337658'>
+            <name>should wait for all archives in case of one failing</name>
+            <title>should wait for all archives in case of one failing</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

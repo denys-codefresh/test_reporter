@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606333927' stop='1546606333934'>
+    <name>abac.logic initABAC</name>
+    <title>abac.logic initABAC</title>
+    <test-cases>
+        <test-case start='1546606333927' status='passed' stop='1546606333930'>
+            <name>admin grants added</name>
+            <title>admin grants added</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606333930' status='passed' stop='1546606333932'>
+            <name>user grants loaded</name>
+            <title>user grants loaded</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606333932' status='passed' stop='1546606333934'>
+            <name>failed to load grants from database</name>
+            <title>failed to load grants from database</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

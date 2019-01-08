@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941805125' stop='1546941805128'>
+    <name>monitor nodes - handles all operations on nodes addOrUpdate - add or update a node positive tests</name>
+    <title>monitor nodes - handles all operations on nodes addOrUpdate - add or update a node positive tests</title>
+    <test-cases>
+        <test-case start='1546941805125' status='passed' stop='1546941805126'>
+            <name>should call update node in case node already exists</name>
+            <title>should call update node in case node already exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941805126' status='passed' stop='1546941805127'>
+            <name>should call addNode in case node does not exists and this is not a docker-node reported from runtime</name>
+            <title>should call addNode in case node does not exists and this is not a docker-node reported from runtime</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941805127' status='passed' stop='1546941805128'>
+            <name>should not call anything in-case a docker-node node was reported by the runtime which is new</name>
+            <title>should not call anything in-case a docker-node node was reported by the runtime which is new</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

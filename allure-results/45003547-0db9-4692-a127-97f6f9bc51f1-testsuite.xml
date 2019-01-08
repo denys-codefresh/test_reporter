@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941828337' stop='1546941828393'>
+    <name>Registries Common Unit Tests :Common :Delete</name>
+    <title>Registries Common Unit Tests :Common :Delete</title>
+    <test-cases>
+        <test-case start='1546941828337' status='passed' stop='1546941828366'>
+            <name>should successfully delete a registry record</name>
+            <title>should successfully delete a registry record</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941828366' status='passed' stop='1546941828393'>
+            <name>should not delete anything when an unknown registry id is provided</name>
+            <title>should not delete anything when an unknown registry id is provided</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962841514' stop='1546962841549'>
+    <name>Accounts Unit Tests 5. rename account negative</name>
+    <title>Accounts Unit Tests 5. rename account negative</title>
+    <test-cases>
+        <test-case start='1546962841514' status='passed' stop='1546962841524'>
+            <name>fail with no account name</name>
+            <title>fail with no account name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962841524' status='passed' stop='1546962841530'>
+            <name>fail with no account</name>
+            <title>fail with no account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962841530' status='passed' stop='1546962841549'>
+            <name>fail on duplicate names</name>
+            <title>fail on duplicate names</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

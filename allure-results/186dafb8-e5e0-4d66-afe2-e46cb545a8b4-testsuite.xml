@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941821356' stop='1546941821397'>
+    <name>Build Entity Tests 2. getById - gets a build by id negative</name>
+    <title>Build Entity Tests 2. getById - gets a build by id negative</title>
+    <test-cases>
+        <test-case start='1546941821356' status='passed' stop='1546941821396'>
+            <name>should respond with a not found error in case the build does not exist</name>
+            <title>should respond with a not found error in case the build does not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821397' status='pending' stop='1546941821397'>
+            <name>should respond with a not found error in case the requesting user is not associated with the builds account and the build is private</name>
+            <title>should respond with a not found error in case the requesting user is not associated with the builds account and the build is private</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606378669' stop='1546606378684'>
+    <name>Composition controller unit test getWarnings route</name>
+    <title>Composition controller unit test getWarnings route</title>
+    <test-cases>
+        <test-case start='1546606378669' status='passed' stop='1546606378669'>
+            <name>Should return error when body has no yaml property</name>
+            <title>Should return error when body has no yaml property</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378669' status='passed' stop='1546606378672'>
+            <name>Should return status 200 with errors and warnings when parsing failed and the error comes from the compose model</name>
+            <title>Should return status 200 with errors and warnings when parsing failed and the error comes from the compose model</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378672' status='passed' stop='1546606378673'>
+            <name>Should return throw an error if the parsing failed with not compose model error somehow</name>
+            <title>Should return throw an error if the parsing failed with not compose model error somehow</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378673' status='passed' stop='1546606378684'>
+            <name>Verify proper flow</name>
+            <title>Verify proper flow</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

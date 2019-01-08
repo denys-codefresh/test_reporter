@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606376943' stop='1546606376984'>
+    <name>Accounts Unit Tests 7. getAccount positive</name>
+    <title>Accounts Unit Tests 7. getAccount positive</title>
+    <test-cases>
+        <test-case start='1546606376943' status='passed' stop='1546606376964'>
+            <name>should return an existing account</name>
+            <title>should return an existing account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606376964' status='passed' stop='1546606376984'>
+            <name>should not return if account does not exist</name>
+            <title>should not return if account does not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

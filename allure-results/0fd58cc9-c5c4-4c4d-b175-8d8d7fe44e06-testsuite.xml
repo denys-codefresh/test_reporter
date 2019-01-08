@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941829918' stop='1546941829932'>
+    <name>Workflow environment variable extractor Codefresh supplied variables</name>
+    <title>Workflow environment variable extractor Codefresh supplied variables</title>
+    <test-cases>
+        <test-case start='1546941829918' status='passed' stop='1546941829920'>
+            <name>Should add codefresh token</name>
+            <title>Should add codefresh token</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829920' status='passed' stop='1546941829922'>
+            <name>Should add codefresh workflow trigger</name>
+            <title>Should add codefresh workflow trigger</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829922' status='passed' stop='1546941829923'>
+            <name>should add workflow build id</name>
+            <title>should add workflow build id</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829923' status='passed' stop='1546941829925'>
+            <name>should add workflow creation timestamp</name>
+            <title>should add workflow creation timestamp</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829925' status='passed' stop='1546941829927'>
+            <name>should add workflow build url</name>
+            <title>should add workflow build url</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829927' status='passed' stop='1546941829929'>
+            <name>Should add codefresh volume</name>
+            <title>Should add codefresh volume</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829929' status='passed' stop='1546941829932'>
+            <name>Should throw an error when token generation failed</name>
+            <title>Should throw an error when token generation failed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

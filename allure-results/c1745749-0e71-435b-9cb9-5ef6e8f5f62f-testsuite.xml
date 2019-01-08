@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606392772' stop='1546606392772'>
+    <name>Build strategies unit tests RESTART_FROM_WORKFLOW_CONTEXT_REVISION negative</name>
+    <title>Build strategies unit tests RESTART_FROM_WORKFLOW_CONTEXT_REVISION negative</title>
+    <test-cases>
+        <test-case start='1546606392772' status='passed' stop='1546606392772'>
+            <name>Should throw an error in case the previous context revision want given on the current workflow process</name>
+            <title>Should throw an error in case the previous context revision want given on the current workflow process</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

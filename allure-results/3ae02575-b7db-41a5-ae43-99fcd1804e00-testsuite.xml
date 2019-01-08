@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941819620' stop='1546941819645'>
+    <name>Accounts Unit Tests 3. create new account And fail</name>
+    <title>Accounts Unit Tests 3. create new account And fail</title>
+    <test-cases>
+        <test-case start='1546941819620' status='passed' stop='1546941819627'>
+            <name>3.2.1 it should fail when trying to pass notifcation of type mail</name>
+            <title>3.2.1 it should fail when trying to pass notifcation of type mail</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941819627' status='passed' stop='1546941819633'>
+            <name>3.2.2 it should fail when trying to create a notification of type pr but passing a slack object data</name>
+            <title>3.2.2 it should fail when trying to create a notification of type pr but passing a slack object data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941819633' status='passed' stop='1546941819638'>
+            <name>3.2.3 it should fail when trying to create a notification of type pr but passing a slack object data</name>
+            <title>3.2.3 it should fail when trying to create a notification of type pr but passing a slack object data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941819639' status='passed' stop='1546941819644'>
+            <name>3.2.3 it should fail when trying to create a notification of type pr but passing a slack object data</name>
+            <title>3.2.3 it should fail when trying to create a notification of type pr but passing a slack object data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

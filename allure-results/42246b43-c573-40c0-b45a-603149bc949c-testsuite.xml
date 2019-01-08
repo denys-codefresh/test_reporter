@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962830624' stop='1546962830636'>
+    <name>Gitlab Provider Unit Tests addRepositoryWebHook</name>
+    <title>Gitlab Provider Unit Tests addRepositoryWebHook</title>
+    <test-cases>
+        <test-case start='1546962830625' status='passed' stop='1546962830629'>
+            <name>should create a webhook in case webhook does not yet exists</name>
+            <title>should create a webhook in case webhook does not yet exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962830629' status='passed' stop='1546962830632'>
+            <name>should not create a webhook in case webhook already exists with the same endpoint</name>
+            <title>should not create a webhook in case webhook already exists with the same endpoint</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962830632' status='passed' stop='1546962830635'>
+            <name>should not create a webhook in case webhook already exists with the old deprecated endpoint</name>
+            <title>should not create a webhook in case webhook already exists with the old deprecated endpoint</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606369776' stop='1546606369778'>
+    <name>Event Bus</name>
+    <title>Event Bus</title>
+    <test-cases>
+        <test-case start='1546606369776' status='passed' stop='1546606369777'>
+            <name>wait for event</name>
+            <title>wait for event</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606369777' status='passed' stop='1546606369778'>
+            <name>wait for event - multiple subscribers</name>
+            <title>wait for event - multiple subscribers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606369778' status='passed' stop='1546606369778'>
+            <name>wait for multiple events using regex </name>
+            <title>wait for multiple events using regex </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

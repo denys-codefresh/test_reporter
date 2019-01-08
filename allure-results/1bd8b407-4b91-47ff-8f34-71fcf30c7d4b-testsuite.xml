@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851894' stop='1546962851903'>
+    <name>Workflow environment variable extractor Variables from source control</name>
+    <title>Workflow environment variable extractor Variables from source control</title>
+    <test-cases>
+        <test-case start='1546962851894' status='passed' stop='1546962851896'>
+            <name>Should add all basic variables</name>
+            <title>Should add all basic variables</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851896' status='passed' stop='1546962851897'>
+            <name>Should add variable when the repo is forked</name>
+            <title>Should add variable when the repo is forked</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851897' status='passed' stop='1546962851899'>
+            <name>Should add variable when pull request id exist</name>
+            <title>Should add variable when pull request id exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851899' status='passed' stop='1546962851901'>
+            <name>Should add variables related to pull request comment </name>
+            <title>Should add variables related to pull request comment </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851901' status='passed' stop='1546962851903'>
+            <name>Should add pull request labels variable</name>
+            <title>Should add pull request labels variable</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

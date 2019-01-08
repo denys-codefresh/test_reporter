@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386460' stop='1546606386486'>
+    <name>Git Trigger Model store negative</name>
+    <title>Git Trigger Model store negative</title>
+    <test-cases>
+        <test-case start='1546606386460' status='passed' stop='1546606386465'>
+            <name>should fail in case generateSecret was not called</name>
+            <title>should fail in case generateSecret was not called</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386465' status='passed' stop='1546606386470'>
+            <name>should fail in case generateEndpoint has not been called</name>
+            <title>should fail in case generateEndpoint has not been called</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386470' status='passed' stop='1546606386479'>
+            <name>should fail in case of storing two triggers with the same id</name>
+            <title>should fail in case of storing two triggers with the same id</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386480' status='passed' stop='1546606386486'>
+            <name>should fail in case of storing two triggers with same account, context, provider and repo</name>
+            <title>should fail in case of storing two triggers with same account, context, provider and repo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

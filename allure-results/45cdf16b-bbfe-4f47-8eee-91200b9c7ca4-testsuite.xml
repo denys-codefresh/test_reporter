@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941800462' stop='1546941800462'>
+    <name>CFExtendedError testing Ctor testing Negative:</name>
+    <title>CFExtendedError testing Ctor testing Negative:</title>
+    <test-cases>
+        <test-case start='1546941800462' status='passed' stop='1546941800462'>
+            <name>Shouldnt accept ctor with more than 2 params</name>
+            <title>Shouldnt accept ctor with more than 2 params</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

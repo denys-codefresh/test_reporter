@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941802382' stop='1546941802583'>
+    <name>User Integration Tests 6. addNewUser - adds a new user to the system</name>
+    <title>User Integration Tests 6. addNewUser - adds a new user to the system</title>
+    <test-cases>
+        <test-case start='1546941802382' status='passed' stop='1546941802500'>
+            <name>6.1 adding a new user to the system that has never logged in before</name>
+            <title>6.1 adding a new user to the system that has never logged in before</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941802500' status='passed' stop='1546941802583'>
+            <name>6.2 adding a new user to the system that have already been added before using addPendingUser</name>
+            <title>6.2 adding a new user to the system that have already been added before using addPendingUser</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

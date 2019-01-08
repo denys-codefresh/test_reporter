@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606365876' stop='1546606365885'>
+    <name>Github SCM Service Unit Tests 15. caching</name>
+    <title>Github SCM Service Unit Tests 15. caching</title>
+    <test-cases>
+        <test-case start='1546606365876' status='passed' stop='1546606365881'>
+            <name>should get cache id</name>
+            <title>should get cache id</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606365881' status='passed' stop='1546606365883'>
+            <name>Should put cache to the cache storage</name>
+            <title>Should put cache to the cache storage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606365883' status='passed' stop='1546606365885'>
+            <name>Should get from cache</name>
+            <title>Should get from cache</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

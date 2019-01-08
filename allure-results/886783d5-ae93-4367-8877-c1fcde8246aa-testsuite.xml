@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962856051' stop='1546962856088'>
+    <name>Workflows setFinalContextRevision positive</name>
+    <title>Workflows setFinalContextRevision positive</title>
+    <test-cases>
+        <test-case start='1546962856051' status='passed' stop='1546962856088'>
+            <name>should succeeded in case workflowProcess exists</name>
+            <title>should succeeded in case workflowProcess exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

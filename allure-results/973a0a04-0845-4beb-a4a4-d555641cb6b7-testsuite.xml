@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384620' stop='1546606384625'>
+    <name>Pipeline controller unit test getPipelineVolumeImage</name>
+    <title>Pipeline controller unit test getPipelineVolumeImage</title>
+    <test-cases>
+        <test-case start='1546606384620' status='passed' stop='1546606384621'>
+            <name>Happy path...</name>
+            <title>Happy path...</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384621' status='passed' stop='1546606384623'>
+            <name>When images array emtpy throw error gateway error PipelineImageVolumeNotFoundError</name>
+            <title>When images array emtpy throw error gateway error PipelineImageVolumeNotFoundError</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384623' status='passed' stop='1546606384625'>
+            <name>When regular error catched</name>
+            <title>When regular error catched</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

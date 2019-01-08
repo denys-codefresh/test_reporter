@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384301' stop='1546606384339'>
+    <name>Kubernetes controller unit test Call service middleware should call kube-services</name>
+    <title>Kubernetes controller unit test Call service middleware should call kube-services</title>
+    <test-cases>
+        <test-case start='1546606384301' status='passed' stop='1546606384310'>
+            <name>should send accountId and selector to get cluster credentilas</name>
+            <title>should send accountId and selector to get cluster credentilas</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384315' status='passed' stop='1546606384322'>
+            <name>should sent data to kube service</name>
+            <title>should sent data to kube service</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384327' status='passed' stop='1546606384334'>
+            <name>should call twice kube service for two selectors</name>
+            <title>should call twice kube service for two selectors</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962856524' stop='1546962857443'>
+    <name>Cloud provider Aws promiseAws - promisifies aws sdk with retry negative</name>
+    <title>Cloud provider Aws promiseAws - promisifies aws sdk with retry negative</title>
+    <test-cases>
+        <test-case start='1546962856524' status='passed' stop='1546962856527'>
+            <name>Should Fail</name>
+            <title>Should Fail</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962856527' status='passed' stop='1546962857442'>
+            <name>Should Fail on 4th try</name>
+            <title>Should Fail on 4th try</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

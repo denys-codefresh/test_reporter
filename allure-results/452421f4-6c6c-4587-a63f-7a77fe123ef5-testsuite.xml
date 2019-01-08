@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384562' stop='1546606384564'>
+    <name>Docker Node API - validate validate validateRequest negative</name>
+    <title>Docker Node API - validate validate validateRequest negative</title>
+    <test-cases>
+        <test-case start='1546606384562' status='passed' stop='1546606384563'>
+            <name>validate Customer Node - should fail with "Maximum available nodes exceeded"</name>
+            <title>validate Customer Node - should fail with "Maximum available nodes exceeded"</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

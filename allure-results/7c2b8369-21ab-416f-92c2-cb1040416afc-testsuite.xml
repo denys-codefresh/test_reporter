@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606362862' stop='1546606362865'>
+    <name>Bitbucket Provider Unit Tests getRepositoryFileURL</name>
+    <title>Bitbucket Provider Unit Tests getRepositoryFileURL</title>
+    <test-cases>
+        <test-case start='1546606362862' status='passed' stop='1546606362865'>
+            <name>should return proper Bitbucket file URL</name>
+            <title>should return proper Bitbucket file URL</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

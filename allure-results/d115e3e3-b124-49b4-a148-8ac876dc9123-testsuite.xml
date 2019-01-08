@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962842503' stop='1546962842524'>
+    <name>Boards controller unit tests Get board</name>
+    <title>Boards controller unit tests Get board</title>
+    <test-cases>
+        <test-case start='1546962842503' status='passed' stop='1546962842514'>
+            <name>should response with 200 and board</name>
+            <title>should response with 200 and board</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962842514' status='passed' stop='1546962842524'>
+            <name>should throw NotFoundGatewayError if board of type not found in account</name>
+            <title>should throw NotFoundGatewayError if board of type not found in account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

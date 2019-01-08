@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941805147' stop='1546941805148'>
+    <name>monitor nodes - handles all operations on nodes nodeExists - return boolean if nodes exists positive tests</name>
+    <title>monitor nodes - handles all operations on nodes nodeExists - return boolean if nodes exists positive tests</title>
+    <test-cases>
+        <test-case start='1546941805147' status='passed' stop='1546941805147'>
+            <name>should return true if the node exists</name>
+            <title>should return true if the node exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941805148' status='passed' stop='1546941805148'>
+            <name>should return false if the node does not exist</name>
+            <title>should return false if the node does not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

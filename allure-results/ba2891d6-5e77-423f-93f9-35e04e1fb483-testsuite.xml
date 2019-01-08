@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941820019' stop='1546941820020'>
+    <name>Admin Account Integration Tests getAccount positive</name>
+    <title>Admin Account Integration Tests getAccount positive</title>
+    <test-cases>
+        <test-case start='1546941820019' status='pending' stop='1546941820019'>
+            <name>it should return an account the exists</name>
+            <title>it should return an account the exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941799893' stop='1546941799896'>
+    <name>Handle SIGTERM signal</name>
+    <title>Handle SIGTERM signal</title>
+    <test-cases>
+        <test-case start='1546941799893' status='passed' stop='1546941799896'>
+            <name>should stop build manager after 30 seconds and should kill the process after 30 seconds</name>
+            <title>should stop build manager after 30 seconds and should kill the process after 30 seconds</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

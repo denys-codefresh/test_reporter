@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386706' stop='1546606386711'>
+    <name>security security validations bitbucket validations positive</name>
+    <title>security security validations bitbucket validations positive</title>
+    <test-cases>
+        <test-case start='1546606386706' status='passed' stop='1546606386711'>
+            <name>should succeed in case x-hook-uuid header equal the external id saved on the trigger</name>
+            <title>should succeed in case x-hook-uuid header equal the external id saved on the trigger</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

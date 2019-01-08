@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941818787' stop='1546941818788'>
+    <name>InternalServerError</name>
+    <title>InternalServerError</title>
+    <test-cases>
+        <test-case start='1546941818788' status='passed' stop='1546941818788'>
+            <name>Build reports correctly</name>
+            <title>Build reports correctly</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941818788' status='passed' stop='1546941818788'>
+            <name>buildExternalMessage</name>
+            <title>buildExternalMessage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

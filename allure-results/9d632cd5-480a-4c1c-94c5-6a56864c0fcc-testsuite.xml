@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941835750' stop='1546941835841'>
+    <name>Admin Users Integration Tests 1. getAll - Get all users</name>
+    <title>Admin Users Integration Tests 1. getAll - Get all users</title>
+    <test-cases>
+        <test-case start='1546941835750' status='passed' stop='1546941835818'>
+            <name>1.1 should return all users</name>
+            <title>1.1 should return all users</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835818' status='passed' stop='1546941835841'>
+            <name>1.2 should search user without case sensitive</name>
+            <title>1.2 should search user without case sensitive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

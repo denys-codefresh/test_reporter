@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941800663' stop='1546941800663'>
+    <name>Scheduler - common getRuntimeEnvConf</name>
+    <title>Scheduler - common getRuntimeEnvConf</title>
+    <test-cases>
+        <test-case start='1546941800663' status='pending' stop='1546941800663'>
+            <name>getRuntimeEnvConf should return config.runtimeEnvironments of the workflow context</name>
+            <title>getRuntimeEnvConf should return config.runtimeEnvironments of the workflow context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941800663' status='pending' stop='1546941800663'>
+            <name>getRuntimeEnvConf should return defaultRuntimeEnvConf by default (consulNodes)</name>
+            <title>getRuntimeEnvConf should return defaultRuntimeEnvConf by default (consulNodes)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

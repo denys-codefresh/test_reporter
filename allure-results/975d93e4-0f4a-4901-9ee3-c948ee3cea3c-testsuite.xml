@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941836353' stop='1546941836362'>
+    <name>System Internal Controller publishEventOnBehalf negative</name>
+    <title>System Internal Controller publishEventOnBehalf negative</title>
+    <test-cases>
+        <test-case start='1546941836354' status='passed' stop='1546941836355'>
+            <name>should fail in case of error in eventbus</name>
+            <title>should fail in case of error in eventbus</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836355' status='passed' stop='1546941836356'>
+            <name>should fail in case event name is missing</name>
+            <title>should fail in case event name is missing</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836357' status='passed' stop='1546941836360'>
+            <name>should fail in case publisher field is missing</name>
+            <title>should fail in case publisher field is missing</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836361' status='passed' stop='1546941836362'>
+            <name>should fail in case aggregateId is missing</name>
+            <title>should fail in case aggregateId is missing</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

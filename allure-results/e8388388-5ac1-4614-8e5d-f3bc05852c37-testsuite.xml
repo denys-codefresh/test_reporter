@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962841265' stop='1546962841394'>
+    <name>Accounts Unit Tests 2. update - updates user account 2.2 negative</name>
+    <title>Accounts Unit Tests 2. update - updates user account 2.2 negative</title>
+    <test-cases>
+        <test-case start='1546962841265' status='passed' stop='1546962841292'>
+            <name>2.2.1 should fail when trying to update notifications with type mail</name>
+            <title>2.2.1 should fail when trying to update notifications with type mail</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962841292' status='passed' stop='1546962841318'>
+            <name>2.2.2 should fail when trying to update notifications type webhook without uri</name>
+            <title>2.2.2 should fail when trying to update notifications type webhook without uri</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962841318' status='passed' stop='1546962841342'>
+            <name>2.2.3 should fail when trying to update notifications type slack without uri</name>
+            <title>2.2.3 should fail when trying to update notifications type slack without uri</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962841342' status='pending' stop='1546962841342'>
+            <name>2.2.4 should fail when trying to update user email which is invalid</name>
+            <title>2.2.4 should fail when trying to update user email which is invalid</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962841342' status='passed' stop='1546962841368'>
+            <name>2.2.5 should fail when trying to update non pending user</name>
+            <title>2.2.5 should fail when trying to update non pending user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962841368' status='passed' stop='1546962841394'>
+            <name>2.2.5 should throw when updating slack notification without type</name>
+            <title>2.2.5 should throw when updating slack notification without type</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

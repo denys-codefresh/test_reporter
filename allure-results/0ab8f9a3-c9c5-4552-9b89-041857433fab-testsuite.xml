@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941828544' stop='1546941828680'>
+    <name>Docker Hub Registry Unit Tests :Update</name>
+    <title>Docker Hub Registry Unit Tests :Update</title>
+    <test-cases>
+        <test-case start='1546941828544' status='passed' stop='1546941828573'>
+            <name>should successfully update credentials (username)</name>
+            <title>should successfully update credentials (username)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941828573' status='passed' stop='1546941828598'>
+            <name>should successfully update credentials (password)</name>
+            <title>should successfully update credentials (password)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941828598' status='passed' stop='1546941828628'>
+            <name>should fail to update credentials (username) to be empty</name>
+            <title>should fail to update credentials (username) to be empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941828628' status='passed' stop='1546941828654'>
+            <name>should fail to update credentials (password) to be empty</name>
+            <title>should fail to update credentials (password) to be empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941828654' status='passed' stop='1546941828680'>
+            <name>should fail to update the dockerhub domain</name>
+            <title>should fail to update the dockerhub domain</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

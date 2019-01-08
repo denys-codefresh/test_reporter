@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962857497' stop='1546962857525'>
+    <name>providers.cloud.azure</name>
+    <title>providers.cloud.azure</title>
+    <test-cases>
+        <test-case start='1546962857497' status='passed' stop='1546962857498'>
+            <name>getNodeSettings</name>
+            <title>getNodeSettings</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857498' status='passed' stop='1546962857498'>
+            <name>getNodeTemplate</name>
+            <title>getNodeTemplate</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

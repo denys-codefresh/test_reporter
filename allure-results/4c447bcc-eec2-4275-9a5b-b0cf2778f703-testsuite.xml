@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941805128' stop='1546941805132'>
+    <name>monitor nodes - handles all operations on nodes addOrUpdate - add or update a node negative tests</name>
+    <title>monitor nodes - handles all operations on nodes addOrUpdate - add or update a node negative tests</title>
+    <test-cases>
+        <test-case start='1546941805128' status='passed' stop='1546941805129'>
+            <name>should throw an error in case no nodes was provided</name>
+            <title>should throw an error in case no nodes was provided</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941805129' status='passed' stop='1546941805130'>
+            <name>should throw an error in case provided node is not a Node class</name>
+            <title>should throw an error in case provided node is not a Node class</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941805130' status='passed' stop='1546941805131'>
+            <name>should throw an error in case id param is missing</name>
+            <title>should throw an error in case id param is missing</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

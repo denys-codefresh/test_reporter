@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941827380' stop='1546941827384'>
+    <name>Docker Node API - nodes nodes configureNode</name>
+    <title>Docker Node API - nodes nodes configureNode</title>
+    <test-cases>
+        <test-case start='1546941827380' status='passed' stop='1546941827382'>
+            <name>should call request.post to cf-configurator docker-node playbook</name>
+            <title>should call request.post to cf-configurator docker-node playbook</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827382' status='passed' stop='1546941827383'>
+            <name>should call request.post to cf-configurator dind-node playbook</name>
+            <title>should call request.post to cf-configurator dind-node playbook</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827383' status='passed' stop='1546941827384'>
+            <name>should call not call request.post if configurator is not configured</name>
+            <title>should call not call request.post if configurator is not configured</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

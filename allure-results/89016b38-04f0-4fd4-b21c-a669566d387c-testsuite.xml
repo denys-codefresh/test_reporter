@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962850427' stop='1546962850574'>
+    <name>Docker Hub Registry Unit Tests :Create</name>
+    <title>Docker Hub Registry Unit Tests :Create</title>
+    <test-cases>
+        <test-case start='1546962850427' status='passed' stop='1546962850451'>
+            <name>should successfully create a new registry record</name>
+            <title>should successfully create a new registry record</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962850451' status='passed' stop='1546962850474'>
+            <name>should mark the first created registry as default</name>
+            <title>should mark the first created registry as default</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962850474' status='passed' stop='1546962850499'>
+            <name>should fail on missing credentials (all)</name>
+            <title>should fail on missing credentials (all)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962850499' status='passed' stop='1546962850524'>
+            <name>should fail on missing credentials (username)</name>
+            <title>should fail on missing credentials (username)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962850524' status='passed' stop='1546962850546'>
+            <name>should fail on missing credentials (password)</name>
+            <title>should fail on missing credentials (password)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962850546' status='passed' stop='1546962850574'>
+            <name>should fail when creating two dockerhub entries</name>
+            <title>should fail when creating two dockerhub entries</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

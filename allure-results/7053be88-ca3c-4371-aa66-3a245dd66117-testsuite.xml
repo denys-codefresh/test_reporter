@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962857607' stop='1546962857615'>
+    <name>Build strategies unit tests RESTART_FAILED_STEPS positive</name>
+    <title>Build strategies unit tests RESTART_FAILED_STEPS positive</title>
+    <test-cases>
+        <test-case start='1546962857607' status='passed' stop='1546962857611'>
+            <name>Should return previous workflow context</name>
+            <title>Should return previous workflow context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857611' status='passed' stop='1546962857613'>
+            <name>Should call to the logger and print proper message about the action</name>
+            <title>Should call to the logger and print proper message about the action</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857613' status='passed' stop='1546962857614'>
+            <name>Should remove all failed steps from steps matadata</name>
+            <title>Should remove all failed steps from steps matadata</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384246' stop='1546606384283'>
+    <name>No mongo... getImageIdByInternalImageId</name>
+    <title>No mongo... getImageIdByInternalImageId</title>
+    <test-cases>
+        <test-case start='1546606384246' status='passed' stop='1546606384250'>
+            <name>when image found</name>
+            <title>when image found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

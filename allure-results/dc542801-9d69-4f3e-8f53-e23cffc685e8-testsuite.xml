@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384286' stop='1546606384300'>
+    <name>Kubernetes controller unit test Call service middleware no selectors</name>
+    <title>Kubernetes controller unit test Call service middleware no selectors</title>
+    <test-cases>
+        <test-case start='1546606384286' status='passed' stop='1546606384297'>
+            <name>should response with 200 and empty array</name>
+            <title>should response with 200 and empty array</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606392663' stop='1546606392672'>
+    <name>providers.cloud.azure allocateNewNode</name>
+    <title>providers.cloud.azure allocateNewNode</title>
+    <test-cases>
+        <test-case start='1546606392663' status='passed' stop='1546606392665'>
+            <name>allocateNewNode - firstNode</name>
+            <title>allocateNewNode - firstNode</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392665' status='passed' stop='1546606392669'>
+            <name>allocateNewNode - lockedNode</name>
+            <title>allocateNewNode - lockedNode</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392669' status='passed' stop='1546606392672'>
+            <name>allocateNewNode - lockedAllNodes</name>
+            <title>allocateNewNode - lockedAllNodes</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

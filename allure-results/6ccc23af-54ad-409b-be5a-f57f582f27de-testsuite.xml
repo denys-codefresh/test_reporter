@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962826064' stop='1546962826067'>
+    <name>monitor consul - handles all operations performed through consul getDockerNodes - get all docker nodes including extension of key value data positive tests</name>
+    <title>monitor consul - handles all operations performed through consul getDockerNodes - get all docker nodes including extension of key value data positive tests</title>
+    <test-cases>
+        <test-case start='1546962826064' status='passed' stop='1546962826067'>
+            <name>should return all docker nodes with extended information of key value</name>
+            <title>should return all docker nodes with extended information of key value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

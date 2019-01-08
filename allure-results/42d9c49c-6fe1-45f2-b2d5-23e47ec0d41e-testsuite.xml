@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941822205' stop='1546941822233'>
+    <name>Environments Can start new environment</name>
+    <title>Environments Can start new environment</title>
+    <test-cases>
+        <test-case start='1546941822205' status='passed' stop='1546941822213'>
+            <name>Experience an error while listing environments</name>
+            <title>Experience an error while listing environments</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941822213' status='passed' stop='1546941822220'>
+            <name>Limit not reached</name>
+            <title>Limit not reached</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941822220' status='passed' stop='1546941822226'>
+            <name>Limit reached</name>
+            <title>Limit reached</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941822226' status='passed' stop='1546941822233'>
+            <name>Allocate docker node</name>
+            <title>Allocate docker node</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

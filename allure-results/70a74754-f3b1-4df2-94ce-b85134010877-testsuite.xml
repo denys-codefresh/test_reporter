@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962858320' stop='1546962858345'>
+    <name>Compositions Post Planner Process</name>
+    <title>Compositions Post Planner Process</title>
+    <test-cases>
+        <test-case start='1546962858320' status='passed' stop='1546962858323'>
+            <name>Process inline composition</name>
+            <title>Process inline composition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962858323' status='passed' stop='1546962858327'>
+            <name>Process composition path</name>
+            <title>Process composition path</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962858327' status='passed' stop='1546962858331'>
+            <name>Process composition name</name>
+            <title>Process composition name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962858332' status='passed' stop='1546962858336'>
+            <name>Process composition v2 name and replace declared image with target image asset</name>
+            <title>Process composition v2 name and replace declared image with target image asset</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962858337' status='passed' stop='1546962858340'>
+            <name>Process composition v2 and remove composition variables with new empty value</name>
+            <title>Process composition v2 and remove composition variables with new empty value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962858340' status='passed' stop='1546962858345'>
+            <name>Process composition v1 name and replace declared image with target image asset</name>
+            <title>Process composition v1 name and replace declared image with target image asset</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

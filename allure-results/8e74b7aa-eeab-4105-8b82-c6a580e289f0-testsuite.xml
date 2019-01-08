@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384526' stop='1546606384531'>
+    <name>Docker Node API - nodeAuth nodeAuth authenticateRequest negative</name>
+    <title>Docker Node API - nodeAuth nodeAuth authenticateRequest negative</title>
+    <test-cases>
+        <test-case start='1546606384526' status='passed' stop='1546606384527'>
+            <name>should call next with CFError if no token</name>
+            <title>should call next with CFError if no token</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384528' status='passed' stop='1546606384529'>
+            <name>should call next with CFError if token without runtimeEnvironment</name>
+            <title>should call next with CFError if token without runtimeEnvironment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384529' status='passed' stop='1546606384531'>
+            <name>should call next with Error("invalid signature") if token with wrong signature</name>
+            <title>should call next with Error("invalid signature") if token with wrong signature</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

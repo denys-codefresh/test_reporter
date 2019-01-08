@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606357836' stop='1546606357838'>
+    <name>IDP unit tests /:clientName/callback</name>
+    <title>IDP unit tests /:clientName/callback</title>
+    <test-cases>
+        <test-case start='1546606357836' status='passed' stop='1546606357838'>
+            <name>login</name>
+            <title>login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

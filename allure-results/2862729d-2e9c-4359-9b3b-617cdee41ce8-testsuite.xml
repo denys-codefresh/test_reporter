@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962823184' stop='1546962823363'>
+    <name>Progress Tests 5. getJob - Get a job</name>
+    <title>Progress Tests 5. getJob - Get a job</title>
+    <test-cases>
+        <test-case start='1546962823184' status='passed' stop='1546962823224'>
+            <name>should get a job for an existing job and valid user</name>
+            <title>should get a job for an existing job and valid user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962823224' status='passed' stop='1546962823258'>
+            <name>should fail to get a non existing job</name>
+            <title>should fail to get a non existing job</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962823258' status='passed' stop='1546962823292'>
+            <name>should succeed when trying to get a private build job without a user but with ignoreRestrictions flag</name>
+            <title>should succeed when trying to get a private build job without a user but with ignoreRestrictions flag</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962823292' status='passed' stop='1546962823328'>
+            <name>should fail to get for a wrong format job id</name>
+            <title>should fail to get for a wrong format job id</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962823328' status='passed' stop='1546962823363'>
+            <name>should fail to get for a wrong format job id</name>
+            <title>should fail to get for a wrong format job id</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

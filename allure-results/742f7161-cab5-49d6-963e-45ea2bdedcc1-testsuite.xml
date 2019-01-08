@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962841395' stop='1546962841491'>
+    <name>Accounts Unit Tests 3. create new account</name>
+    <title>Accounts Unit Tests 3. create new account</title>
+    <test-cases>
+        <test-case start='1546962841395' status='passed' stop='1546962841437'>
+            <name>And succeed</name>
+            <title>And succeed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962841437' status='passed' stop='1546962841464'>
+            <name>Make sure admin isn't added twice</name>
+            <title>Make sure admin isn't added twice</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

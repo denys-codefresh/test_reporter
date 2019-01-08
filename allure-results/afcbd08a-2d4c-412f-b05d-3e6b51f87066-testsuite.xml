@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941820033' stop='1546941820033'>
+    <name>Badge controller unit tests Router</name>
+    <title>Badge controller unit tests Router</title>
+    <test-cases>
+        <test-case start='1546941820033' status='passed' stop='1546941820033'>
+            <name>Should return router instance</name>
+            <title>Should return router instance</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

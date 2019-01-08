@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606361471' stop='1546606361475'>
+    <name>monitor listener reportNodeHandler - handles report-node event</name>
+    <title>monitor listener reportNodeHandler - handles report-node event</title>
+    <test-cases>
+        <test-case start='1546606361471' status='passed' stop='1546606361472'>
+            <name>in case passed a single node should call addOrUpdateNode</name>
+            <title>in case passed a single node should call addOrUpdateNode</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606361472' status='passed' stop='1546606361473'>
+            <name>in case passed multiple nodes should call addOrUpdateNode for each node</name>
+            <title>in case passed multiple nodes should call addOrUpdateNode for each node</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606361473' status='passed' stop='1546606361475'>
+            <name>should not do anything in case no node/s were provided</name>
+            <title>should not do anything in case no node/s were provided</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941804074' stop='1546941804077'>
+    <name>monitor listener listenOnEvents - starts listening on events negative tests</name>
+    <title>monitor listener listenOnEvents - starts listening on events negative tests</title>
+    <test-cases>
+        <test-case start='1546941804074' status='passed' stop='1546941804076'>
+            <name>should return an error in case the event handler threw an error</name>
+            <title>should return an error in case the event handler threw an error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

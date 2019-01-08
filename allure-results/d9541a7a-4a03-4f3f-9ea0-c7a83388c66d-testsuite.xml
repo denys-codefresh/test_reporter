@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962843314' stop='1546962843344'>
+    <name>createYamlHandlerFunc unit test</name>
+    <title>createYamlHandlerFunc unit test</title>
+    <test-cases>
+        <test-case start='1546962843335' status='passed' stop='1546962843336'>
+            <name>Check prepared data for createWorkflowJob</name>
+            <title>Check prepared data for createWorkflowJob</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843337' status='passed' stop='1546962843337'>
+            <name>Should throw NotFoundLogicError if release commit not found</name>
+            <title>Should throw NotFoundLogicError if release commit not found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843337' status='passed' stop='1546962843340'>
+            <name>Should get context from service if user hasnt provider</name>
+            <title>Should get context from service if user hasnt provider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

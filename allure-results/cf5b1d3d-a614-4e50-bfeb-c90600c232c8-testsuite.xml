@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962849236' stop='1546962849247'>
+    <name>Kubernetes logic _updateWorkflowWithHelmValueFile</name>
+    <title>Kubernetes logic _updateWorkflowWithHelmValueFile</title>
+    <test-cases>
+        <test-case start='1546962849236' status='passed' stop='1546962849237'>
+            <name>should return the the same dynamic workflow when values not passed</name>
+            <title>should return the the same dynamic workflow when values not passed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849237' status='passed' stop='1546962849239'>
+            <name>with only context exist</name>
+            <title>with only context exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849239' status='passed' stop='1546962849241'>
+            <name>with two contexts</name>
+            <title>with two contexts</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849241' status='passed' stop='1546962849242'>
+            <name>with multiple</name>
+            <title>with multiple</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849242' status='passed' stop='1546962849244'>
+            <name>with plain values</name>
+            <title>with plain values</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

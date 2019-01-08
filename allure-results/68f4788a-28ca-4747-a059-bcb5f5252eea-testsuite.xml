@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606337696' stop='1546606337701'>
+    <name>Bitbucket Provider Unit Tests 1. Refresh Token Tests 1.5 Calling a general bitbucket api when expiry time has passed but bitbucket provided partial information in response should fail with correct reason</name>
+    <title>Bitbucket Provider Unit Tests 1. Refresh Token Tests 1.5 Calling a general bitbucket api when expiry time has passed but bitbucket provided partial information in response should fail with correct reason</title>
+    <test-cases>
+        <test-case start='1546606337696' status='passed' stop='1546606337698'>
+            <name>1.5.1 calling getOrgs but not returning access token</name>
+            <title>1.5.1 calling getOrgs but not returning access token</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606337699' status='passed' stop='1546606337700'>
+            <name>1.5.2 calling getOrgs but not returning refreshs token</name>
+            <title>1.5.2 calling getOrgs but not returning refreshs token</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

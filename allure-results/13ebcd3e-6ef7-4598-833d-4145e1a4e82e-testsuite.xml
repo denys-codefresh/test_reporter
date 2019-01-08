@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386700' stop='1546606386706'>
+    <name>security security validations github validations negative</name>
+    <title>security security validations github validations negative</title>
+    <test-cases>
+        <test-case start='1546606386700' status='passed' stop='1546606386706'>
+            <name>should fail in case codefresh secret is different than the secret github used to create the hash</name>
+            <title>should fail in case codefresh secret is different than the secret github used to create the hash</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

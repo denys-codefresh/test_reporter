@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606359382' stop='1546606359495'>
+    <name>User Integration Tests 1. updateUserDetails - Update user details (not sensestive) 1.1 positive</name>
+    <title>User Integration Tests 1. updateUserDetails - Update user details (not sensestive) 1.1 positive</title>
+    <test-cases>
+        <test-case start='1546606359382' status='passed' stop='1546606359396'>
+            <name>1.1.1 should succeed when not passing any data and keep current user</name>
+            <title>1.1.1 should succeed when not passing any data and keep current user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606359396' status='passed' stop='1546606359410'>
+            <name>1.1.2 should succeed when trying to change email address</name>
+            <title>1.1.2 should succeed when trying to change email address</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606359410' status='passed' stop='1546606359424'>
+            <name>1.1.3 should succeed when updating mail notification</name>
+            <title>1.1.3 should succeed when updating mail notification</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606359424' status='passed' stop='1546606359437'>
+            <name>1.1.4 should succeed with very short email</name>
+            <title>1.1.4 should succeed with very short email</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606359437' status='passed' stop='1546606359451'>
+            <name>1.1.5 should succeed with very short email with io sufix</name>
+            <title>1.1.5 should succeed with very short email with io sufix</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606359451' status='passed' stop='1546606359467'>
+            <name>1.1.6 should succeed with very short email with io sufix</name>
+            <title>1.1.6 should succeed with very short email with io sufix</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606359467' status='passed' stop='1546606359481'>
+            <name>1.1.7 should succeed with very short email with io sufix</name>
+            <title>1.1.7 should succeed with very short email with io sufix</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606359481' status='passed' stop='1546606359495'>
+            <name>1.1.8 should succeed with very short email with io sufix</name>
+            <title>1.1.8 should succeed with very short email with io sufix</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

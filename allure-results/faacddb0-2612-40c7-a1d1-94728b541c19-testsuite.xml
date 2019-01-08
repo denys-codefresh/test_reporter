@@ -1,0 +1,279 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606380309' stop='1546606381373'>
+    <name>General operations</name>
+    <title>General operations</title>
+    <test-cases>
+        <test-case start='1546606380309' status='passed' stop='1546606380346'>
+            <name>create SSO Configs positive</name>
+            <title>create SSO Configs positive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380346' status='passed' stop='1546606380376'>
+            <name>create SSO negative, must not created duplicated clientName or clientID</name>
+            <title>create SSO negative, must not created duplicated clientName or clientID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380376' status='passed' stop='1546606380404'>
+            <name>create SSO negative, must not created when accounts not related to customer</name>
+            <title>create SSO negative, must not created when accounts not related to customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380404' status='passed' stop='1546606380434'>
+            <name>update SSO Configs positive</name>
+            <title>update SSO Configs positive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380434' status='passed' stop='1546606380465'>
+            <name>update SSO Configs must not update if accounts not related to customer</name>
+            <title>update SSO Configs must not update if accounts not related to customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380465' status='passed' stop='1546606380500'>
+            <name>update SSO Configs must update if accounts related to customer</name>
+            <title>update SSO Configs must update if accounts related to customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380500' status='passed' stop='1546606380530'>
+            <name>add account to SSO Configs positive</name>
+            <title>add account to SSO Configs positive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380530' status='passed' stop='1546606380579'>
+            <name>add account to SSO Configs negative, accountID should not duplicated</name>
+            <title>add account to SSO Configs negative, accountID should not duplicated</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380579' status='passed' stop='1546606380610'>
+            <name>add accounts to SSO Configs positive</name>
+            <title>add accounts to SSO Configs positive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380610' status='passed' stop='1546606380640'>
+            <name>add accounts to SSO Configs negative, accountID should not duplicated</name>
+            <title>add accounts to SSO Configs negative, accountID should not duplicated</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380640' status='passed' stop='1546606380665'>
+            <name>add accounts to SSO Configs, sso config must exists</name>
+            <title>add accounts to SSO Configs, sso config must exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380665' status='passed' stop='1546606380696'>
+            <name>remove accounts from SSO Configs positive</name>
+            <title>remove accounts from SSO Configs positive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380696' status='passed' stop='1546606380736'>
+            <name>remove SSO Configs by customer positive</name>
+            <title>remove SSO Configs by customer positive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380736' status='passed' stop='1546606380771'>
+            <name>remove SSO Configs by customer, it should not delete if customer not related to config</name>
+            <title>remove SSO Configs by customer, it should not delete if customer not related to config</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380771' status='passed' stop='1546606380799'>
+            <name>remove SSO Configs by account positive</name>
+            <title>remove SSO Configs by account positive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380800' status='passed' stop='1546606380835'>
+            <name>remove SSO Configs by account, it should delete only account if sso have more then one account</name>
+            <title>remove SSO Configs by account, it should delete only account if sso have more then one account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380835' status='passed' stop='1546606380867'>
+            <name>remove SSO Configs by account negative, should not remove if account not related to sso</name>
+            <title>remove SSO Configs by account negative, should not remove if account not related to sso</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380867' status='passed' stop='1546606380893'>
+            <name>find SSO Configs by account and clientName positive</name>
+            <title>find SSO Configs by account and clientName positive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380893' status='passed' stop='1546606380919'>
+            <name>find SSO Configs by account and clientName negative</name>
+            <title>find SSO Configs by account and clientName negative</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380919' status='passed' stop='1546606380950'>
+            <name>find all SSO Configs</name>
+            <title>find all SSO Configs</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380950' status='passed' stop='1546606380977'>
+            <name>find by ID SSO Configs positive</name>
+            <title>find by ID SSO Configs positive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606380977' status='passed' stop='1546606381001'>
+            <name>find by ID SSO Configs negative</name>
+            <title>find by ID SSO Configs negative</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606381001' status='passed' stop='1546606381035'>
+            <name>find SSO Configs by accountId positive</name>
+            <title>find SSO Configs by accountId positive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606381035' status='passed' stop='1546606381061'>
+            <name>find SSO Configs by accountId negative</name>
+            <title>find SSO Configs by accountId negative</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606381061' status='passed' stop='1546606381088'>
+            <name>find SSO Configs by customerId positive</name>
+            <title>find SSO Configs by customerId positive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606381088' status='passed' stop='1546606381118'>
+            <name>find SSO Configs by customerId negative</name>
+            <title>find SSO Configs by customerId negative</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606381118' status='passed' stop='1546606381152'>
+            <name>add accounts to SSO config</name>
+            <title>add accounts to SSO config</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606381152' status='passed' stop='1546606381178'>
+            <name>findSSOConfigsForAccount positive</name>
+            <title>findSSOConfigsForAccount positive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606381178' status='passed' stop='1546606381203'>
+            <name>findSSOConfigsForAccount negative </name>
+            <title>findSSOConfigsForAccount negative </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606381203' status='passed' stop='1546606381244'>
+            <name>fillSSOInUser positive </name>
+            <title>fillSSOInUser positive </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606381244' status='passed' stop='1546606381269'>
+            <name>fillSSOInUser negative - sso must exists </name>
+            <title>fillSSOInUser negative - sso must exists </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606381269' status='passed' stop='1546606381296'>
+            <name>fillSSOInUser negative - user doesnt exists </name>
+            <title>fillSSOInUser negative - user doesnt exists </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606381296' status='passed' stop='1546606381340'>
+            <name>fillSSOInUser negative - should throw error if assigned account not related to current user account </name>
+            <title>fillSSOInUser negative - should throw error if assigned account not related to current user account </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606381340' status='passed' stop='1546606381373'>
+            <name>fillSSOInUser negative - user ido already set </name>
+            <title>fillSSOInUser negative - user ido already set </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

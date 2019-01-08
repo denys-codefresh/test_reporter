@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941835743' stop='1546941835745'>
+    <name>Nodes Get Docker node by ID</name>
+    <title>Nodes Get Docker node by ID</title>
+    <test-cases>
+        <test-case start='1546941835743' status='passed' stop='1546941835744'>
+            <name>Successfully</name>
+            <title>Successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

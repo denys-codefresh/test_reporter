@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941776310' stop='1546941776311'>
+    <name>abac.controller getResourceGrants</name>
+    <title>abac.controller getResourceGrants</title>
+    <test-cases>
+        <test-case start='1546941776310' status='passed' stop='1546941776311'>
+            <name>get grants for the specific resource for all teams in active account</name>
+            <title>get grants for the specific resource for all teams in active account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776311' status='passed' stop='1546941776311'>
+            <name>resource is not specified</name>
+            <title>resource is not specified</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

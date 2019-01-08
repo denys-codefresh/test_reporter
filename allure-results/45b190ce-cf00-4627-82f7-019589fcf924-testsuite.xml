@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941820712' stop='1546941820725'>
+    <name>Boards controller unit tests Get all boards</name>
+    <title>Boards controller unit tests Get all boards</title>
+    <test-cases>
+        <test-case start='1546941820712' status='passed' stop='1546941820725'>
+            <name>should response with 200 and boards array</name>
+            <title>should response with 200 and boards array</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

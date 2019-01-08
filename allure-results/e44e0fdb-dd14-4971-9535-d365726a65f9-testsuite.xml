@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962852228' stop='1546962855516'>
+    <name>Workflows Process</name>
+    <title>Workflows Process</title>
+    <test-cases>
+        <test-case start='1546962852229' status='passed' stop='1546962852266'>
+            <name>Find by request ID</name>
+            <title>Find by request ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962852266' status='passed' stop='1546962852301'>
+            <name>Find non existent process</name>
+            <title>Find non existent process</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962852301' status='passed' stop='1546962852339'>
+            <name>Should return pipeline status for status request</name>
+            <title>Should return pipeline status for status request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962852339' status='passed' stop='1546962852381'>
+            <name>Should throw CFError in case of failure in status request</name>
+            <title>Should throw CFError in case of failure in status request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962852381' status='passed' stop='1546962852412'>
+            <name>Create scmMetadata with proper values</name>
+            <title>Create scmMetadata with proper values</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962852412' status='passed' stop='1546962852446'>
+            <name>Create scmMetadata with webhook trigger and not connected repo</name>
+            <title>Create scmMetadata with webhook trigger and not connected repo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962852446' status='passed' stop='1546962852478'>
+            <name>Create scmMetadata with build trigger and not connected repo</name>
+            <title>Create scmMetadata with build trigger and not connected repo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962852478' status='passed' stop='1546962855515'>
+            <name>Create scmMetadata with proper values AND RETRY</name>
+            <title>Create scmMetadata with proper values AND RETRY</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

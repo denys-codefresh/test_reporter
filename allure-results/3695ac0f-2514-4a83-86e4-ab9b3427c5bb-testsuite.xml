@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386391' stop='1546606386407'>
+    <name>Repo Entity Tests remove webhook positive</name>
+    <title>Repo Entity Tests remove webhook positive</title>
+    <test-cases>
+        <test-case start='1546606386391' status='passed' stop='1546606386400'>
+            <name>should delete git trigger entity in case git trigger entity already exists in the storage</name>
+            <title>should delete git trigger entity in case git trigger entity already exists in the storage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386400' status='passed' stop='1546606386407'>
+            <name>should not delete git trigger entity in case git trigger does not exists in the storage</name>
+            <title>should not delete git trigger entity in case git trigger does not exists in the storage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

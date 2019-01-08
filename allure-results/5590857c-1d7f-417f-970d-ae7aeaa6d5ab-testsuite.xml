@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941813406' stop='1546941813406'>
+    <name>WorkFLow onNoRuntimeAvailable positive</name>
+    <title>WorkFLow onNoRuntimeAvailable positive</title>
+    <test-cases>
+        <test-case start='1546941813406' status='pending' stop='1546941813406'>
+            <name>should start the build and report the error in case of startImmediately flag</name>
+            <title>should start the build and report the error in case of startImmediately flag</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941813406' status='pending' stop='1546941813406'>
+            <name>should update workflow process status back to pending in case of no startImmediately flag</name>
+            <title>should update workflow process status back to pending in case of no startImmediately flag</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941813406' status='pending' stop='1546941813406'>
+            <name>should save ymlDescriptor</name>
+            <title>should save ymlDescriptor</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941813406' status='pending' stop='1546941813406'>
+            <name>Should save in db unsubstitue yaml and sent to plan.create substitue one</name>
+            <title>Should save in db unsubstitue yaml and sent to plan.create substitue one</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

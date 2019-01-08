@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851859' stop='1546962851863'>
+    <name>Workflow environment variable extractor getVariables priority preserve Override SCM variables from</name>
+    <title>Workflow environment variable extractor getVariables priority preserve Override SCM variables from</title>
+    <test-cases>
+        <test-case start='1546962851859' status='passed' stop='1546962851861'>
+            <name>Runtime config</name>
+            <title>Runtime config</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851861' status='passed' stop='1546962851863'>
+            <name>Variable that added to runtime context will higher priority</name>
+            <title>Variable that added to runtime context will higher priority</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

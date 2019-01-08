@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606377256' stop='1546606377258'>
+    <name>Badge logic unit tests Helm release badge _findBadgeInCache negative</name>
+    <title>Badge logic unit tests Helm release badge _findBadgeInCache negative</title>
+    <test-cases>
+        <test-case start='1546606377256' status='passed' stop='1546606377257'>
+            <name>Throw error when badge not found</name>
+            <title>Throw error when badge not found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606377257' status='passed' stop='1546606377258'>
+            <name>Throw error when toleration is too big</name>
+            <title>Throw error when toleration is too big</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

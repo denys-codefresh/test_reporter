@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606357860' stop='1546606357864'>
+    <name>CFBaseError testing Positive:</name>
+    <title>CFBaseError testing Positive:</title>
+    <test-cases>
+        <test-case start='1546606357860' status='passed' stop='1546606357862'>
+            <name>Should init new instance of CFBaseError with a string</name>
+            <title>Should init new instance of CFBaseError with a string</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357862' status='passed' stop='1546606357862'>
+            <name>Should init new instance of CFBaseError with an object</name>
+            <title>Should init new instance of CFBaseError with an object</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357862' status='passed' stop='1546606357863'>
+            <name>Should test nested errors</name>
+            <title>Should test nested errors</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357863' status='passed' stop='1546606357864'>
+            <name>Should test toString on single error</name>
+            <title>Should test toString on single error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357864' status='passed' stop='1546606357864'>
+            <name>Should test toString on nested errors</name>
+            <title>Should test toString on nested errors</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

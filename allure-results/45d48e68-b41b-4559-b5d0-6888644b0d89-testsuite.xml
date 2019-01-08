@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851543' stop='1546962851549'>
+    <name>security security validations github validations positive</name>
+    <title>security security validations github validations positive</title>
+    <test-cases>
+        <test-case start='1546962851543' status='passed' stop='1546962851549'>
+            <name>should succeed in case of calculated hash is the same as in header</name>
+            <title>should succeed in case of calculated hash is the same as in header</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

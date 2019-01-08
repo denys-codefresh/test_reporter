@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962841948' stop='1546962842463'>
+    <name>Badge logic unit tests Helm release badge buildHelmReleaseBadge positive</name>
+    <title>Badge logic unit tests Helm release badge buildHelmReleaseBadge positive</title>
+    <test-cases>
+        <test-case start='1546962841948' status='passed' stop='1546962841950'>
+            <name>when badge not found at all, get it from cluster</name>
+            <title>when badge not found at all, get it from cluster</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962841951' status='passed' stop='1546962842455'>
+            <name>when badge not found due time toleration, get from cache so next time it wont fail with this</name>
+            <title>when badge not found due time toleration, get from cache so next time it wont fail with this</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962842456' status='passed' stop='1546962842462'>
+            <name>when badge found</name>
+            <title>when badge found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

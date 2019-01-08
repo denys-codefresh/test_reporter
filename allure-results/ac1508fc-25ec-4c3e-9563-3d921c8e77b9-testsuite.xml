@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606383726' stop='1546606383872'>
+    <name>Images Tests tag - tags an image positive tests</name>
+    <title>Images Tests tag - tags an image positive tests</title>
+    <test-cases>
+        <test-case start='1546606383726' status='passed' stop='1546606383767'>
+            <name>should tag an image with the provided tag</name>
+            <title>should tag an image with the provided tag</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606383767' status='passed' stop='1546606383826'>
+            <name>should untag previous image with the same tag name</name>
+            <title>should untag previous image with the same tag name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606383826' status='passed' stop='1546606383872'>
+            <name>should not tag an image from different account with the same image name</name>
+            <title>should not tag an image from different account with the same image name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606383872' status='pending' stop='1546606383872'>
+            <name>get image tags</name>
+            <title>get image tags</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606383872' status='pending' stop='1546606383872'>
+            <name>get empty image tags for image with no tags</name>
+            <title>get empty image tags for image with no tags</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606361475' stop='1546606361477'>
+    <name>monitor listener removeNodeHandler - handles remove-node event</name>
+    <title>monitor listener removeNodeHandler - handles remove-node event</title>
+    <test-cases>
+        <test-case start='1546606361475' status='passed' stop='1546606361477'>
+            <name>should call removeNode</name>
+            <title>should call removeNode</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

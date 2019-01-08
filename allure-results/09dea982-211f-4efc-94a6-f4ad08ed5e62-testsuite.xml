@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962827608' stop='1546962828144'>
+    <name>BitbucketServer Provider Unit Tests Repositories BitbucketServer</name>
+    <title>BitbucketServer Provider Unit Tests Repositories BitbucketServer</title>
+    <test-cases>
+        <test-case start='1546962827608' status='passed' stop='1546962827676'>
+            <name>BitbucketServer getRepo</name>
+            <title>BitbucketServer getRepo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827677' status='passed' stop='1546962827741'>
+            <name>BitbucketServer getRepos</name>
+            <title>BitbucketServer getRepos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827742' status='passed' stop='1546962827801'>
+            <name>BitbucketServer getRepos - error</name>
+            <title>BitbucketServer getRepos - error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827801' status='passed' stop='1546962827867'>
+            <name>BitbucketServer getRepos - error 401</name>
+            <title>BitbucketServer getRepos - error 401</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827873' status='passed' stop='1546962828019'>
+            <name>BitbucketServer getBranches</name>
+            <title>BitbucketServer getBranches</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962828020' status='passed' stop='1546962828084'>
+            <name>BitbucketServer getCommits - single</name>
+            <title>BitbucketServer getCommits - single</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962828084' status='passed' stop='1546962828144'>
+            <name>BitbucketServer getCommits - multi</name>
+            <title>BitbucketServer getCommits - multi</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

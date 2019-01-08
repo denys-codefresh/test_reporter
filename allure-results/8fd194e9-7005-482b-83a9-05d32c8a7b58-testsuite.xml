@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606359048' stop='1546606359123'>
+    <name>Progress Tests 8. getLastUpdate - get most recent update</name>
+    <title>Progress Tests 8. getLastUpdate - get most recent update</title>
+    <test-cases>
+        <test-case start='1546606359049' status='passed' stop='1546606359086'>
+            <name>8.1 should return recent update</name>
+            <title>8.1 should return recent update</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606359086' status='passed' stop='1546606359123'>
+            <name>8.2 should handle error in case not able to get lastUpdate</name>
+            <title>8.2 should handle error in case not able to get lastUpdate</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

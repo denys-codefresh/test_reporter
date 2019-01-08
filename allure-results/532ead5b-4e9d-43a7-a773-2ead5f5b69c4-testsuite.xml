@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941836243' stop='1546941836311'>
+    <name>Admin Users Integration Tests 9. activateUser - Activate pending user</name>
+    <title>Admin Users Integration Tests 9. activateUser - Activate pending user</title>
+    <test-cases>
+        <test-case start='1546941836243' status='pending' stop='1546941836243'>
+            <name>9.1 should update an existing user password</name>
+            <title>9.1 should update an existing user password</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941836243' status='passed' stop='1546941836311'>
+            <name>9.2 should fail on no ID</name>
+            <title>9.2 should fail on no ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836311' status='pending' stop='1546941836311'>
+            <name>9.3 should fail on non pending user</name>
+            <title>9.3 should fail on non pending user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

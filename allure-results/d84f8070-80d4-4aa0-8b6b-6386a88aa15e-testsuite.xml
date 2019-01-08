@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606383616' stop='1546606383726'>
+    <name>Images Tests getImage - gets an image by id negative</name>
+    <title>Images Tests getImage - gets an image by id negative</title>
+    <test-cases>
+        <test-case start='1546606383616' status='passed' stop='1546606383651'>
+            <name>should respond with a not found error in case the build does not exist</name>
+            <title>should respond with a not found error in case the build does not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606383651' status='passed' stop='1546606383687'>
+            <name>should respond with a not found error in case the requesting user is not associated with the builds account</name>
+            <title>should respond with a not found error in case the requesting user is not associated with the builds account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606383687' status='passed' stop='1546606383726'>
+            <name>should respond with an error of the length of the id in case the requesting user is not associated with the builds account</name>
+            <title>should respond with an error of the length of the id in case the requesting user is not associated with the builds account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

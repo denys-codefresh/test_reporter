@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384633' stop='1546606384636'>
+    <name>Pipeline controller unit test yamlValidator</name>
+    <title>Pipeline controller unit test yamlValidator</title>
+    <test-cases>
+        <test-case start='1546606384633' status='passed' stop='1546606384634'>
+            <name>Happy path...</name>
+            <title>Happy path...</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384634' status='passed' stop='1546606384636'>
+            <name>Should call next with error on error</name>
+            <title>Should call next with error on error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941821406' stop='1546941821418'>
+    <name>_chooseWorkflowUser unit test Repo pipeline</name>
+    <title>_chooseWorkflowUser unit test Repo pipeline</title>
+    <test-cases>
+        <test-case start='1546941821406' status='passed' stop='1546941821411'>
+            <name>Should return the comitter if found in account and have access to the repo</name>
+            <title>Should return the comitter if found in account and have access to the repo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821411' status='passed' stop='1546941821415'>
+            <name>Should return the different user if the commiter not found in account or not have access to the repo</name>
+            <title>Should return the different user if the commiter not found in account or not have access to the repo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821415' status='passed' stop='1546941821418'>
+            <name>Should return the first user in account if the comitter dosent have access and no other one has</name>
+            <title>Should return the first user in account if the comitter dosent have access and no other one has</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962830648' stop='1546962833678'>
+    <name>SCMServices Logic Unit Tests 1. Retries</name>
+    <title>SCMServices Logic Unit Tests 1. Retries</title>
+    <test-cases>
+        <test-case start='1546962830650' status='passed' stop='1546962830660'>
+            <name>1.1 Should succeed with ConnectivityError and 0 failures</name>
+            <title>1.1 Should succeed with ConnectivityError and 0 failures</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962830661' status='passed' stop='1546962831263'>
+            <name>1.2 Should succeed with ConnectivityError and 2 failures</name>
+            <title>1.2 Should succeed with ConnectivityError and 2 failures</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962831263' status='passed' stop='1546962833673'>
+            <name>1.3 Should fail with ConnectivityError and 5 failures</name>
+            <title>1.3 Should fail with ConnectivityError and 5 failures</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962833673' status='passed' stop='1546962833674'>
+            <name>1.4 Should succeed with ConfigurationError and 0 failures</name>
+            <title>1.4 Should succeed with ConfigurationError and 0 failures</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962833675' status='passed' stop='1546962833675'>
+            <name>1.5 Should fail with ConfigurationError and 1 failures</name>
+            <title>1.5 Should fail with ConfigurationError and 1 failures</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962833676' status='passed' stop='1546962833676'>
+            <name>1.6 Should fail with ConfigurationError and 5 failures</name>
+            <title>1.6 Should fail with ConfigurationError and 5 failures</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

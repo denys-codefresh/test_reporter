@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941807144' stop='1546941807208'>
+    <name>Github SCM Service Unit Tests 6. hasRepositoryAccess</name>
+    <title>Github SCM Service Unit Tests 6. hasRepositoryAccess</title>
+    <test-cases>
+        <test-case start='1546941807144' status='passed' stop='1546941807156'>
+            <name>should return an error in case of a non-404 error</name>
+            <title>should return an error in case of a non-404 error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

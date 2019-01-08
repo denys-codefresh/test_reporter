@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606393445' stop='1546606393578'>
+    <name>Admin Account Integration Tests Internal account api</name>
+    <title>Admin Account Integration Tests Internal account api</title>
+    <test-cases>
+        <test-case start='1546606393445' status='passed' stop='1546606393463'>
+            <name>Get account names</name>
+            <title>Get account names</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393463' status='passed' stop='1546606393479'>
+            <name>Check offset and limit</name>
+            <title>Check offset and limit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393479' status='passed' stop='1546606393502'>
+            <name>getActiveAdminAccountUsers must find admin user when he have active status</name>
+            <title>getActiveAdminAccountUsers must find admin user when he have active status</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393502' status='passed' stop='1546606393526'>
+            <name>getActiveAdminAccountUsers must find admin user when send email allowed</name>
+            <title>getActiveAdminAccountUsers must find admin user when send email allowed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393526' status='passed' stop='1546606393555'>
+            <name>getActiveAdminAccountUsers must not find admin user when he have pending status</name>
+            <title>getActiveAdminAccountUsers must not find admin user when he have pending status</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393555' status='passed' stop='1546606393578'>
+            <name>getActiveAdminAccountUsers must not find admin user when he unsubscribe from email</name>
+            <title>getActiveAdminAccountUsers must not find admin user when he unsubscribe from email</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

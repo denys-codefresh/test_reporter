@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962822888' stop='1546962822967'>
+    <name>Progress Tests 2. createNewJob - Create a new job</name>
+    <title>Progress Tests 2. createNewJob - Create a new job</title>
+    <test-cases>
+        <test-case start='1546962822888' status='passed' stop='1546962822932'>
+            <name>2.1 should be able to create a new job model</name>
+            <title>2.1 should be able to create a new job model</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962822932' status='passed' stop='1546962822967'>
+            <name>2.2. should fail to create a new job model when user id is missing</name>
+            <title>2.2. should fail to create a new job model when user id is missing</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

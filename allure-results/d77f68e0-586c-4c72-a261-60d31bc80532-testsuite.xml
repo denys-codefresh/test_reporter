@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941776296' stop='1546941776305'>
+    <name>abac.controller isAuthorized</name>
+    <title>abac.controller isAuthorized</title>
+    <test-cases>
+        <test-case start='1546941776296' status='passed' stop='1546941776298'>
+            <name>access granted</name>
+            <title>access granted</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776298' status='passed' stop='1546941776299'>
+            <name>view granted with filter</name>
+            <title>view granted with filter</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776300' status='passed' stop='1546941776300'>
+            <name>view granted with filter and default GET action</name>
+            <title>view granted with filter and default GET action</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776300' status='passed' stop='1546941776303'>
+            <name>access denied</name>
+            <title>access denied</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776303' status='passed' stop='1546941776303'>
+            <name>access granted with default action</name>
+            <title>access granted with default action</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776303' status='passed' stop='1546941776304'>
+            <name>team not specified</name>
+            <title>team not specified</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776304' status='passed' stop='1546941776305'>
+            <name>ABAC is disabled</name>
+            <title>ABAC is disabled</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776305' status='passed' stop='1546941776305'>
+            <name>resource not specified</name>
+            <title>resource not specified</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

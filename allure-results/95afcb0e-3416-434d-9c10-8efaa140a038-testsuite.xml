@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941821466' stop='1546941821470'>
+    <name>Cluster logic unit test Get credentials for singal user account</name>
+    <title>Cluster logic unit test Get credentials for singal user account</title>
+    <test-cases>
+        <test-case start='1546941821466' status='passed' stop='1546941821468'>
+            <name>Should prepare request</name>
+            <title>Should prepare request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821468' status='passed' stop='1546941821469'>
+            <name>Should throw an error on failed request</name>
+            <title>Should throw an error on failed request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821469' status='passed' stop='1546941821469'>
+            <name>Should return cluster credentials</name>
+            <title>Should return cluster credentials</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941834185' stop='1546941834186'>
+    <name>monitor node Node base class onAdded - will be called once a node has been added for the first time</name>
+    <title>monitor node Node base class onAdded - will be called once a node has been added for the first time</title>
+    <test-cases>
+        <test-case start='1546941834185' status='passed' stop='1546941834186'>
+            <name>should update updated field</name>
+            <title>should update updated field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

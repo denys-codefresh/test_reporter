@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606357822' stop='1546606357823'>
+    <name>General operations idp schema methods</name>
+    <title>General operations idp schema methods</title>
+    <test-cases>
+        <test-case start='1546606357822' status='passed' stop='1546606357823'>
+            <name>google buildContext should return valid context</name>
+            <title>google buildContext should return valid context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

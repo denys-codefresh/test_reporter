@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962857535' stop='1546962857539'>
+    <name>Cloud provider Gce findFreeMachineName</name>
+    <title>Cloud provider Gce findFreeMachineName</title>
+    <test-cases>
+        <test-case start='1546962857536' status='passed' stop='1546962857537'>
+            <name>should return a machine name with number 1 if no other services exists</name>
+            <title>should return a machine name with number 1 if no other services exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857537' status='passed' stop='1546962857539'>
+            <name>should return a next machine name in case a service already exists</name>
+            <title>should return a next machine name in case a service already exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

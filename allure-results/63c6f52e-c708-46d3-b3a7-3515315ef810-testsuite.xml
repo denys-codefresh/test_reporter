@@ -1,0 +1,167 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941798126' stop='1546941798157'>
+    <name>Stash Provider Unit Tests Not Implemented</name>
+    <title>Stash Provider Unit Tests Not Implemented</title>
+    <test-cases>
+        <test-case start='1546941798126' status='passed' stop='1546941798129'>
+            <name>createRepoStatus</name>
+            <title>createRepoStatus</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798129' status='passed' stop='1546941798131'>
+            <name>compareCommits</name>
+            <title>compareCommits</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798131' status='passed' stop='1546941798134'>
+            <name>createBranch</name>
+            <title>createBranch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798134' status='passed' stop='1546941798136'>
+            <name>mergeBranch</name>
+            <title>mergeBranch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798136' status='passed' stop='1546941798138'>
+            <name>removeBranch</name>
+            <title>removeBranch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798138' status='passed' stop='1546941798140'>
+            <name>getPullRequest</name>
+            <title>getPullRequest</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798140' status='passed' stop='1546941798142'>
+            <name>getAllPullRequests</name>
+            <title>getAllPullRequests</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798142' status='passed' stop='1546941798144'>
+            <name>getAllPullRequestsForRepo</name>
+            <title>getAllPullRequestsForRepo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798144' status='passed' stop='1546941798146'>
+            <name>mergePullRequest</name>
+            <title>mergePullRequest</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798146' status='passed' stop='1546941798147'>
+            <name>addPublicKey</name>
+            <title>addPublicKey</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798147' status='passed' stop='1546941798149'>
+            <name>createPullRequest</name>
+            <title>createPullRequest</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798149' status='passed' stop='1546941798150'>
+            <name>getSpecificPullRequestByBaseAndHead</name>
+            <title>getSpecificPullRequestByBaseAndHead</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798150' status='passed' stop='1546941798151'>
+            <name>getIssues</name>
+            <title>getIssues</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798151' status='passed' stop='1546941798152'>
+            <name>getContributors</name>
+            <title>getContributors</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798152' status='passed' stop='1546941798153'>
+            <name>getOrgMembers</name>
+            <title>getOrgMembers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798153' status='passed' stop='1546941798154'>
+            <name>getOrgMembers</name>
+            <title>getOrgMembers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798154' status='passed' stop='1546941798155'>
+            <name>getOrg</name>
+            <title>getOrg</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798155' status='passed' stop='1546941798156'>
+            <name>getOrgRepos</name>
+            <title>getOrgRepos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798156' status='passed' stop='1546941798157'>
+            <name>isUsingSSH</name>
+            <title>isUsingSSH</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798157' status='passed' stop='1546941798157'>
+            <name>getProviderHostName</name>
+            <title>getProviderHostName</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

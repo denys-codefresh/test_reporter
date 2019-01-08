@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941829965' stop='1546941829975'>
+    <name>Workflow Events tests prepare context event</name>
+    <title>Workflow Events tests prepare context event</title>
+    <test-cases>
+        <test-case start='1546941829966' status='passed' stop='1546941829967'>
+            <name>Should call to event</name>
+            <title>Should call to event</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829967' status='passed' stop='1546941829968'>
+            <name>Should return context when name set explicitly</name>
+            <title>Should return context when name set explicitly</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829968' status='passed' stop='1546941829970'>
+            <name>Should return the default context when no git context set and the clone repo is not the same one as in service obj</name>
+            <title>Should return the default context when no git context set and the clone repo is not the same one as in service obj</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829970' status='passed' stop='1546941829971'>
+            <name>Should return the default context when not git context set and the pipeline is not repo pipeline</name>
+            <title>Should return the default context when not git context set and the pipeline is not repo pipeline</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829971' status='passed' stop='1546941829973'>
+            <name>Should return the user login credentials when default context not found</name>
+            <title>Should return the user login credentials when default context not found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829973' status='passed' stop='1546941829975'>
+            <name>Should return the user login credentials when the cloned repos is the same one as the service obj when the pipeline is from repo</name>
+            <title>Should return the user login credentials when the cloned repos is the same one as the service obj when the pipeline is from repo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

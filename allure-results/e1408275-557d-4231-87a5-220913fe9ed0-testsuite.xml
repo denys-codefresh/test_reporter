@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941782985' stop='1546941782996'>
+    <name>Github Provider Unit Tests 1. getRepos - Get all user repos</name>
+    <title>Github Provider Unit Tests 1. getRepos - Get all user repos</title>
+    <test-cases>
+        <test-case start='1546941782987' status='passed' stop='1546941782992'>
+            <name>1.1 should return all repos accessible to the user</name>
+            <title>1.1 should return all repos accessible to the user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941782992' status='passed' stop='1546941782995'>
+            <name>1.2 should still return the organization repos in the users repos object even if there are no user owned repos</name>
+            <title>1.2 should still return the organization repos in the users repos object even if there are no user owned repos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941782995' status='passed' stop='1546941782996'>
+            <name>1.3 should return no organization repos if there are no organization repos</name>
+            <title>1.3 should return no organization repos if there are no organization repos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962849293' stop='1546962849294'>
+    <name>Slack notification environment Tests positive</name>
+    <title>Slack notification environment Tests positive</title>
+    <test-cases>
+        <test-case start='1546962849293' status='passed' stop='1546962849294'>
+            <name>should send slack message and return 200OK</name>
+            <title>should send slack message and return 200OK</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849294' status='passed' stop='1546962849294'>
+            <name>should call proper method and pass given params</name>
+            <title>should call proper method and pass given params</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

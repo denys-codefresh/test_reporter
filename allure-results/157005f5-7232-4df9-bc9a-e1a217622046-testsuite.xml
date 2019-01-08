@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606387020' stop='1546606387026'>
+    <name>Workflow environment variable extractor getVariables priority preserve Override CF variables from:</name>
+    <title>Workflow environment variable extractor getVariables priority preserve Override CF variables from:</title>
+    <test-cases>
+        <test-case start='1546606387020' status='passed' stop='1546606387023'>
+            <name>pipeline vars</name>
+            <title>pipeline vars</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606387023' status='passed' stop='1546606387026'>
+            <name>Context</name>
+            <title>Context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

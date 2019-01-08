@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962857529' stop='1546962857532'>
+    <name>Cloud provider Gce deletedAllowed</name>
+    <title>Cloud provider Gce deletedAllowed</title>
+    <test-cases>
+        <test-case start='1546962857529' status='passed' stop='1546962857530'>
+            <name>should return true in case node is runtime service</name>
+            <title>should return true in case node is runtime service</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857530' status='passed' stop='1546962857531'>
+            <name>should return true in case node is docker-node service and provider is internal</name>
+            <title>should return true in case node is docker-node service and provider is internal</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857531' status='passed' stop='1546962857532'>
+            <name>should return false in case node is docker-node but provider type is not internal</name>
+            <title>should return false in case node is docker-node but provider type is not internal</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857532' status='passed' stop='1546962857532'>
+            <name>should return false in case node is docker-node but provider object does not exist</name>
+            <title>should return false in case node is docker-node but provider object does not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

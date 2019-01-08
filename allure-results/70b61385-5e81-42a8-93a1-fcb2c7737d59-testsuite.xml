@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851337' stop='1546962851345'>
+    <name>Runtime Logic tests Launch Image</name>
+    <title>Runtime Logic tests Launch Image</title>
+    <test-cases>
+        <test-case start='1546962851337' status='passed' stop='1546962851339'>
+            <name>Fail On No Image Found</name>
+            <title>Fail On No Image Found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851339' status='passed' stop='1546962851341'>
+            <name>Fail On Provisoned Docker Machine Feature Disabled</name>
+            <title>Fail On Provisoned Docker Machine Feature Disabled</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851341' status='passed' stop='1546962851342'>
+            <name>Fail On No Environment Available</name>
+            <title>Fail On No Environment Available</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851342' status='passed' stop='1546962851344'>
+            <name>Successfully</name>
+            <title>Successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851344' status='passed' stop='1546962851345'>
+            <name>Shouldnt add environment if the not variables exist</name>
+            <title>Shouldnt add environment if the not variables exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

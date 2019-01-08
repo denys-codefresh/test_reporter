@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606361388' stop='1546606361397'>
+    <name>monitor consul - handles all operations performed through consul extendDockerNodesWithKvData - extends consul docker nodes with additional information with consul key value positive tests</name>
+    <title>monitor consul - handles all operations performed through consul extendDockerNodesWithKvData - extends consul docker nodes with additional information with consul key value positive tests</title>
+    <test-cases>
+        <test-case start='1546606361388' status='passed' stop='1546606361391'>
+            <name>should not do anything in case dockerNodesKvData param was not passed</name>
+            <title>should not do anything in case dockerNodesKvData param was not passed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606361391' status='passed' stop='1546606361394'>
+            <name>should update docker node with fields from kvData</name>
+            <title>should update docker node with fields from kvData</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606361394' status='passed' stop='1546606361397'>
+            <name>should not extend anything in case kv belongs to a non existing node</name>
+            <title>should not extend anything in case kv belongs to a non existing node</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

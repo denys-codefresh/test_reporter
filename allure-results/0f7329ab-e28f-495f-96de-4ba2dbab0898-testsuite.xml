@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962844030' stop='1546962844047'>
+    <name>Environments getStatus positive tests</name>
+    <title>Environments getStatus positive tests</title>
+    <test-cases>
+        <test-case start='1546962844030' status='passed' stop='1546962844036'>
+            <name>should return the env status in case of a valid flow</name>
+            <title>should return the env status in case of a valid flow</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962844036' status='passed' stop='1546962844041'>
+            <name>should return existing value in case lastUpdate was less than 1 minute ago</name>
+            <title>should return existing value in case lastUpdate was less than 1 minute ago</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962844041' status='passed' stop='1546962844047'>
+            <name>should call runtime getStatus in case lastUpdate is longer than 1 minute ago</name>
+            <title>should call runtime getStatus in case lastUpdate is longer than 1 minute ago</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

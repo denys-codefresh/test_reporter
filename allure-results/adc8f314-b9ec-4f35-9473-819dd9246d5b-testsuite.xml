@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606340347' stop='1546606340353'>
+    <name>Github Provider Unit Tests 5. getRepoPermission positive</name>
+    <title>Github Provider Unit Tests 5. getRepoPermission positive</title>
+    <test-cases>
+        <test-case start='1546606340347' status='passed' stop='1546606340350'>
+            <name>should return private in case repo scope exists</name>
+            <title>should return private in case repo scope exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606340350' status='passed' stop='1546606340352'>
+            <name>should return private in case repo scope exists</name>
+            <title>should return private in case repo scope exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606340352' status='passed' stop='1546606340353'>
+            <name>should return public in case repo scope does not exist</name>
+            <title>should return public in case repo scope does not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

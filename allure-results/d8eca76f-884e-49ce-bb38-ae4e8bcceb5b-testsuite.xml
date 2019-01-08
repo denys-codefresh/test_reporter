@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941827254' stop='1546941827260'>
+    <name>Kubernetes controller unit test Test existed cluster credentials</name>
+    <title>Kubernetes controller unit test Test existed cluster credentials</title>
+    <test-cases>
+        <test-case start='1546941827255' status='passed' stop='1546941827257'>
+            <name>Should success</name>
+            <title>Should success</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827257' status='passed' stop='1546941827260'>
+            <name>Should fail</name>
+            <title>Should fail</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

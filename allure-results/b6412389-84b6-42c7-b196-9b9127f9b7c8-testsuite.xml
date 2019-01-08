@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606385372' stop='1546606385403'>
+    <name>Registries Common Unit Tests :Common :Create</name>
+    <title>Registries Common Unit Tests :Common :Create</title>
+    <test-cases>
+        <test-case start='1546606385372' status='passed' stop='1546606385403'>
+            <name>should fail on unsupported registry provider</name>
+            <title>should fail on unsupported registry provider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

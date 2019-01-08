@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606362564' stop='1546606362576'>
+    <name>monitor nodes - handles all operations on nodes updateAllNodesStatus - updates the status of nodes according to last updated timestamp</name>
+    <title>monitor nodes - handles all operations on nodes updateAllNodesStatus - updates the status of nodes according to last updated timestamp</title>
+    <test-cases>
+        <test-case start='1546606362564' status='passed' stop='1546606362567'>
+            <name>should change status of node to no-response in case current status is running and last updated was above 60 seconds</name>
+            <title>should change status of node to no-response in case current status is running and last updated was above 60 seconds</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606362567' status='passed' stop='1546606362570'>
+            <name>should change status of node to no-response in case current status is warning and last updated was above 60 seconds</name>
+            <title>should change status of node to no-response in case current status is warning and last updated was above 60 seconds</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606362570' status='passed' stop='1546606362572'>
+            <name>should not change status in case current status is creating</name>
+            <title>should not change status in case current status is creating</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606362572' status='passed' stop='1546606362573'>
+            <name>should not change status in case current status is deleting</name>
+            <title>should not change status in case current status is deleting</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606362573' status='passed' stop='1546606362574'>
+            <name>should not do anything in case node status is running and last update is less than 60 seconds</name>
+            <title>should not do anything in case node status is running and last update is less than 60 seconds</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606362574' status='passed' stop='1546606362575'>
+            <name>should change status to running if last update is less than 60 seconds and current status is no-response</name>
+            <title>should change status to running if last update is less than 60 seconds and current status is no-response</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606362575' status='passed' stop='1546606362576'>
+            <name>should call manager.publish - remove-node if no response and node.sigterm</name>
+            <title>should call manager.publish - remove-node if no response and node.sigterm</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

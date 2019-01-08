@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606357870' stop='1546606357872'>
+    <name>CFGatewayError testing</name>
+    <title>CFGatewayError testing</title>
+    <test-cases>
+        <test-case start='1546606357870' status='passed' stop='1546606357870'>
+            <name>Should throw an error when trying to initiate CFGatewayError directly</name>
+            <title>Should throw an error when trying to initiate CFGatewayError directly</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357870' status='passed' stop='1546606357871'>
+            <name>Should test reports</name>
+            <title>Should test reports</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357871' status='passed' stop='1546606357871'>
+            <name>Should init CFGatewayError without cause</name>
+            <title>Should init CFGatewayError without cause</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357871' status='passed' stop='1546606357872'>
+            <name>Should return the last logic error</name>
+            <title>Should return the last logic error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

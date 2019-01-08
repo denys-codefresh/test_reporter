@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962827601' stop='1546962827607'>
+    <name>BitbucketServer Provider Unit Tests Not Implemented BitbucketServer</name>
+    <title>BitbucketServer Provider Unit Tests Not Implemented BitbucketServer</title>
+    <test-cases>
+        <test-case start='1546962827601' status='passed' stop='1546962827602'>
+            <name>BitbucketServer updateRepositoryCommitBuildStatus</name>
+            <title>BitbucketServer updateRepositoryCommitBuildStatus</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827602' status='passed' stop='1546962827602'>
+            <name>BitbucketServer compareCommits</name>
+            <title>BitbucketServer compareCommits</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827602' status='passed' stop='1546962827603'>
+            <name>BitbucketServer createBranch</name>
+            <title>BitbucketServer createBranch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827603' status='passed' stop='1546962827603'>
+            <name>BitbucketServer mergeBranch</name>
+            <title>BitbucketServer mergeBranch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827603' status='passed' stop='1546962827604'>
+            <name>BitbucketServer removeBranch</name>
+            <title>BitbucketServer removeBranch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827604' status='passed' stop='1546962827604'>
+            <name>BitbucketServer getPullRequest</name>
+            <title>BitbucketServer getPullRequest</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827604' status='passed' stop='1546962827605'>
+            <name>BitbucketServer getRepositoryPullRequests</name>
+            <title>BitbucketServer getRepositoryPullRequests</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827605' status='passed' stop='1546962827605'>
+            <name>BitbucketServer getIssues</name>
+            <title>BitbucketServer getIssues</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827605' status='passed' stop='1546962827605'>
+            <name>BitbucketServer getContributors</name>
+            <title>BitbucketServer getContributors</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827606' status='passed' stop='1546962827606'>
+            <name>BitbucketServer getOrgMembers</name>
+            <title>BitbucketServer getOrgMembers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827606' status='passed' stop='1546962827606'>
+            <name>BitbucketServer getOrg</name>
+            <title>BitbucketServer getOrg</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827606' status='passed' stop='1546962827606'>
+            <name>BitbucketServer getOrgRepos</name>
+            <title>BitbucketServer getOrgRepos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827607' status='passed' stop='1546962827607'>
+            <name>BitbucketServer isUsingSSH</name>
+            <title>BitbucketServer isUsingSSH</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827607' status='passed' stop='1546962827607'>
+            <name>BitbucketServer getProviderHostName</name>
+            <title>BitbucketServer getProviderHostName</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

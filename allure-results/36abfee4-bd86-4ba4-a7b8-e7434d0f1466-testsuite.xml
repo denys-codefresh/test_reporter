@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606377053' stop='1546606377103'>
+    <name>Accounts Unit Tests 9. getAccountApiKey positive</name>
+    <title>Accounts Unit Tests 9. getAccountApiKey positive</title>
+    <test-cases>
+        <test-case start='1546606377053' status='passed' stop='1546606377075'>
+            <name>should create api key on get</name>
+            <title>should create api key on get</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606377075' status='passed' stop='1546606377103'>
+            <name>should return same api key on get</name>
+            <title>should return same api key on get</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606362576' stop='1546606362583'>
+    <name>monitor nodes - handles all operations on nodes getNodesByQuery - returns all nodes that answer the query</name>
+    <title>monitor nodes - handles all operations on nodes getNodesByQuery - returns all nodes that answer the query</title>
+    <test-cases>
+        <test-case start='1546606362576' status='passed' stop='1546606362577'>
+            <name>should return an empty array in case query param is missing</name>
+            <title>should return an empty array in case query param is missing</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606362577' status='passed' stop='1546606362579'>
+            <name>should return an empty array in case nothing was passed in query</name>
+            <title>should return an empty array in case nothing was passed in query</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606362579' status='passed' stop='1546606362581'>
+            <name>should return all nodes that match the query</name>
+            <title>should return all nodes that match the query</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606362581' status='passed' stop='1546606362582'>
+            <name>should return all nodes that match the query</name>
+            <title>should return all nodes that match the query</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

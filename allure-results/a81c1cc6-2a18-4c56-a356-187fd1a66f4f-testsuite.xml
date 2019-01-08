@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941802585' stop='1546941802694'>
+    <name>User Integration Tests 8. verifyuser 8.1 positive</name>
+    <title>User Integration Tests 8. verifyuser 8.1 positive</title>
+    <test-cases>
+        <test-case start='1546941802585' status='passed' stop='1546941802616'>
+            <name>8.1.1 verify a pending user</name>
+            <title>8.1.1 verify a pending user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941802616' status='passed' stop='1546941802641'>
+            <name>8.1.2 verify a pending user with new account name should do nothing if it is not the private account</name>
+            <title>8.1.2 verify a pending user with new account name should do nothing if it is not the private account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941802641' status='passed' stop='1546941802668'>
+            <name>8.1.3 verify a pending user with new account name</name>
+            <title>8.1.3 verify a pending user with new account name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941802668' status='passed' stop='1546941802694'>
+            <name>8.1.4 verify a pending user with new account name with same name</name>
+            <title>8.1.4 verify a pending user with new account name with same name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

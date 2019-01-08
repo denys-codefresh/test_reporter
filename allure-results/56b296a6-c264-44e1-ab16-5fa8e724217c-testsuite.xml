@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962822661' stop='1546962822698'>
+    <name>Logic errors tests</name>
+    <title>Logic errors tests</title>
+    <test-cases>
+        <test-case start='1546962822661' status='passed' stop='1546962822661'>
+            <name>Test no collisions of internal codes and names</name>
+            <title>Test no collisions of internal codes and names</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

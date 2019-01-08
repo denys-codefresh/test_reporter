@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606387239' stop='1546606387244'>
+    <name>Normalize workflows Normalize one workflow</name>
+    <title>Normalize workflows Normalize one workflow</title>
+    <test-cases>
+        <test-case start='1546606387239' status='passed' stop='1546606387241'>
+            <name>Should assign data from pipeline when exist</name>
+            <title>Should assign data from pipeline when exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606387241' status='passed' stop='1546606387244'>
+            <name>Should set pipeline name when pipeline not related to repository</name>
+            <title>Should set pipeline name when pipeline not related to repository</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

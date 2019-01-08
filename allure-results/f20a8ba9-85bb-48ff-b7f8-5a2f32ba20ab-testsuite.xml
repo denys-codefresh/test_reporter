@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606378868' stop='1546606378875'>
+    <name>Contexts logic getVariablesFromContexts negative</name>
+    <title>Contexts logic getVariablesFromContexts negative</title>
+    <test-cases>
+        <test-case start='1546606378868' status='passed' stop='1546606378870'>
+            <name>should throw an error in case failed to retrieve a context</name>
+            <title>should throw an error in case failed to retrieve a context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378870' status='passed' stop='1546606378871'>
+            <name>should throw an error in case failed to retrieve a context</name>
+            <title>should throw an error in case failed to retrieve a context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378871' status='passed' stop='1546606378875'>
+            <name>Should not add environment of the repo url when its not match regex</name>
+            <title>Should not add environment of the repo url when its not match regex</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,67 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941780293' stop='1546941780293'>
+    <name>Shallow Firebase Client Asking for Children</name>
+    <title>Shallow Firebase Client Asking for Children</title>
+    <test-cases>
+        <test-case start='1546941780293' status='pending' stop='1546941780293'>
+            <name>should request for the right path when</name>
+            <title>should request for the right path when</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941780293' status='pending' stop='1546941780293'>
+            <name>should add the secret key to the "auth" query parameter</name>
+            <title>should add the secret key to the "auth" query parameter</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941780293' status='pending' stop='1546941780293'>
+            <name>should add the "shallow" query parameter</name>
+            <title>should add the "shallow" query parameter</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941780293' status='pending' stop='1546941780293'>
+            <name>should ask to parse json</name>
+            <title>should ask to parse json</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941780293' status='pending' stop='1546941780293'>
+            <name>should return an array of the children keys</name>
+            <title>should return an array of the children keys</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

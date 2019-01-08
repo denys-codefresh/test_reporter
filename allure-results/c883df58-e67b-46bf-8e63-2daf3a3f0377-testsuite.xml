@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962849331' stop='1546962849344'>
+    <name>validate codefresh YAML from url</name>
+    <title>validate codefresh YAML from url</title>
+    <test-cases>
+        <test-case start='1546962849331' status='passed' stop='1546962849341'>
+            <name>should run "getYamlFromUrl" and continue as from file</name>
+            <title>should run "getYamlFromUrl" and continue as from file</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849341' status='passed' stop='1546962849344'>
+            <name>should run "getYamlFromUrl" catch the error</name>
+            <title>should run "getYamlFromUrl" catch the error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

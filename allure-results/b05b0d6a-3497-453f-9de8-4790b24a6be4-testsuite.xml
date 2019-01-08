@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941780314' stop='1546941780320'>
+    <name>Bitbucket Provider Unit Tests 1. Refresh Token Tests 1.2 Calling refreshToken explicitly and receiving an error status code from bitbucket should be considered as failure</name>
+    <title>Bitbucket Provider Unit Tests 1. Refresh Token Tests 1.2 Calling refreshToken explicitly and receiving an error status code from bitbucket should be considered as failure</title>
+    <test-cases>
+        <test-case start='1546941780314' status='passed' stop='1546941780316'>
+            <name>1.2.1 getting status code 400 from bitbucket</name>
+            <title>1.2.1 getting status code 400 from bitbucket</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780316' status='passed' stop='1546941780318'>
+            <name>1.2.2 getting status code 401 from bitbucket</name>
+            <title>1.2.2 getting status code 401 from bitbucket</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780318' status='passed' stop='1546941780320'>
+            <name>1.2.3 getting status code 500 from bitbucket</name>
+            <title>1.2.3 getting status code 500 from bitbucket</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

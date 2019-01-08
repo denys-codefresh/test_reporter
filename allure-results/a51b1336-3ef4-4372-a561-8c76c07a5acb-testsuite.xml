@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386359' stop='1546606386359'>
+    <name>Repo Entity Tests positive</name>
+    <title>Repo Entity Tests positive</title>
+    <test-cases>
+        <test-case start='1546606386359' status='pending' stop='1546606386359'>
+            <name>should call `getFileUrl` on the `user.provider`</name>
+            <title>should call `getFileUrl` on the `user.provider`</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606386359' status='pending' stop='1546606386359'>
+            <name>should get the file url</name>
+            <title>should get the file url</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606386359' status='pending' stop='1546606386359'>
+            <name>should get null on url with no file path</name>
+            <title>should get null on url with no file path</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386303' stop='1546606386314'>
+    <name>Registry AuthN controller unit tests</name>
+    <title>Registry AuthN controller unit tests</title>
+    <test-cases>
+        <test-case start='1546606386303' status='passed' stop='1546606386305'>
+            <name>#checkAuthentication should create a proper authN request</name>
+            <title>#checkAuthentication should create a proper authN request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386306' status='passed' stop='1546606386306'>
+            <name>#checkAuthentication should return 400 on missing token</name>
+            <title>#checkAuthentication should return 400 on missing token</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386306' status='passed' stop='1546606386306'>
+            <name>#checkAuthentication should return 400 on missing user name</name>
+            <title>#checkAuthentication should return 400 on missing user name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386306' status='passed' stop='1546606386307'>
+            <name>#checkAuthentication should return status code 403</name>
+            <title>#checkAuthentication should return status code 403</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386308' status='passed' stop='1546606386310'>
+            <name>#checkAuthentication should return status code 500</name>
+            <title>#checkAuthentication should return status code 500</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386311' status='passed' stop='1546606386313'>
+            <name>#checkAuthorization should return status code 500 on any error</name>
+            <title>#checkAuthorization should return status code 500 on any error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386313' status='passed' stop='1546606386314'>
+            <name>#createNewToken should properly invoke logic</name>
+            <title>#createNewToken should properly invoke logic</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

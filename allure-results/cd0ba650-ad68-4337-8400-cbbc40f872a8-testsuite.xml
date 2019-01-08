@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962856199' stop='1546962856199'>
+    <name>monitor node Node base class extendFromConsulNode - extends information about the node from consul</name>
+    <title>monitor node Node base class extendFromConsulNode - extends information about the node from consul</title>
+    <test-cases>
+        <test-case start='1546962856199' status='passed' stop='1546962856199'>
+            <name>should not do anything</name>
+            <title>should not do anything</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606358045' stop='1546606358046'>
+    <name>kubernetes scheduler</name>
+    <title>kubernetes scheduler</title>
+    <test-cases>
+        <test-case start='1546606358045' status='pending' stop='1546606358045'>
+            <name>constructor</name>
+            <title>constructor</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606358045' status='pending' stop='1546606358045'>
+            <name>getDindName</name>
+            <title>getDindName</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606358045' status='pending' stop='1546606358045'>
+            <name>estimateDindResources</name>
+            <title>estimateDindResources</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606358045' status='pending' stop='1546606358045'>
+            <name>createDind</name>
+            <title>createDind</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606358045' status='pending' stop='1546606358045'>
+            <name>deletePod - should not reject on fail</name>
+            <title>deletePod - should not reject on fail</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606358045' status='pending' stop='1546606358045'>
+            <name>getDockerNode</name>
+            <title>getDockerNode</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606358045' status='pending' stop='1546606358045'>
+            <name>getDockerNode with connectByPodIp</name>
+            <title>getDockerNode with connectByPodIp</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606358045' status='pending' stop='1546606358045'>
+            <name>getDockerNode with connectByPodIp - negative</name>
+            <title>getDockerNode with connectByPodIp - negative</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606358045' status='pending' stop='1546606358045'>
+            <name>releaseDockerNode</name>
+            <title>releaseDockerNode</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

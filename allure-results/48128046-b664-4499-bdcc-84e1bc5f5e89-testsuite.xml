@@ -1,0 +1,131 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962846067' stop='1546962849077'>
+    <name>Images Tests</name>
+    <title>Images Tests</title>
+    <test-cases>
+        <test-case start='1546962846075' status='passed' stop='1546962846126'>
+            <name>create image</name>
+            <title>create image</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846127' status='passed' stop='1546962846177'>
+            <name>create image with layers</name>
+            <title>create image with layers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846178' status='passed' stop='1546962846222'>
+            <name>create image with layers - layers have SHELL instructions</name>
+            <title>create image with layers - layers have SHELL instructions</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846222' status='passed' stop='1546962846277'>
+            <name>create image after it was already created (rebuild)</name>
+            <title>create image after it was already created (rebuild)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846277' status='passed' stop='1546962846323'>
+            <name>create image with layers after it was already created (rebuild)</name>
+            <title>create image with layers after it was already created (rebuild)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846323' status='pending' stop='1546962846323'>
+            <name>create image and get full data</name>
+            <title>create image and get full data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962846323' status='passed' stop='1546962846378'>
+            <name>report tag</name>
+            <title>report tag</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846378' status='passed' stop='1546962846445'>
+            <name>move tag between images</name>
+            <title>move tag between images</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846445' status='passed' stop='1546962846493'>
+            <name>add user comment</name>
+            <title>add user comment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846493' status='passed' stop='1546962846543'>
+            <name>add metadata</name>
+            <title>add metadata</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846543' status='passed' stop='1546962846599'>
+            <name>update metadata</name>
+            <title>update metadata</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846599' status='passed' stop='1546962846633'>
+            <name>add metadata - image doesn't exist</name>
+            <title>add metadata - image doesn't exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846633' status='passed' stop='1546962846678'>
+            <name>add metadata with invalid image ID</name>
+            <title>add metadata with invalid image ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846679' status='passed' stop='1546962846724'>
+            <name>add invalid metadata</name>
+            <title>add invalid metadata</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962846724' status='passed' stop='1546962846778'>
+            <name>add tag to registry</name>
+            <title>add tag to registry</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

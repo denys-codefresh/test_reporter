@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962802146' stop='1546962802146'>
+    <name>Clean Firebase Environments Logs Cleaner negative</name>
+    <title>Clean Firebase Environments Logs Cleaner negative</title>
+    <test-cases>
+        <test-case start='1546962802146' status='pending' stop='1546962802146'>
+            <name>should not remove logs of environments which exists in mongo</name>
+            <title>should not remove logs of environments which exists in mongo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962802146' status='pending' stop='1546962802146'>
+            <name>should wait for all removals in case of one failing</name>
+            <title>should wait for all removals in case of one failing</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

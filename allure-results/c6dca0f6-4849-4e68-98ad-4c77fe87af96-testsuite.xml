@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941821487' stop='1546941821498'>
+    <name>Composition controller unit test runComposition route</name>
+    <title>Composition controller unit test runComposition route</title>
+    <test-cases>
+        <test-case start='1546941821488' status='passed' stop='1546941821490'>
+            <name>Fail to launch for no available environments</name>
+            <title>Fail to launch for no available environments</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821490' status='passed' stop='1546941821492'>
+            <name>Fail to launch</name>
+            <title>Fail to launch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821492' status='passed' stop='1546941821493'>
+            <name>Fail to launch for no provisioned docker machine feature</name>
+            <title>Fail to launch for no provisioned docker machine feature</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821493' status='passed' stop='1546941821494'>
+            <name>Launch composition</name>
+            <title>Launch composition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821494' status='passed' stop='1546941821495'>
+            <name>Should validate proper flow</name>
+            <title>Should validate proper flow</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821495' status='passed' stop='1546941821498'>
+            <name>Should throw error with details on launch with errors in compositions</name>
+            <title>Should throw error with details on launch with errors in compositions</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

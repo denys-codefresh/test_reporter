@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941827507' stop='1546941827513'>
+    <name>Pipeline controller unit test CRUD on pipeline-manager getPipelineByNameOrId</name>
+    <title>Pipeline controller unit test CRUD on pipeline-manager getPipelineByNameOrId</title>
+    <test-cases>
+        <test-case start='1546941827507' status='passed' stop='1546941827508'>
+            <name>Happy path without decrypt varibles</name>
+            <title>Happy path without decrypt varibles</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827509' status='passed' stop='1546941827510'>
+            <name>Happy path with decrypt variables</name>
+            <title>Happy path with decrypt variables</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827510' status='passed' stop='1546941827511'>
+            <name>On error call next with error</name>
+            <title>On error call next with error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827511' status='passed' stop='1546941827512'>
+            <name>Should return pipeline not found error when pipeline not found</name>
+            <title>Should return pipeline not found error when pipeline not found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

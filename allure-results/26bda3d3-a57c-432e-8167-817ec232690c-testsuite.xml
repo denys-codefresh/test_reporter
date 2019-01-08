@@ -1,0 +1,239 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606393368' stop='1546606393376'>
+    <name>Query Builder tests</name>
+    <title>Query Builder tests</title>
+    <test-cases>
+        <test-case start='1546606393368' status='passed' stop='1546606393368'>
+            <name>default to empty object if query not passed</name>
+            <title>default to empty object if query not passed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393368' status='passed' stop='1546606393368'>
+            <name>simple query building</name>
+            <title>simple query building</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393368' status='passed' stop='1546606393369'>
+            <name>simple query building with pagination</name>
+            <title>simple query building with pagination</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393369' status='passed' stop='1546606393369'>
+            <name>simple query building with sort</name>
+            <title>simple query building with sort</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393369' status='passed' stop='1546606393369'>
+            <name>simple query building with pagination and sort</name>
+            <title>simple query building with pagination and sort</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393369' status='passed' stop='1546606393369'>
+            <name> query building with Schema with properties in schema</name>
+            <title> query building with Schema with properties in schema</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393369' status='passed' stop='1546606393369'>
+            <name> query building with pagination and sort and Schema with properties not in schema</name>
+            <title> query building with pagination and sort and Schema with properties not in schema</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393369' status='passed' stop='1546606393369'>
+            <name> query building with Schema with properties SOME not in schema</name>
+            <title> query building with Schema with properties SOME not in schema</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393369' status='passed' stop='1546606393369'>
+            <name> query building with Schema and string convert</name>
+            <title> query building with Schema and string convert</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393369' status='passed' stop='1546606393370'>
+            <name> query building with Schema with arrays in schema and string convert</name>
+            <title> query building with Schema with arrays in schema and string convert</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393370' status='passed' stop='1546606393370'>
+            <name> query building with Schema with arrays in schema without string convert</name>
+            <title> query building with Schema with arrays in schema without string convert</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393370' status='passed' stop='1546606393370'>
+            <name> query building with select one field</name>
+            <title> query building with select one field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393370' status='passed' stop='1546606393370'>
+            <name> query building with select multiple fields</name>
+            <title> query building with select multiple fields</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393370' status='passed' stop='1546606393371'>
+            <name> query building with filter</name>
+            <title> query building with filter</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393371' status='passed' stop='1546606393372'>
+            <name> query building with Schema and string convert and invalid value</name>
+            <title> query building with Schema and string convert and invalid value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393372' status='passed' stop='1546606393372'>
+            <name> query building with Schema with property in inner-schema (like metadata)</name>
+            <title> query building with Schema with property in inner-schema (like metadata)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393372' status='passed' stop='1546606393372'>
+            <name> query building with Schema with many properties inside inner-schema (like metadata)</name>
+            <title> query building with Schema with many properties inside inner-schema (like metadata)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393372' status='passed' stop='1546606393373'>
+            <name>add Or to query with no Or</name>
+            <title>add Or to query with no Or</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393373' status='passed' stop='1546606393373'>
+            <name> Fail on Or with invalid parameters</name>
+            <title> Fail on Or with invalid parameters</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393374' status='passed' stop='1546606393374'>
+            <name>add And to query with no And</name>
+            <title>add And to query with no And</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393374' status='passed' stop='1546606393374'>
+            <name> Fail on And with invalid parameters</name>
+            <title> Fail on And with invalid parameters</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393374' status='passed' stop='1546606393375'>
+            <name>add And to query with  And</name>
+            <title>add And to query with  And</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393375' status='passed' stop='1546606393375'>
+            <name>add Or to query with no Or</name>
+            <title>add Or to query with no Or</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393375' status='passed' stop='1546606393375'>
+            <name>add Or as And to query with Or</name>
+            <title>add Or as And to query with Or</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393375' status='passed' stop='1546606393375'>
+            <name>add Or as And to query without Or</name>
+            <title>add Or as And to query without Or</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393375' status='passed' stop='1546606393375'>
+            <name>add Or as And to query with Or and And</name>
+            <title>add Or as And to query with Or and And</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393375' status='passed' stop='1546606393376'>
+            <name>add Or as And to query with Or and And, and inner property</name>
+            <title>add Or as And to query with Or and And, and inner property</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393376' status='passed' stop='1546606393376'>
+            <name>add Or as And to query with Or and And, and inner property</name>
+            <title>add Or as And to query with Or and And, and inner property</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393376' status='passed' stop='1546606393376'>
+            <name>Add to the query nested paths</name>
+            <title>Add to the query nested paths</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

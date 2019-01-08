@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941828972' stop='1546941829046'>
+    <name>GCR Registry Unit Tests :Create</name>
+    <title>GCR Registry Unit Tests :Create</title>
+    <test-cases>
+        <test-case start='1546941828973' status='passed' stop='1546941828997'>
+            <name>should successfully create a new registry record</name>
+            <title>should successfully create a new registry record</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941828997' status='passed' stop='1546941829023'>
+            <name>should mark the first created registry as default</name>
+            <title>should mark the first created registry as default</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829023' status='passed' stop='1546941829046'>
+            <name>should fail on missing keyfile</name>
+            <title>should fail on missing keyfile</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941802959' stop='1546941802960'>
+    <name>monitor api - exposes an external interface to trigger functionalities related to nodes processRequest - processes a request that needs handeling negative tests</name>
+    <title>monitor api - exposes an external interface to trigger functionalities related to nodes processRequest - processes a request that needs handeling negative tests</title>
+    <test-cases>
+        <test-case start='1546941802959' status='passed' stop='1546941802960'>
+            <name>should return an error in case getNodesByQuery threw and error</name>
+            <title>should return an error in case getNodesByQuery threw and error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

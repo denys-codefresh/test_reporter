@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941812903' stop='1546941813091'>
+    <name>Member handler</name>
+    <title>Member handler</title>
+    <test-cases>
+        <test-case start='1546941812903' status='passed' stop='1546941812945'>
+            <name>create members</name>
+            <title>create members</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941812945' status='passed' stop='1546941813007'>
+            <name>create members that exists in other team</name>
+            <title>create members that exists in other team</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813007' status='passed' stop='1546941813051'>
+            <name>remove members</name>
+            <title>remove members</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813051' status='passed' stop='1546941813091'>
+            <name>should add user to sso when sso config exists</name>
+            <title>should add user to sso when sso config exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962821925' stop='1546962821927'>
+    <name>Base Role Merged Role</name>
+    <title>Base Role Merged Role</title>
+    <test-cases>
+        <test-case start='1546962821925' status='passed' stop='1546962821926'>
+            <name>should merge all routes into one object</name>
+            <title>should merge all routes into one object</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962821926' status='passed' stop='1546962821927'>
+            <name>should run the activate method of all roles</name>
+            <title>should run the activate method of all roles</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

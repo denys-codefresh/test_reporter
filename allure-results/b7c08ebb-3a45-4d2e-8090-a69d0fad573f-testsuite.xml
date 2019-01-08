@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606369717' stop='1546606369775'>
+    <name>Stash WebHook Unit Tests</name>
+    <title>Stash WebHook Unit Tests</title>
+    <test-cases>
+        <test-case start='1546606369717' status='passed' stop='1546606369718'>
+            <name>Fail on no git auth</name>
+            <title>Fail on no git auth</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606369718' status='passed' stop='1546606369718'>
+            <name>Fail not using ssh</name>
+            <title>Fail not using ssh</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606369718' status='passed' stop='1546606369718'>
+            <name>Fail not using sshh</name>
+            <title>Fail not using sshh</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606369718' status='passed' stop='1546606369775'>
+            <name>Failed to find commit</name>
+            <title>Failed to find commit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

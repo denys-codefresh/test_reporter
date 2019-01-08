@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941827416' stop='1546941827444'>
+    <name>validate codefresh YAML from yaml</name>
+    <title>validate codefresh YAML from yaml</title>
+    <test-cases>
+        <test-case start='1546941827416' status='passed' stop='1546941827419'>
+            <name>should return simple error for YAMLException</name>
+            <title>should return simple error for YAMLException</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827419' status='passed' stop='1546941827422'>
+            <name>should return missing steps error</name>
+            <title>should return missing steps error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827422' status='passed' stop='1546941827423'>
+            <name>should return missing steps error</name>
+            <title>should return missing steps error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827423' status='passed' stop='1546941827434'>
+            <name>should return valid result for valid yaml</name>
+            <title>should return valid result for valid yaml</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827434' status='passed' stop='1546941827444'>
+            <name>should return details result for not valid yaml (image_name missing)</name>
+            <title>should return details result for not valid yaml (image_name missing)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

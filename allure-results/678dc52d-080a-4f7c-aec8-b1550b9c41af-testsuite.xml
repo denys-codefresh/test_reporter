@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384537' stop='1546606384538'>
+    <name>Docker Node API - nodes nodes getSignRequest positive</name>
+    <title>Docker Node API - nodes nodes getSignRequest positive</title>
+    <test-cases>
+        <test-case start='1546606384537' status='passed' stop='1546606384538'>
+            <name>should resolve to a valid signRequestConfig</name>
+            <title>should resolve to a valid signRequestConfig</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

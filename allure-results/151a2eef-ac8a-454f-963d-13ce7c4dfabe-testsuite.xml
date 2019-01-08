@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606393004' stop='1546606393016'>
+    <name>Admin Users Integration Tests 3. updateUserAccount - Update user account</name>
+    <title>Admin Users Integration Tests 3. updateUserAccount - Update user account</title>
+    <test-cases>
+        <test-case start='1546606393004' status='pending' stop='1546606393004'>
+            <name>3.1 should update user account by account parameter</name>
+            <title>3.1 should update user account by account parameter</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606393004' status='pending' stop='1546606393004'>
+            <name>3.2 should update user old account by new account parameter</name>
+            <title>3.2 should update user old account by new account parameter</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606393004' status='pending' stop='1546606393004'>
+            <name>3.3 should update user old account by new account parameter</name>
+            <title>3.3 should update user old account by new account parameter</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606393004' status='passed' stop='1546606393010'>
+            <name>3.4 should fail to update a non existing user</name>
+            <title>3.4 should fail to update a non existing user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393010' status='passed' stop='1546606393016'>
+            <name>3.5 should fail to update with empty params</name>
+            <title>3.5 should fail to update with empty params</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

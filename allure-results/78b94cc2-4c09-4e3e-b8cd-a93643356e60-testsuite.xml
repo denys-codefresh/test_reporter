@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962822455' stop='1546962822461'>
+    <name>API keys unit tests createNewToken flow Call next with error</name>
+    <title>API keys unit tests createNewToken flow Call next with error</title>
+    <test-cases>
+        <test-case start='1546962822455' status='passed' stop='1546962822457'>
+            <name>in case the subject type is not supported</name>
+            <title>in case the subject type is not supported</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962822457' status='passed' stop='1546962822459'>
+            <name>in case the subject is not the same authenticated user</name>
+            <title>in case the subject is not the same authenticated user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962822460' status='passed' stop='1546962822461'>
+            <name>in case the subject is RE but is wasnt found and throws an error</name>
+            <title>in case the subject is RE but is wasnt found and throws an error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

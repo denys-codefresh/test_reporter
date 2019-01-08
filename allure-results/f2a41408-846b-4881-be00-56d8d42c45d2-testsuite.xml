@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941829595' stop='1546941829600'>
+    <name>security security validations bitbucket validations negative</name>
+    <title>security security validations bitbucket validations negative</title>
+    <test-cases>
+        <test-case start='1546941829596' status='passed' stop='1546941829600'>
+            <name>should fail in case x-hook-uuid header does not equals the externalId on the trigger</name>
+            <title>should fail in case x-hook-uuid header does not equals the externalId on the trigger</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

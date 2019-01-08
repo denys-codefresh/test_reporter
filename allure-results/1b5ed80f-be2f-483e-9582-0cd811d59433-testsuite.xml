@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941829375' stop='1546941829555'>
+    <name>Preparing payload for build triggered by different events</name>
+    <title>Preparing payload for build triggered by different events</title>
+    <test-cases>
+        <test-case start='1546941829375' status='passed' stop='1546941829403'>
+            <name>Should return correct payload</name>
+            <title>Should return correct payload</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829404' status='passed' stop='1546941829427'>
+            <name>Should return correct pull request labels for github</name>
+            <title>Should return correct pull request labels for github</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829427' status='passed' stop='1546941829449'>
+            <name>Should return correct pull request labels for gitlab</name>
+            <title>Should return correct pull request labels for gitlab</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829449' status='passed' stop='1546941829470'>
+            <name>Should throw error</name>
+            <title>Should throw error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829470' status='passed' stop='1546941829496'>
+            <name>Should return correct payload for bitbucket server</name>
+            <title>Should return correct payload for bitbucket server</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829496' status='passed' stop='1546941829523'>
+            <name>Should return correct payload for github issue_comment (added) event</name>
+            <title>Should return correct payload for github issue_comment (added) event</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829523' status='passed' stop='1546941829549'>
+            <name>Should return correct payload for bitbucket push event</name>
+            <title>Should return correct payload for bitbucket push event</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

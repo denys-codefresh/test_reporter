@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606391261' stop='1546606391262'>
+    <name>monitor node Api class toObject</name>
+    <title>monitor node Api class toObject</title>
+    <test-cases>
+        <test-case start='1546606391261' status='passed' stop='1546606391262'>
+            <name>should succeed</name>
+            <title>should succeed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

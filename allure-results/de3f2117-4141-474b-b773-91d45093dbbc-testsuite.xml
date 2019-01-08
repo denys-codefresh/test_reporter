@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941827362' stop='1546941827365'>
+    <name>Docker Node API - nodeAuth nodeAuth authenticateRequest positive</name>
+    <title>Docker Node API - nodeAuth nodeAuth authenticateRequest positive</title>
+    <test-cases>
+        <test-case start='1546941827362' status='passed' stop='1546941827364'>
+            <name>should add account to request and call next()</name>
+            <title>should add account to request and call next()</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827364' status='passed' stop='1546941827365'>
+            <name>should call auth.apiKeyAccountAuthentication</name>
+            <title>should call auth.apiKeyAccountAuthentication</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606365866' stop='1546606365870'>
+    <name>Github SCM Service Unit Tests 12. getCommit</name>
+    <title>Github SCM Service Unit Tests 12. getCommit</title>
+    <test-cases>
+        <test-case start='1546606365866' status='passed' stop='1546606365870'>
+            <name>Should include author in commit</name>
+            <title>Should include author in commit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

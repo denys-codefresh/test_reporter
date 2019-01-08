@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606393280' stop='1546606393285'>
+    <name>Build badges unit tests Positive:</name>
+    <title>Build badges unit tests Positive:</title>
+    <test-cases>
+        <test-case start='1546606393280' status='passed' stop='1546606393280'>
+            <name>Should create badges</name>
+            <title>Should create badges</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393280' status='passed' stop='1546606393281'>
+            <name>Should create green badges in case of successful build</name>
+            <title>Should create green badges in case of successful build</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393281' status='passed' stop='1546606393281'>
+            <name>Should create red badges in case of failure build</name>
+            <title>Should create red badges in case of failure build</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393281' status='passed' stop='1546606393282'>
+            <name>Should create gray badges in case of build not found</name>
+            <title>Should create gray badges in case of build not found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393282' status='passed' stop='1546606393282'>
+            <name>Should init badge with default branch master if not provided</name>
+            <title>Should init badge with default branch master if not provided</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393282' status='passed' stop='1546606393284'>
+            <name>Should validate that status is return in proper flow</name>
+            <title>Should validate that status is return in proper flow</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393284' status='passed' stop='1546606393284'>
+            <name>Get default type</name>
+            <title>Get default type</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606391054' stop='1546606391183'>
+    <name>Workflows Notification</name>
+    <title>Workflows Notification</title>
+    <test-cases>
+        <test-case start='1546606391054' status='pending' stop='1546606391054'>
+            <name>Notification should be raise on build</name>
+            <title>Notification should be raise on build</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606391054' status='passed' stop='1546606391096'>
+            <name>Notification should fail with no account</name>
+            <title>Notification should fail with no account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606391096' status='passed' stop='1546606391147'>
+            <name>Notification should work</name>
+            <title>Notification should work</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606391147' status='passed' stop='1546606391182'>
+            <name>Notification should write to logger if queue fails</name>
+            <title>Notification should write to logger if queue fails</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

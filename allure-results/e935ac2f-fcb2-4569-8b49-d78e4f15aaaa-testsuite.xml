@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606376985' stop='1546606377053'>
+    <name>Accounts Unit Tests 8. getAccounts positive</name>
+    <title>Accounts Unit Tests 8. getAccounts positive</title>
+    <test-cases>
+        <test-case start='1546606376985' status='passed' stop='1546606377021'>
+            <name>should return multiple accounts according to query</name>
+            <title>should return multiple accounts according to query</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606377021' status='passed' stop='1546606377053'>
+            <name>should return an empty array for non matching account for a query</name>
+            <title>should return an empty array for non matching account for a query</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

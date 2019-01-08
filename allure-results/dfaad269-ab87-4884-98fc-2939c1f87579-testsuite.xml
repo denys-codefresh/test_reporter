@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962835340' stop='1546962835352'>
+    <name>Initiate Workflow workflow with a pipeline negative</name>
+    <title>Initiate Workflow workflow with a pipeline negative</title>
+    <test-cases>
+        <test-case start='1546962835340' status='passed' stop='1546962835343'>
+            <name>should throw a recognized error in case of executing a launch composition with a non internal infra RE</name>
+            <title>should throw a recognized error in case of executing a launch composition with a non internal infra RE</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962835343' status='passed' stop='1546962835345'>
+            <name>should throw a recognized error in case of executing a launch image with a non internal infra RE</name>
+            <title>should throw a recognized error in case of executing a launch image with a non internal infra RE</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962835346' status='passed' stop='1546962835349'>
+            <name>should throw a recognized error in case of executing a launch pipeline with a non internal infra RE</name>
+            <title>should throw a recognized error in case of executing a launch pipeline with a non internal infra RE</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962835349' status='passed' stop='1546962835352'>
+            <name>should throw a recognized error in case of not finding the required runtime environment and no default is returned</name>
+            <title>should throw a recognized error in case of not finding the required runtime environment and no default is returned</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

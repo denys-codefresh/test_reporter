@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606357855' stop='1546606357860'>
+    <name>IDP unit tests /:clientName/context/:type/:name/update extend request with idp</name>
+    <title>IDP unit tests /:clientName/context/:type/:name/update extend request with idp</title>
+    <test-cases>
+        <test-case start='1546606357855' status='passed' stop='1546606357857'>
+            <name>idp found</name>
+            <title>idp found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357857' status='passed' stop='1546606357859'>
+            <name>idp not found</name>
+            <title>idp not found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

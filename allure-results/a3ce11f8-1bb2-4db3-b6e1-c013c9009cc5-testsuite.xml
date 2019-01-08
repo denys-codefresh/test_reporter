@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941836322' stop='1546941836323'>
+    <name>Build badges unit tests Positive: Test on badge types</name>
+    <title>Build badges unit tests Positive: Test on badge types</title>
+    <test-cases>
+        <test-case start='1546941836322' status='passed' stop='1546941836322'>
+            <name>Should validate format exist for cf-1</name>
+            <title>Should validate format exist for cf-1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836322' status='passed' stop='1546941836323'>
+            <name>Should validate format exist for cf-2</name>
+            <title>Should validate format exist for cf-2</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836323' status='passed' stop='1546941836323'>
+            <name>Format not exist</name>
+            <title>Format not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

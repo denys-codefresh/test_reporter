@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606378372' stop='1546606378431'>
+    <name>Build Entity Tests 1. build - build all services related to the repo provided, this is called on webhook 1.1 positive</name>
+    <title>Build Entity Tests 1. build - build all services related to the repo provided, this is called on webhook 1.1 positive</title>
+    <test-cases>
+        <test-case start='1546606378372' status='passed' stop='1546606378431'>
+            <name>1.1.1 should return 1 progress is in case a pipeline exists</name>
+            <title>1.1.1 should return 1 progress is in case a pipeline exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378431' status='pending' stop='1546606378431'>
+            <name>1.1.2 should return 1 progress when only one pipeline has webhhok trigger</name>
+            <title>1.1.2 should return 1 progress when only one pipeline has webhhok trigger</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

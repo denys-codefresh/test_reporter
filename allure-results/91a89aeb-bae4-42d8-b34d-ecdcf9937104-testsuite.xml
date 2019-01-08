@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962824738' stop='1546962824887'>
+    <name>User Integration Tests 8. verifyuser 8.2 negative</name>
+    <title>User Integration Tests 8. verifyuser 8.2 negative</title>
+    <test-cases>
+        <test-case start='1546962824738' status='passed' stop='1546962824753'>
+            <name>8.2.1 fail on No user or data</name>
+            <title>8.2.1 fail on No user or data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962824753' status='passed' stop='1546962824773'>
+            <name>8.2.2 fail on No email</name>
+            <title>8.2.2 fail on No email</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962824773' status='passed' stop='1546962824789'>
+            <name>8.2.3 fail on No userName</name>
+            <title>8.2.3 fail on No userName</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962824789' status='passed' stop='1546962824819'>
+            <name>8.2.4 fail on same userName</name>
+            <title>8.2.4 fail on same userName</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962824819' status='passed' stop='1546962824837'>
+            <name>8.2.5 fail on same email</name>
+            <title>8.2.5 fail on same email</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962824837' status='passed' stop='1546962824855'>
+            <name>8.2.6 fail on non existing user </name>
+            <title>8.2.6 fail on non existing user </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962824856' status='passed' stop='1546962824887'>
+            <name>8.2.7 verify a pending user with new account with existing account</name>
+            <title>8.2.7 verify a pending user with new account with existing account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

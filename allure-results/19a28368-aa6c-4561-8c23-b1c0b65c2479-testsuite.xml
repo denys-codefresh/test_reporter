@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962844100' stop='1546962844125'>
+    <name>environments terminator getOldEnvironments - returns all environments that needs to be terminated according to applicative logic and configuration positive tests</name>
+    <title>environments terminator getOldEnvironments - returns all environments that needs to be terminated according to applicative logic and configuration positive tests</title>
+    <test-cases>
+        <test-case start='1546962844100' status='passed' stop='1546962844124'>
+            <name>should return only environments that are older than environmentTerminator age config</name>
+            <title>should return only environments that are older than environmentTerminator age config</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

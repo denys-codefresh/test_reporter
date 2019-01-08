@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962842974' stop='1546962843040'>
+    <name>Build Entity Tests Check Report Mechanism for new engine</name>
+    <title>Build Entity Tests Check Report Mechanism for new engine</title>
+    <test-cases>
+        <test-case start='1546962842974' status='passed' stop='1546962843007'>
+            <name>the build was performed successfully</name>
+            <title>the build was performed successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843007' status='passed' stop='1546962843040'>
+            <name>the build was performed with error</name>
+            <title>the build was performed with error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941829825' stop='1546941829878'>
+    <name>Workflow Processes</name>
+    <title>Workflow Processes</title>
+    <test-cases>
+        <test-case start='1546941829825' status='passed' stop='1546941829832'>
+            <name>should fail in case of not providing the trigger field</name>
+            <title>should fail in case of not providing the trigger field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829832' status='passed' stop='1546941829843'>
+            <name>Persist Minimal Process</name>
+            <title>Persist Minimal Process</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829843' status='passed' stop='1546941829849'>
+            <name>Persist Full Process</name>
+            <title>Persist Full Process</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829849' status='passed' stop='1546941829858'>
+            <name>Persist SCM metadata</name>
+            <title>Persist SCM metadata</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829858' status='passed' stop='1546941829866'>
+            <name>SCM metadata must save field baseBranchName</name>
+            <title>SCM metadata must save field baseBranchName</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829866' status='passed' stop='1546941829873'>
+            <name>SCM metadata must save field pullRequestLabels</name>
+            <title>SCM metadata must save field pullRequestLabels</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

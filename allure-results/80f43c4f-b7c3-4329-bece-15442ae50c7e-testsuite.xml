@@ -1,0 +1,199 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606392686' stop='1546606392748'>
+    <name>Planner Create</name>
+    <title>Planner Create</title>
+    <test-cases>
+        <test-case start='1546606392686' status='passed' stop='1546606392687'>
+            <name>With no contents</name>
+            <title>With no contents</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392687' status='passed' stop='1546606392689'>
+            <name>With compositions missing content</name>
+            <title>With compositions missing content</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392689' status='passed' stop='1546606392691'>
+            <name>With compositions missing a candidate</name>
+            <title>With compositions missing a candidate</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392691' status='passed' stop='1546606392700'>
+            <name>Successfully</name>
+            <title>Successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392700' status='passed' stop='1546606392706'>
+            <name>Add context variables to composition candidate in case of a REGULAR webhook strategy</name>
+            <title>Add context variables to composition candidate in case of a REGULAR webhook strategy</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392706' status='passed' stop='1546606392707'>
+            <name>Successfully with warnings</name>
+            <title>Successfully with warnings</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392707' status='passed' stop='1546606392709'>
+            <name>Successfully with parallel</name>
+            <title>Successfully with parallel</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392709' status='passed' stop='1546606392710'>
+            <name>Successfully with launch composition</name>
+            <title>Successfully with launch composition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392710' status='passed' stop='1546606392714'>
+            <name>Successfully with inline dockerfile</name>
+            <title>Successfully with inline dockerfile</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392714' status='passed' stop='1546606392717'>
+            <name>Successfully with no dockerfile</name>
+            <title>Successfully with no dockerfile</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392717' status='passed' stop='1546606392719'>
+            <name>Successfully with conditional step #1</name>
+            <title>Successfully with conditional step #1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392719' status='passed' stop='1546606392720'>
+            <name>See no_cache and squash in build step</name>
+            <title>See no_cache and squash in build step</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392720' status='passed' stop='1546606392721'>
+            <name>Detect bad syntax for when part</name>
+            <title>Detect bad syntax for when part</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392721' status='passed' stop='1546606392723'>
+            <name>Detect bad conditional step #1</name>
+            <title>Detect bad conditional step #1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392723' status='passed' stop='1546606392724'>
+            <name>Detect bad conditional step #2</name>
+            <title>Detect bad conditional step #2</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392724' status='passed' stop='1546606392724'>
+            <name>Detect bad when branches step #1</name>
+            <title>Detect bad when branches step #1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392724' status='passed' stop='1546606392725'>
+            <name>Detect bad when branches step #2</name>
+            <title>Detect bad when branches step #2</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392725' status='passed' stop='1546606392726'>
+            <name>Successfully with filesystem ops</name>
+            <title>Successfully with filesystem ops</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392726' status='passed' stop='1546606392730'>
+            <name>Successfully with entrypoints</name>
+            <title>Successfully with entrypoints</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392730' status='passed' stop='1546606392731'>
+            <name>Fail with wrong value type of entrypoint</name>
+            <title>Fail with wrong value type of entrypoint</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392731' status='passed' stop='1546606392736'>
+            <name>should add the tag field in build step with the normalized version of the branch name</name>
+            <title>should add the tag field in build step with the normalized version of the branch name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392736' status='passed' stop='1546606392743'>
+            <name>should add a git-clone step when required </name>
+            <title>should add a git-clone step when required </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392743' status='passed' stop='1546606392747'>
+            <name>should use fork of repo for git-clone step when appropriate</name>
+            <title>should use fork of repo for git-clone step when appropriate</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606392747' status='passed' stop='1546606392748'>
+            <name>should NOT add a git-clone step when main_clone step exists</name>
+            <title>should NOT add a git-clone step when main_clone step exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851595' stop='1546962851625'>
+    <name>Team Unit Tests 1. Create Team</name>
+    <title>Team Unit Tests 1. Create Team</title>
+    <test-cases>
+        <test-case start='1546962851595' status='passed' stop='1546962851605'>
+            <name>1.1 Should return created team</name>
+            <title>1.1 Should return created team</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851605' status='passed' stop='1546962851616'>
+            <name>1.2 Should change name</name>
+            <title>1.2 Should change name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851616' status='passed' stop='1546962851625'>
+            <name>1.3 Account already exists -> Should change name</name>
+            <title>1.3 Account already exists -> Should change name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

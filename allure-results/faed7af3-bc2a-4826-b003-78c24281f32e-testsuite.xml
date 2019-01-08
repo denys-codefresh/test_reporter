@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386853' stop='1546606386859'>
+    <name>Test report</name>
+    <title>Test report</title>
+    <test-cases>
+        <test-case start='1546606386853' status='passed' stop='1546606386857'>
+            <name>amazonProxy should return content of file from bucket</name>
+            <title>amazonProxy should return content of file from bucket</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386857' status='passed' stop='1546606386858'>
+            <name>amazonProxy should correctly handle subdir in bucketName</name>
+            <title>amazonProxy should correctly handle subdir in bucketName</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386858' status='passed' stop='1546606386859'>
+            <name>amazonProxy should correctly handle bucketName when he not contain subdir</name>
+            <title>amazonProxy should correctly handle bucketName when he not contain subdir</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

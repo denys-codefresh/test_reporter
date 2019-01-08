@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384412' stop='1546606384415'>
+    <name>Kubernetes controller unit test Resolve selectors from board</name>
+    <title>Kubernetes controller unit test Resolve selectors from board</title>
+    <test-cases>
+        <test-case start='1546606384413' status='passed' stop='1546606384415'>
+            <name>get releases by board/columns</name>
+            <title>get releases by board/columns</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851656' stop='1546962851690'>
+    <name>Team Unit Tests 3. Delete team</name>
+    <title>Team Unit Tests 3. Delete team</title>
+    <test-cases>
+        <test-case start='1546962851656' status='passed' stop='1546962851666'>
+            <name>Should delete team</name>
+            <title>Should delete team</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851666' status='passed' stop='1546962851673'>
+            <name>Should not delete team from another account</name>
+            <title>Should not delete team from another account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851674' status='passed' stop='1546962851681'>
+            <name>Should not delete linked team</name>
+            <title>Should not delete linked team</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851681' status='passed' stop='1546962851690'>
+            <name>Should not delete team if type is specified</name>
+            <title>Should not delete team if type is specified</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

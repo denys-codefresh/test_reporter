@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962849271' stop='1546962849275'>
+    <name>Docker Node API - nodes nodes register positive</name>
+    <title>Docker Node API - nodes nodes register positive</title>
+    <test-cases>
+        <test-case start='1546962849271' status='passed' stop='1546962849275'>
+            <name>should register node in consul and set service and swarm kv</name>
+            <title>should register node in consul and set service and swarm kv</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

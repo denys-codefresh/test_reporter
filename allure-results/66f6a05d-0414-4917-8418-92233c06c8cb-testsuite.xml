@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606377245' stop='1546606377247'>
+    <name>Badge controller unit tests Tests for badges with type params</name>
+    <title>Badge controller unit tests Tests for badges with type params</title>
+    <test-cases>
+        <test-case start='1546606377245' status='passed' stop='1546606377247'>
+            <name>Should validate proper flow on type param</name>
+            <title>Should validate proper flow on type param</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

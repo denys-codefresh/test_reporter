@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962858298' stop='1546962858303'>
+    <name>Workflow revision dal unit test Save new revision Transform annotations</name>
+    <title>Workflow revision dal unit test Save new revision Transform annotations</title>
+    <test-cases>
+        <test-case start='1546962858298' status='passed' stop='1546962858302'>
+            <name>Should save step as array</name>
+            <title>Should save step as array</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962858302' status='passed' stop='1546962858303'>
+            <name>Should save step as array when passed as array</name>
+            <title>Should save step as array when passed as array</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

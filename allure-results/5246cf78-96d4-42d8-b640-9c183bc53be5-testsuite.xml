@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962824232' stop='1546962824233'>
+    <name>User Integration Tests 4. addPendingUser - adds a not existing, never logged in user in the system as pending user 4.2 negative</name>
+    <title>User Integration Tests 4. addPendingUser - adds a not existing, never logged in user in the system as pending user 4.2 negative</title>
+    <test-cases>
+        <test-case start='1546962824232' status='passed' stop='1546962824233'>
+            <name>4.2.1 should fail when not passing any data</name>
+            <title>4.2.1 should fail when not passing any data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962824233' status='passed' stop='1546962824233'>
+            <name>4.2.2 should fail when not passing mail</name>
+            <title>4.2.2 should fail when not passing mail</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

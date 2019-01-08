@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941835634' stop='1546941835640'>
+    <name>Build strategies unit tests RESTART_FROM_WORKFLOW_CONTEXT_REVISION positive</name>
+    <title>Build strategies unit tests RESTART_FROM_WORKFLOW_CONTEXT_REVISION positive</title>
+    <test-cases>
+        <test-case start='1546941835634' status='passed' stop='1546941835637'>
+            <name>Should return previous workflow context</name>
+            <title>Should return previous workflow context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835637' status='passed' stop='1546941835638'>
+            <name>Should call to the logger and print proper message about the action</name>
+            <title>Should call to the logger and print proper message about the action</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835638' status='passed' stop='1546941835640'>
+            <name>Should remove all git clone typed steps from steps matadata</name>
+            <title>Should remove all git clone typed steps from steps matadata</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

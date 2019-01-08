@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941829102' stop='1546941829112'>
+    <name>Registry Dal: getCredentials function</name>
+    <title>Registry Dal: getCredentials function</title>
+    <test-cases>
+        <test-case start='1546941829102' status='passed' stop='1546941829112'>
+            <name>should return list of all credentials with the given username</name>
+            <title>should return list of all credentials with the given username</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

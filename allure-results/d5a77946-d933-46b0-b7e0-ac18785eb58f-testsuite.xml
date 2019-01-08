@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606333999' stop='1546606334001'>
+    <name>Notifications Tests positive</name>
+    <title>Notifications Tests positive</title>
+    <test-cases>
+        <test-case start='1546606333999' status='passed' stop='1546606334000'>
+            <name>should call `request` with proper arguments</name>
+            <title>should call `request` with proper arguments</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606334000' status='passed' stop='1546606334001'>
+            <name>should resolve if all is fine</name>
+            <title>should resolve if all is fine</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

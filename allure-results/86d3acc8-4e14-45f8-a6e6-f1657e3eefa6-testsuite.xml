@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962844721' stop='1546962844770'>
+    <name>environments terminator process - will perform the actual termination of environments negative tests</name>
+    <title>environments terminator process - will perform the actual termination of environments negative tests</title>
+    <test-cases>
+        <test-case start='1546962844721' status='passed' stop='1546962844747'>
+            <name>should return an error in case getting old environment returned an error</name>
+            <title>should return an error in case getting old environment returned an error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962844747' status='passed' stop='1546962844770'>
+            <name>should return an error in case termination of an environment returned an error which is different than non existing</name>
+            <title>should return an error in case termination of an environment returned an error which is different than non existing</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

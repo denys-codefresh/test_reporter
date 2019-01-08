@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606390739' stop='1546606390941'>
+    <name>Workflows Search</name>
+    <title>Workflows Search</title>
+    <test-cases>
+        <test-case start='1546606390739' status='passed' stop='1546606390779'>
+            <name>Various processes</name>
+            <title>Various processes</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606390779' status='passed' stop='1546606390814'>
+            <name>Find processes - distinct property</name>
+            <title>Find processes - distinct property</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606390814' status='passed' stop='1546606390856'>
+            <name>Find processes - scmMetadata query params</name>
+            <title>Find processes - scmMetadata query params</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606390856' status='passed' stop='1546606390896'>
+            <name>By Service</name>
+            <title>By Service</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606390896' status='passed' stop='1546606390941'>
+            <name>Group by pipeline negative (must not find when pipelines not exists)</name>
+            <title>Group by pipeline negative (must not find when pipelines not exists)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606390941' status='pending' stop='1546606390941'>
+            <name>Request variables should be merged</name>
+            <title>Request variables should be merged</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606390941' status='pending' stop='1546606390941'>
+            <name>Request variables with empty string should be removed</name>
+            <title>Request variables with empty string should be removed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

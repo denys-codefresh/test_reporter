@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606378432' stop='1546606378472'>
+    <name>Build Entity Tests 1. build - build all services related to the repo provided, this is called on webhook 1.2 negative</name>
+    <title>Build Entity Tests 1. build - build all services related to the repo provided, this is called on webhook 1.2 negative</title>
+    <test-cases>
+        <test-case start='1546606378432' status='passed' stop='1546606378472'>
+            <name>1.2.1 should fail when user does not have access to the repo</name>
+            <title>1.2.1 should fail when user does not have access to the repo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

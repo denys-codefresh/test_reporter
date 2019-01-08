@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606365870' stop='1546606365873'>
+    <name>Github SCM Service Unit Tests 13. getRepoRootContent</name>
+    <title>Github SCM Service Unit Tests 13. getRepoRootContent</title>
+    <test-cases>
+        <test-case start='1546606365870' status='passed' stop='1546606365873'>
+            <name>should return repo root content with path and type properties only</name>
+            <title>should return repo root content with path and type properties only</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

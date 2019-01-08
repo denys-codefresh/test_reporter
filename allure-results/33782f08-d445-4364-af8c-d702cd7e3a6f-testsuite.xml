@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941780283' stop='1546941780283'>
+    <name>Clean Firebase Environments Logs Cleaner positive The resolved object</name>
+    <title>Clean Firebase Environments Logs Cleaner positive The resolved object</title>
+    <test-cases>
+        <test-case start='1546941780283' status='pending' stop='1546941780283'>
+            <name>should have the number of logs that have been cleaned</name>
+            <title>should have the number of logs that have been cleaned</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941780283' status='pending' stop='1546941780283'>
+            <name>should have the number of logs that have been cleaned successfully</name>
+            <title>should have the number of logs that have been cleaned successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941780283' status='pending' stop='1546941780283'>
+            <name>should have the number of logs in the firebase</name>
+            <title>should have the number of logs in the firebase</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941780283' status='pending' stop='1546941780283'>
+            <name>should have a list of all errors during the clean</name>
+            <title>should have a list of all errors during the clean</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

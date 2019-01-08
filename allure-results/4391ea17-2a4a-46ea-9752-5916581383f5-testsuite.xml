@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941834184' stop='1546941834185'>
+    <name>monitor node Node base class updateStatusByLimits - updates the node status according to limitations</name>
+    <title>monitor node Node base class updateStatusByLimits - updates the node status according to limitations</title>
+    <test-cases>
+        <test-case start='1546941834184' status='passed' stop='1546941834185'>
+            <name>should not do anything</name>
+            <title>should not do anything</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

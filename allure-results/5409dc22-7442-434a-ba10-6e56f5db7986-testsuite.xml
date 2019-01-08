@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941818442' stop='1546941818781'>
+    <name>WorkflowScheduler - account</name>
+    <title>WorkflowScheduler - account</title>
+    <test-cases>
+        <test-case start='1546941818469' status='passed' stop='1546941818504'>
+            <name>One Parallel - no builds at all</name>
+            <title>One Parallel - no builds at all</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941818504' status='passed' stop='1546941818533'>
+            <name>One Parallel - no relevant build</name>
+            <title>One Parallel - no relevant build</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941818533' status='passed' stop='1546941818561'>
+            <name>One Parallel - return first pending</name>
+            <title>One Parallel - return first pending</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941818561' status='passed' stop='1546941818587'>
+            <name>One Parallel - return first pending and uncapped build</name>
+            <title>One Parallel - return first pending and uncapped build</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941818587' status='passed' stop='1546941818613'>
+            <name>Two Parallel - return two builds</name>
+            <title>Two Parallel - return two builds</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941818613' status='passed' stop='1546941818643'>
+            <name>Two Parallel - return two builds and one uncapped</name>
+            <title>Two Parallel - return two builds and one uncapped</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941818643' status='passed' stop='1546941818666'>
+            <name>One Parallel - already running - return none </name>
+            <title>One Parallel - already running - return none </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941818667' status='passed' stop='1546941818692'>
+            <name>Two Parallel - already 1 running - return 1 </name>
+            <title>Two Parallel - already 1 running - return 1 </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941818692' status='passed' stop='1546941818721'>
+            <name>Two Parallel - already 1 running - return 1 and 2 uncapped</name>
+            <title>Two Parallel - already 1 running - return 1 and 2 uncapped</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941818721' status='passed' stop='1546941818754'>
+            <name>Two Parallel - already 2 running - return 0 </name>
+            <title>Two Parallel - already 2 running - return 0 </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941818754' status='passed' stop='1546941818776'>
+            <name>Two Parallel -  1 pending - return 1 </name>
+            <title>Two Parallel -  1 pending - return 1 </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

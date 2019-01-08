@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962841896' stop='1546962841898'>
+    <name>Agent logic unit test store positive</name>
+    <title>Agent logic unit test store positive</title>
+    <test-cases>
+        <test-case start='1546962841896' status='passed' stop='1546962841897'>
+            <name>should store a supported task</name>
+            <title>should store a supported task</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

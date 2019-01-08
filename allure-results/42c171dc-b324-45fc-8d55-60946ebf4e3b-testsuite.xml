@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962823929' stop='1546962823930'>
+    <name>Services Unit Tests ServiceObj</name>
+    <title>Services Unit Tests ServiceObj</title>
+    <test-cases>
+        <test-case start='1546962823929' status='pending' stop='1546962823929'>
+            <name>should create a serviceObj</name>
+            <title>should create a serviceObj</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962823929' status='skipped' stop='1546962823929'>
+            <name>should fail without account</name>
+            <title>should fail without account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962823930' status='pending' stop='1546962823930'>
+            <name>should fail on create a serviceObj that already exists</name>
+            <title>should fail on create a serviceObj that already exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962823930' status='pending' stop='1546962823930'>
+            <name>should update a serviceObj name</name>
+            <title>should update a serviceObj name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962823930' status='pending' stop='1546962823930'>
+            <name>should update a serviceObj env vars</name>
+            <title>should update a serviceObj env vars</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962823930' status='pending' stop='1546962823930'>
+            <name>should update a serviceObj with encrypted env vars</name>
+            <title>should update a serviceObj with encrypted env vars</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962823930' status='pending' stop='1546962823930'>
+            <name>update should fail no account</name>
+            <title>update should fail no account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962823930' status='pending' stop='1546962823930'>
+            <name>update should fail no service</name>
+            <title>update should fail no service</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962823930' status='pending' stop='1546962823930'>
+            <name>update should fail no details</name>
+            <title>update should fail no details</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962823930' status='pending' stop='1546962823930'>
+            <name>update should fail no service</name>
+            <title>update should fail no service</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

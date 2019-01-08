@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962857720' stop='1546962857722'>
+    <name>analytic logic unit test Should prepare options for http request Build correct request options</name>
+    <title>analytic logic unit test Should prepare options for http request Build correct request options</title>
+    <test-cases>
+        <test-case start='1546962857720' status='passed' stop='1546962857721'>
+            <name>runETL </name>
+            <title>runETL </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857721' status='passed' stop='1546962857721'>
+            <name>report </name>
+            <title>report </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857721' status='passed' stop='1546962857722'>
+            <name>reportForAllAccounts </name>
+            <title>reportForAllAccounts </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857722' status='passed' stop='1546962857722'>
+            <name>addAccount </name>
+            <title>addAccount </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

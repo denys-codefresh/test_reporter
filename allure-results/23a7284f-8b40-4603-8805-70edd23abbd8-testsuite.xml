@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851295' stop='1546962851302'>
+    <name>Git Trigger Model store positive</name>
+    <title>Git Trigger Model store positive</title>
+    <test-cases>
+        <test-case start='1546962851295' status='passed' stop='1546962851302'>
+            <name>should store a new git trigger</name>
+            <title>should store a new git trigger</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

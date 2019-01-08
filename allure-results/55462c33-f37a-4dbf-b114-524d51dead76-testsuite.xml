@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606362552' stop='1546606362553'>
+    <name>monitor nodes - handles all operations on nodes getDockerNodeById positive tests</name>
+    <title>monitor nodes - handles all operations on nodes getDockerNodeById positive tests</title>
+    <test-cases>
+        <test-case start='1546606362552' status='passed' stop='1546606362553'>
+            <name>should retrieve the node if it exists</name>
+            <title>should retrieve the node if it exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

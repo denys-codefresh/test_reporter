@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941835841' stop='1546941835953'>
+    <name>Admin Users Integration Tests 2. changeAdminRole - Add/Remove user admin role</name>
+    <title>Admin Users Integration Tests 2. changeAdminRole - Add/Remove user admin role</title>
+    <test-cases>
+        <test-case start='1546941835841' status='passed' stop='1546941835864'>
+            <name>2.1 should add admin role to a user that does not have admin role and isAdmin parameter is set to false</name>
+            <title>2.1 should add admin role to a user that does not have admin role and isAdmin parameter is set to false</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835864' status='passed' stop='1546941835891'>
+            <name>2.2 should keep admin role in case it already exists and isAdmin param is false</name>
+            <title>2.2 should keep admin role in case it already exists and isAdmin param is false</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835891' status='passed' stop='1546941835915'>
+            <name>2.3 should remove admin role in case it exists and isAdmin is set to true</name>
+            <title>2.3 should remove admin role in case it exists and isAdmin is set to true</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835915' status='passed' stop='1546941835940'>
+            <name>2.4 should keep user roles without admin role in case it does not exist and isAdmin is set to true</name>
+            <title>2.4 should keep user roles without admin role in case it does not exist and isAdmin is set to true</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835940' status='passed' stop='1546941835947'>
+            <name>2.5 should fail to update a non existing user</name>
+            <title>2.5 should fail to update a non existing user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835947' status='passed' stop='1546941835953'>
+            <name>2.6 should fail to update with empty params</name>
+            <title>2.6 should fail to update with empty params</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

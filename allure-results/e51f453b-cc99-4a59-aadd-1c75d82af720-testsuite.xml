@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962849482' stop='1546962849515'>
+    <name>Pipeline controller unit test CRUD on pipeline-manager</name>
+    <title>Pipeline controller unit test CRUD on pipeline-manager</title>
+    <test-cases>
+        <test-case start='1546962849482' status='passed' stop='1546962849484'>
+            <name>getPipelineByNameOrId should throw GatewayError error when pipeline not found</name>
+            <title>getPipelineByNameOrId should throw GatewayError error when pipeline not found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

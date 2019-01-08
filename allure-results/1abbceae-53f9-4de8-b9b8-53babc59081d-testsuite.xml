@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606362544' stop='1546606362550'>
+    <name>monitor nodes - handles all operations on nodes removeNode - remove a node positive tests</name>
+    <title>monitor nodes - handles all operations on nodes removeNode - remove a node positive tests</title>
+    <test-cases>
+        <test-case start='1546606362547' status='passed' stop='1546606362548'>
+            <name>should remove an existing node</name>
+            <title>should remove an existing node</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606362548' status='passed' stop='1546606362550'>
+            <name>should not do anything in case the node does not exist</name>
+            <title>should not do anything in case the node does not exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941826431' stop='1546941826529'>
+    <name>Images Tests promote positive</name>
+    <title>Images Tests promote positive</title>
+    <test-cases>
+        <test-case start='1546941826431' status='passed' stop='1546941826482'>
+            <name>Successfully promote image</name>
+            <title>Successfully promote image</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941826482' status='passed' stop='1546941826529'>
+            <name>Successfully promote a protected image</name>
+            <title>Successfully promote a protected image</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

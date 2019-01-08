@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941821280' stop='1546941821356'>
+    <name>Build Entity Tests 2. getById - gets a build by id positive</name>
+    <title>Build Entity Tests 2. getById - gets a build by id positive</title>
+    <test-cases>
+        <test-case start='1546941821280' status='passed' stop='1546941821315'>
+            <name>should respond with the build in case the requesting user is from the associated account</name>
+            <title>should respond with the build in case the requesting user is from the associated account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821315' status='pending' stop='1546941821315'>
+            <name>should respond with build in case no user is requesting the build and it is public</name>
+            <title>should respond with build in case no user is requesting the build and it is public</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941821315' status='pending' stop='1546941821315'>
+            <name>should respond with build in case the requesting user is not associated with the builds account and the build is public</name>
+            <title>should respond with build in case the requesting user is not associated with the builds account and the build is public</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941821315' status='passed' stop='1546941821356'>
+            <name>should respond with a build in case the requesting user is not associated with the builds account and the build is private but used the noAccount flag</name>
+            <title>should respond with a build in case the requesting user is not associated with the builds account and the build is private but used the noAccount flag</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

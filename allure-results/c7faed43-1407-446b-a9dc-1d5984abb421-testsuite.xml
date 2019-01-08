@@ -1,0 +1,167 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941780357' stop='1546941780387'>
+    <name>BitbucketServer Provider Unit Tests BS_provider Not Implemented</name>
+    <title>BitbucketServer Provider Unit Tests BS_provider Not Implemented</title>
+    <test-cases>
+        <test-case start='1546941780357' status='passed' stop='1546941780360'>
+            <name>BS_provider createRepoStatus</name>
+            <title>BS_provider createRepoStatus</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780360' status='passed' stop='1546941780362'>
+            <name>BS_provider compareCommits</name>
+            <title>BS_provider compareCommits</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780362' status='passed' stop='1546941780364'>
+            <name>BS_provider createBranch</name>
+            <title>BS_provider createBranch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780364' status='passed' stop='1546941780365'>
+            <name>BS_provider mergeBranch</name>
+            <title>BS_provider mergeBranch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780365' status='passed' stop='1546941780366'>
+            <name>BS_provider removeBranch</name>
+            <title>BS_provider removeBranch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780367' status='passed' stop='1546941780369'>
+            <name>BS_provider getPullRequest</name>
+            <title>BS_provider getPullRequest</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780369' status='passed' stop='1546941780370'>
+            <name>BS_provider getAllPullRequests</name>
+            <title>BS_provider getAllPullRequests</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780371' status='passed' stop='1546941780373'>
+            <name>getAllPullRequestsForRepo</name>
+            <title>getAllPullRequestsForRepo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780373' status='passed' stop='1546941780374'>
+            <name>BS_provider mergePullRequest</name>
+            <title>BS_provider mergePullRequest</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780374' status='passed' stop='1546941780375'>
+            <name>BS_provider addPublicKey</name>
+            <title>BS_provider addPublicKey</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780375' status='passed' stop='1546941780377'>
+            <name>BS_provider createPullRequest</name>
+            <title>BS_provider createPullRequest</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780377' status='passed' stop='1546941780378'>
+            <name>BS_provider getSpecificPullRequestByBaseAndHead</name>
+            <title>BS_provider getSpecificPullRequestByBaseAndHead</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780378' status='passed' stop='1546941780379'>
+            <name>BS_provider getIssues</name>
+            <title>BS_provider getIssues</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780379' status='passed' stop='1546941780380'>
+            <name>BS_provider getContributors</name>
+            <title>BS_provider getContributors</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780380' status='passed' stop='1546941780382'>
+            <name>BS_provider getOrgMembers</name>
+            <title>BS_provider getOrgMembers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780382' status='passed' stop='1546941780383'>
+            <name>BS_provider getOrgMembers</name>
+            <title>BS_provider getOrgMembers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780383' status='passed' stop='1546941780383'>
+            <name>BS_provider getOrg</name>
+            <title>BS_provider getOrg</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780383' status='passed' stop='1546941780385'>
+            <name>BS_provider getOrgRepos</name>
+            <title>BS_provider getOrgRepos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780385' status='passed' stop='1546941780386'>
+            <name>BS_provider isUsingSSH</name>
+            <title>BS_provider isUsingSSH</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941780386' status='passed' stop='1546941780387'>
+            <name>BS_provider getProviderHostName</name>
+            <title>BS_provider getProviderHostName</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

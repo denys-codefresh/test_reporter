@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606381381' stop='1546606381396'>
+    <name>SSO Unit Tests General operations</name>
+    <title>SSO Unit Tests General operations</title>
+    <test-cases>
+        <test-case start='1546606381381' status='passed' stop='1546606381396'>
+            <name>Add account to sso config</name>
+            <title>Add account to sso config</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

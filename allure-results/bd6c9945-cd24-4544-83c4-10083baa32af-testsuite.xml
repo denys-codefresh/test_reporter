@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941835965' stop='1546941836029'>
+    <name>Admin Users Integration Tests 4. deleteUser - Delete user positive</name>
+    <title>Admin Users Integration Tests 4. deleteUser - Delete user positive</title>
+    <test-cases>
+        <test-case start='1546941835965' status='passed' stop='1546941835997'>
+            <name>should delete an existing user</name>
+            <title>should delete an existing user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835997' status='passed' stop='1546941836028'>
+            <name>should delete an existing user if delteUser feature is enabled and userName is in the whitelist</name>
+            <title>should delete an existing user if delteUser feature is enabled and userName is in the whitelist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941836029' status='pending' stop='1546941836029'>
+            <name>should delete an existing user if delteUser feature is enabled and userName is in the whitelist and deleteAccount feature is disabled</name>
+            <title>should delete an existing user if delteUser feature is enabled and userName is in the whitelist and deleteAccount feature is disabled</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941836029' status='pending' stop='1546941836029'>
+            <name>should remove the user from admin list of other accounts</name>
+            <title>should remove the user from admin list of other accounts</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941836029' status='pending' stop='1546941836029'>
+            <name>should remove the user and delete its private account in case "deletePrivateAccountIfExists=true"</name>
+            <title>should remove the user and delete its private account in case "deletePrivateAccountIfExists=true"</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941836029' status='pending' stop='1546941836029'>
+            <name>should remove the user and keep its private account in case "deletePrivateAccountIfExists=false"</name>
+            <title>should remove the user and keep its private account in case "deletePrivateAccountIfExists=false"</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962829295' stop='1546962829297'>
+    <name>Github SCM Service Unit Tests 8. getRepository</name>
+    <title>Github SCM Service Unit Tests 8. getRepository</title>
+    <test-cases>
+        <test-case start='1546962829295' status='passed' stop='1546962829297'>
+            <name>should work</name>
+            <title>should work</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

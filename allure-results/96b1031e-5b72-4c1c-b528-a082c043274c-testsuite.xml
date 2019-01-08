@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941776455' stop='1546941776459'>
+    <name>Verification Tests generateKey</name>
+    <title>Verification Tests generateKey</title>
+    <test-cases>
+        <test-case start='1546941776455' status='passed' stop='1546941776458'>
+            <name>generateKey with object</name>
+            <title>generateKey with object</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776458' status='passed' stop='1546941776458'>
+            <name>generateKey fail with no object</name>
+            <title>generateKey fail with no object</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941776458' status='passed' stop='1546941776459'>
+            <name>generateKey fail with no id</name>
+            <title>generateKey fail with no id</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

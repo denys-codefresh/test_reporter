@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962857731' stop='1546962857735'>
+    <name>Nodes Delete Successfully</name>
+    <title>Nodes Delete Successfully</title>
+    <test-cases>
+        <test-case start='1546962857731' status='passed' stop='1546962857733'>
+            <name>From cloud provider</name>
+            <title>From cloud provider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857733' status='passed' stop='1546962857735'>
+            <name>An internal docker node</name>
+            <title>An internal docker node</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

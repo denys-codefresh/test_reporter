@@ -1,0 +1,83 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941798106' stop='1546941798123'>
+    <name>Providers</name>
+    <title>Providers</title>
+    <test-cases>
+        <test-case start='1546941798106' status='passed' stop='1546941798114'>
+            <name>Get github provider</name>
+            <title>Get github provider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798114' status='passed' stop='1546941798115'>
+            <name>Get bitbucket provider</name>
+            <title>Get bitbucket provider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798115' status='passed' stop='1546941798116'>
+            <name>Get stash provider</name>
+            <title>Get stash provider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798116' status='pending' stop='1546941798116'>
+            <name>Get unknown provider</name>
+            <title>Get unknown provider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941798116' status='passed' stop='1546941798117'>
+            <name>Stash provider not active</name>
+            <title>Stash provider not active</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798117' status='passed' stop='1546941798117'>
+            <name>github provider features</name>
+            <title>github provider features</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798117' status='passed' stop='1546941798117'>
+            <name>bitbucket provider features</name>
+            <title>bitbucket provider features</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798117' status='passed' stop='1546941798117'>
+            <name>stash provider features</name>
+            <title>stash provider features</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941798117' status='passed' stop='1546941798123'>
+            <name>empty provider features</name>
+            <title>empty provider features</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

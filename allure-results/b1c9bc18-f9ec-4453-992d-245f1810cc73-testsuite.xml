@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606383429' stop='1546606383429'>
+    <name>Images Tests promote negative</name>
+    <title>Images Tests promote negative</title>
+    <test-cases>
+        <test-case start='1546606383429' status='skipped' stop='1546606383429'>
+            <name>should fail when providing a non valid tag name in terms of docker tag naming convetions</name>
+            <title>should fail when providing a non valid tag name in terms of docker tag naming convetions</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606383429' status='pending' stop='1546606383429'>
+            <name>Fail the promotion of a protected image that has no annotations</name>
+            <title>Fail the promotion of a protected image that has no annotations</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606383429' status='pending' stop='1546606383429'>
+            <name>Fail the promotion of a protected image that has the wrong annotation value</name>
+            <title>Fail the promotion of a protected image that has the wrong annotation value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941835734' stop='1546941835739'>
+    <name>Nodes Delete Failure</name>
+    <title>Nodes Delete Failure</title>
+    <test-cases>
+        <test-case start='1546941835734' status='passed' stop='1546941835737'>
+            <name>Unsupported node type</name>
+            <title>Unsupported node type</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835737' status='passed' stop='1546941835739'>
+            <name>From cloud provider</name>
+            <title>From cloud provider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

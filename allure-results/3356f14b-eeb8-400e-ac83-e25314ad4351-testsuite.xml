@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606385864' stop='1546606385979'>
+    <name>ECR Registry Unit Tests :Create</name>
+    <title>ECR Registry Unit Tests :Create</title>
+    <test-cases>
+        <test-case start='1546606385864' status='passed' stop='1546606385886'>
+            <name>should successfully create a new registry record</name>
+            <title>should successfully create a new registry record</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606385886' status='passed' stop='1546606385909'>
+            <name>should mark the first created registry as default</name>
+            <title>should mark the first created registry as default</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606385909' status='passed' stop='1546606385931'>
+            <name>should fail on missing accessKeyId</name>
+            <title>should fail on missing accessKeyId</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606385931' status='passed' stop='1546606385956'>
+            <name>should fail on missing secretAccessKeyId</name>
+            <title>should fail on missing secretAccessKeyId</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606385956' status='passed' stop='1546606385979'>
+            <name>should fail on missing region</name>
+            <title>should fail on missing region</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962827242' stop='1546962827245'>
+    <name>monitor nodes - handles all operations on nodes getDockerNode - return a docker node according to given params positive tests</name>
+    <title>monitor nodes - handles all operations on nodes getDockerNode - return a docker node according to given params positive tests</title>
+    <test-cases>
+        <test-case start='1546962827242' status='passed' stop='1546962827244'>
+            <name>should return a docker node in case it directly satisfies the params</name>
+            <title>should return a docker node in case it directly satisfies the params</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827244' status='passed' stop='1546962827245'>
+            <name>should return a runner if no builder exists and params was provided</name>
+            <title>should return a runner if no builder exists and params was provided</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

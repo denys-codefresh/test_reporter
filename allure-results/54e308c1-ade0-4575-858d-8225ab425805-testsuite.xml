@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606359123' stop='1546606359161'>
+    <name>Progress Tests 10. createUserFirebaseToken positive tests</name>
+    <title>Progress Tests 10. createUserFirebaseToken positive tests</title>
+    <test-cases>
+        <test-case start='1546606359123' status='passed' stop='1546606359160'>
+            <name>should return a token in case params were passed correctly</name>
+            <title>should return a token in case params were passed correctly</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

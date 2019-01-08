@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384688' stop='1546606384699'>
+    <name>pipeline logic unit test Should prepare options for http request Build correct request options</name>
+    <title>pipeline logic unit test Should prepare options for http request Build correct request options</title>
+    <test-cases>
+        <test-case start='1546606384688' status='passed' stop='1546606384690'>
+            <name>createPipeline </name>
+            <title>createPipeline </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384690' status='passed' stop='1546606384691'>
+            <name>getAllAccountPipelines </name>
+            <title>getAllAccountPipelines </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384691' status='passed' stop='1546606384692'>
+            <name>getLabels </name>
+            <title>getLabels </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384692' status='passed' stop='1546606384693'>
+            <name>getLabelValues </name>
+            <title>getLabelValues </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384693' status='passed' stop='1546606384694'>
+            <name>deletePipelineByName </name>
+            <title>deletePipelineByName </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384694' status='passed' stop='1546606384695'>
+            <name>replacePipelineByName </name>
+            <title>replacePipelineByName </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384695' status='passed' stop='1546606384696'>
+            <name>getPipelineByNameOrId when qs is empty</name>
+            <title>getPipelineByNameOrId when qs is empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384696' status='passed' stop='1546606384697'>
+            <name>getPipelineByNameOrId when qs has decryptVariables</name>
+            <title>getPipelineByNameOrId when qs has decryptVariables</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384697' status='passed' stop='1546606384698'>
+            <name>getPipelineByNameOrId when qs has decryptVariables and revision</name>
+            <title>getPipelineByNameOrId when qs has decryptVariables and revision</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384698' status='passed' stop='1546606384699'>
+            <name>getAllPipelinesByScmTrigger </name>
+            <title>getAllPipelinesByScmTrigger </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

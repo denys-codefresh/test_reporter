@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962849550' stop='1546962849568'>
+    <name>pipeline logic unit test Error handling</name>
+    <title>pipeline logic unit test Error handling</title>
+    <test-cases>
+        <test-case start='1546962849550' status='passed' stop='1546962849552'>
+            <name>createPipeline Should throw validation error when structure is invalid</name>
+            <title>createPipeline Should throw validation error when structure is invalid</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849552' status='passed' stop='1546962849554'>
+            <name>createPipeline Should throw duplication error when structure is invalid</name>
+            <title>createPipeline Should throw duplication error when structure is invalid</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849554' status='passed' stop='1546962849555'>
+            <name>createPipeline Should throw the original error when not matching to any condition</name>
+            <title>createPipeline Should throw the original error when not matching to any condition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849555' status='passed' stop='1546962849556'>
+            <name>getAllAccountPipelines Should throw the original error when not matching to any condition</name>
+            <title>getAllAccountPipelines Should throw the original error when not matching to any condition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849556' status='passed' stop='1546962849557'>
+            <name>getLabels Should throw the original error when not matching to any condition</name>
+            <title>getLabels Should throw the original error when not matching to any condition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849558' status='passed' stop='1546962849559'>
+            <name>getLabelValues Should throw the original error when not matching to any condition</name>
+            <title>getLabelValues Should throw the original error when not matching to any condition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849559' status='passed' stop='1546962849560'>
+            <name>deletePipelineByName Should throw the original error when not matching to any condition</name>
+            <title>deletePipelineByName Should throw the original error when not matching to any condition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849560' status='passed' stop='1546962849561'>
+            <name>deletePipelineByName Should throw the original error when not matching to any condition</name>
+            <title>deletePipelineByName Should throw the original error when not matching to any condition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849561' status='passed' stop='1546962849563'>
+            <name>replacePipelineByName Should throw not found error when the pipeline to be replaced not found</name>
+            <title>replacePipelineByName Should throw not found error when the pipeline to be replaced not found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849563' status='passed' stop='1546962849564'>
+            <name>replacePipelineByName Should throw duplication error when the replaced pipeline name already exist</name>
+            <title>replacePipelineByName Should throw duplication error when the replaced pipeline name already exist</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849565' status='passed' stop='1546962849566'>
+            <name>replacePipelineByName Should throw validation error when the replaced pipeline is not valid</name>
+            <title>replacePipelineByName Should throw validation error when the replaced pipeline is not valid</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849566' status='passed' stop='1546962849567'>
+            <name>replacePipelineByName Should throw the original error when all conditions not matched</name>
+            <title>replacePipelineByName Should throw the original error when all conditions not matched</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962849567' status='passed' stop='1546962849568'>
+            <name>getAllPipelinesByScmTrigger Should throw the original error when all conditions not matched</name>
+            <title>getAllPipelinesByScmTrigger Should throw the original error when all conditions not matched</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

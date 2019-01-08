@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384755' stop='1546606384755'>
+    <name>Public Logic Unit Tests Download Public Progress Invalid progress ID</name>
+    <title>Public Logic Unit Tests Download Public Progress Invalid progress ID</title>
+    <test-cases>
+        <test-case start='1546606384755' status='passed' stop='1546606384755'>
+            <name>Should throw error</name>
+            <title>Should throw error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

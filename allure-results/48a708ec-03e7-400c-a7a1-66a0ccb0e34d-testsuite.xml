@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941823164' stop='1546941823168'>
+    <name>Object Helper Unit Tests Object Helper</name>
+    <title>Object Helper Unit Tests Object Helper</title>
+    <test-cases>
+        <test-case start='1546941823164' status='passed' stop='1546941823168'>
+            <name>mergeEnvironmentVariables of two objects</name>
+            <title>mergeEnvironmentVariables of two objects</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962843562' stop='1546962843706'>
+    <name>Customer Unit Tests 1. Create Customer</name>
+    <title>Customer Unit Tests 1. Create Customer</title>
+    <test-cases>
+        <test-case start='1546962843562' status='passed' stop='1546962843572'>
+            <name>1.1 Should return created customer</name>
+            <title>1.1 Should return created customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843572' status='passed' stop='1546962843585'>
+            <name>1.2 Test assign account to customer</name>
+            <title>1.2 Test assign account to customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843585' status='passed' stop='1546962843611'>
+            <name>1.3 Test Create new account for customer</name>
+            <title>1.3 Test Create new account for customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843611' status='passed' stop='1546962843628'>
+            <name>1.4 Test update account limits</name>
+            <title>1.4 Test update account limits</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843629' status='passed' stop='1546962843641'>
+            <name>1.5 Test assign account to customer - expect to fail when number of builds is exceeded the limit</name>
+            <title>1.5 Test assign account to customer - expect to fail when number of builds is exceeded the limit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843641' status='passed' stop='1546962843653'>
+            <name>1.6 Test assign account to customer - expect to fail when number of environments has exceeded the limit</name>
+            <title>1.6 Test assign account to customer - expect to fail when number of environments has exceeded the limit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843653' status='passed' stop='1546962843671'>
+            <name>1.7 Test update account limits - expect to fail when number of builds has exceeded the limit</name>
+            <title>1.7 Test update account limits - expect to fail when number of builds has exceeded the limit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843671' status='passed' stop='1546962843686'>
+            <name>1.8 Test update account limits - expect to fail when number of environments is exceeded the limit</name>
+            <title>1.8 Test update account limits - expect to fail when number of environments is exceeded the limit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843686' status='passed' stop='1546962843695'>
+            <name>1.9 Test Create new account for customer - expect to fail when number of environments has exceeded the limit</name>
+            <title>1.9 Test Create new account for customer - expect to fail when number of environments has exceeded the limit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843695' status='passed' stop='1546962843706'>
+            <name>1.10 Test Create new account for customer - expect to fail when number of builds has exceeded the limit</name>
+            <title>1.10 Test Create new account for customer - expect to fail when number of builds has exceeded the limit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851889' stop='1546962851893'>
+    <name>Workflow environment variable extractor Variables from service</name>
+    <title>Workflow environment variable extractor Variables from service</title>
+    <test-cases>
+        <test-case start='1546962851889' status='passed' stop='1546962851892'>
+            <name>Should add</name>
+            <title>Should add</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851892' status='passed' stop='1546962851893'>
+            <name>Should not add when source model exist and service object not</name>
+            <title>Should not add when source model exist and service object not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

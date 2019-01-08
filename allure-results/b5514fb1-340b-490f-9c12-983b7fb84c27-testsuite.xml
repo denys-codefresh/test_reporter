@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606377247' stop='1546606377251'>
+    <name>Badge controller unit tests Templates and urls</name>
+    <title>Badge controller unit tests Templates and urls</title>
+    <test-cases>
+        <test-case start='1546606377247' status='passed' stop='1546606377249'>
+            <name>Should return array with templates for given badge class</name>
+            <title>Should return array with templates for given badge class</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606377249' status='passed' stop='1546606377250'>
+            <name>Should serve preview badge for supported type</name>
+            <title>Should serve preview badge for supported type</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606377250' status='passed' stop='1546606377251'>
+            <name>Should throw an error when type is not supplied </name>
+            <title>Should throw an error when type is not supplied </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

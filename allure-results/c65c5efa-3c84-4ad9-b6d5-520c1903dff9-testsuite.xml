@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606357992' stop='1546606357993'>
+    <name>Gateway errors tests Test all gateway error classes Testing category pipelines Testing class RunPipelineValidationError</name>
+    <title>Gateway errors tests Test all gateway error classes Testing category pipelines Testing class RunPipelineValidationError</title>
+    <test-cases>
+        <test-case start='1546606357992' status='passed' stop='1546606357992'>
+            <name>All class static method should be implemented</name>
+            <title>All class static method should be implemented</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357992' status='passed' stop='1546606357993'>
+            <name>Error config object must include a minimum set of keys</name>
+            <title>Error config object must include a minimum set of keys</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357993' status='passed' stop='1546606357993'>
+            <name>Error external name should end with ERROR</name>
+            <title>Error external name should end with ERROR</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357993' status='passed' stop='1546606357993'>
+            <name>Error internal name should end with ERROR</name>
+            <title>Error internal name should end with ERROR</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357993' status='passed' stop='1546606357993'>
+            <name>Class external name should ends with Error</name>
+            <title>Class external name should ends with Error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357993' status='passed' stop='1546606357993'>
+            <name>Microservice name should start with Capital letter</name>
+            <title>Microservice name should start with Capital letter</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357993' status='passed' stop='1546606357993'>
+            <name>The class name should represents the error name</name>
+            <title>The class name should represents the error name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606334444' stop='1546606334445'>
+    <name>Authentication Tests - Token 1. Generate token</name>
+    <title>Authentication Tests - Token 1. Generate token</title>
+    <test-cases>
+        <test-case start='1546606334444' status='passed' stop='1546606334445'>
+            <name>1.1 should generate a new access token</name>
+            <title>1.1 should generate a new access token</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941808725' stop='1546941808726'>
+    <name>Github SCM Service Unit Tests 17. extract modified files from webhoob commits</name>
+    <title>Github SCM Service Unit Tests 17. extract modified files from webhoob commits</title>
+    <test-cases>
+        <test-case start='1546941808725' status='passed' stop='1546941808725'>
+            <name>empty commits</name>
+            <title>empty commits</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941808726' status='passed' stop='1546941808726'>
+            <name>single commit</name>
+            <title>single commit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941808726' status='passed' stop='1546941808726'>
+            <name>multiple commits</name>
+            <title>multiple commits</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

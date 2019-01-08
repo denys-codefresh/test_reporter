@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941823112' stop='1546941823118'>
+    <name>Encrypted Env Vars Unit Tests Encrypted Env Vars Update</name>
+    <title>Encrypted Env Vars Unit Tests Encrypted Env Vars Update</title>
+    <test-cases>
+        <test-case start='1546941823112' status='passed' stop='1546941823115'>
+            <name>By removing one element</name>
+            <title>By removing one element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941823115' status='passed' stop='1546941823118'>
+            <name>By adding one encrypted element</name>
+            <title>By adding one encrypted element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

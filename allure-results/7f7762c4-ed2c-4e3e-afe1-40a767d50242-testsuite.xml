@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962824178' stop='1546962824211'>
+    <name>User Integration Tests 3. localAuthenticate - validates if a given userName with password and provider matches the password in DB</name>
+    <title>User Integration Tests 3. localAuthenticate - validates if a given userName with password and provider matches the password in DB</title>
+    <test-cases>
+        <test-case start='1546962824178' status='passed' stop='1546962824179'>
+            <name>3.1 should fail in case the user does not exist at all in DB</name>
+            <title>3.1 should fail in case the user does not exist at all in DB</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962824179' status='passed' stop='1546962824182'>
+            <name>3.2 should fail in case the user exists in DB but has no hashedPassword field and no salt field</name>
+            <title>3.2 should fail in case the user exists in DB but has no hashedPassword field and no salt field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962824182' status='passed' stop='1546962824186'>
+            <name>3.3 should fail in case the user has hashedPassword field but not salt field</name>
+            <title>3.3 should fail in case the user has hashedPassword field but not salt field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962824186' status='passed' stop='1546962824191'>
+            <name>3.4 should fail in case the user has hashedPassword field but not salt field</name>
+            <title>3.4 should fail in case the user has hashedPassword field but not salt field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962824191' status='passed' stop='1546962824210'>
+            <name>3.5 should succeed in case the details match</name>
+            <title>3.5 should succeed in case the details match</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941835484' stop='1546941835497'>
+    <name>Cloud provider Aws pickDnsEip - finds free route53 record by config...aws.dnsPrefix or creates new positive</name>
+    <title>Cloud provider Aws pickDnsEip - finds free route53 record by config...aws.dnsPrefix or creates new positive</title>
+    <test-cases>
+        <test-case start='1546941835484' status='passed' stop='1546941835488'>
+            <name>should return existing record with eip</name>
+            <title>should return existing record with eip</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835488' status='passed' stop='1546941835490'>
+            <name>should create new eip and route53 record </name>
+            <title>should create new eip and route53 record </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835491' status='passed' stop='1546941835497'>
+            <name>should return 2 different eipDns on concurrent call</name>
+            <title>should return 2 different eipDns on concurrent call</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

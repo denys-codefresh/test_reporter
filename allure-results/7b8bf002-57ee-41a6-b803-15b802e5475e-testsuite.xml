@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941805941' stop='1546941805941'>
+    <name>BitbucketServer Provider Unit Tests getRepoPermission BitbucketServer</name>
+    <title>BitbucketServer Provider Unit Tests getRepoPermission BitbucketServer</title>
+    <test-cases>
+        <test-case start='1546941805941' status='passed' stop='1546941805941'>
+            <name>BitbucketServer should always return private</name>
+            <title>BitbucketServer should always return private</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

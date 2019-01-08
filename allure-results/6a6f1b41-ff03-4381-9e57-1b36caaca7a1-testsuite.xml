@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941827739' stop='1546941827912'>
+    <name>Bintray Registry Unit Tests :Update</name>
+    <title>Bintray Registry Unit Tests :Update</title>
+    <test-cases>
+        <test-case start='1546941827739' status='passed' stop='1546941827771'>
+            <name>should successfully update credentials (username)</name>
+            <title>should successfully update credentials (username)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827771' status='passed' stop='1546941827797'>
+            <name>should successfully update credentials (token)</name>
+            <title>should successfully update credentials (token)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827797' status='passed' stop='1546941827822'>
+            <name>should successfully update domain</name>
+            <title>should successfully update domain</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827822' status='passed' stop='1546941827855'>
+            <name>should fail to update credentials (username) to be empty</name>
+            <title>should fail to update credentials (username) to be empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827855' status='passed' stop='1546941827885'>
+            <name>should fail to update credentials (token) to be empty</name>
+            <title>should fail to update credentials (token) to be empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941827885' status='passed' stop='1546941827912'>
+            <name>should fail to update the bintray domain to be empty</name>
+            <title>should fail to update the bintray domain to be empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386322' stop='1546606386326'>
+    <name>Registry AuthN model unit tests</name>
+    <title>Registry AuthN model unit tests</title>
+    <test-cases>
+        <test-case start='1546606386322' status='passed' stop='1546606386324'>
+            <name>should be invalid if user name is empty</name>
+            <title>should be invalid if user name is empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386324' status='passed' stop='1546606386325'>
+            <name>should be invalid if user name contains not allowed characters</name>
+            <title>should be invalid if user name contains not allowed characters</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606386325' status='passed' stop='1546606386326'>
+            <name>should be ok if authN model contains valid user name, hash and salt</name>
+            <title>should be ok if authN model contains valid user name, hash and salt</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

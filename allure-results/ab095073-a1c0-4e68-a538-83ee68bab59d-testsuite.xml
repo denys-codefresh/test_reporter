@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606361439' stop='1546606361450'>
+    <name>monitor consul - handles all operations performed through consul updateDockerNodes - updates all existing and new nodes with information from consul negative tests</name>
+    <title>monitor consul - handles all operations performed through consul updateDockerNodes - updates all existing and new nodes with information from consul negative tests</title>
+    <test-cases>
+        <test-case start='1546606361439' status='passed' stop='1546606361442'>
+            <name>should return an error in case get docker nodes failed</name>
+            <title>should return an error in case get docker nodes failed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606361442' status='passed' stop='1546606361445'>
+            <name>should return an error in case tried to create a node with a non valid service type</name>
+            <title>should return an error in case tried to create a node with a non valid service type</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606361445' status='passed' stop='1546606361450'>
+            <name>should return an error in case tried to create a node with a non valid service type</name>
+            <title>should return an error in case tried to create a node with a non valid service type</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

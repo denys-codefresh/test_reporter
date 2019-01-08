@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941811821' stop='1546941811847'>
+    <name>Stash Provider Unit Tests Not Implemented</name>
+    <title>Stash Provider Unit Tests Not Implemented</title>
+    <test-cases>
+        <test-case start='1546941811821' status='passed' stop='1546941811824'>
+            <name>updateRepositoryCommitBuildStatus</name>
+            <title>updateRepositoryCommitBuildStatus</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941811824' status='passed' stop='1546941811828'>
+            <name>compareCommits</name>
+            <title>compareCommits</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941811829' status='passed' stop='1546941811832'>
+            <name>createBranch</name>
+            <title>createBranch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941811832' status='passed' stop='1546941811834'>
+            <name>mergeBranch</name>
+            <title>mergeBranch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941811834' status='passed' stop='1546941811836'>
+            <name>removeBranch</name>
+            <title>removeBranch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941811836' status='passed' stop='1546941811838'>
+            <name>getPullRequest</name>
+            <title>getPullRequest</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941811838' status='passed' stop='1546941811839'>
+            <name>getRepositoryPullRequests</name>
+            <title>getRepositoryPullRequests</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941811840' status='passed' stop='1546941811841'>
+            <name>getIssues</name>
+            <title>getIssues</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941811841' status='passed' stop='1546941811842'>
+            <name>getContributors</name>
+            <title>getContributors</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941811842' status='passed' stop='1546941811843'>
+            <name>getOrgMembers</name>
+            <title>getOrgMembers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941811843' status='passed' stop='1546941811844'>
+            <name>getOrg</name>
+            <title>getOrg</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941811844' status='passed' stop='1546941811845'>
+            <name>getOrgRepos</name>
+            <title>getOrgRepos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941811845' status='passed' stop='1546941811846'>
+            <name>isUsingSSH</name>
+            <title>isUsingSSH</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941811846' status='passed' stop='1546941811847'>
+            <name>getProviderHostName</name>
+            <title>getProviderHostName</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

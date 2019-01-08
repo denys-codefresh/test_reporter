@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962843537' stop='1546962843539'>
+    <name>Composition Templates Logic</name>
+    <title>Composition Templates Logic</title>
+    <test-cases>
+        <test-case start='1546962843537' status='passed' stop='1546962843539'>
+            <name>should return list of predefined composition templates using cache</name>
+            <title>should return list of predefined composition templates using cache</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843539' status='passed' stop='1546962843539'>
+            <name>should return list of predefined composition templates without using cache</name>
+            <title>should return list of predefined composition templates without using cache</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

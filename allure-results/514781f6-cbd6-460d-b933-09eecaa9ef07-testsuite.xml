@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941821419' stop='1546941821425'>
+    <name>_chooseWorkflowUser unit test Detached pipeline</name>
+    <title>_chooseWorkflowUser unit test Detached pipeline</title>
+    <test-cases>
+        <test-case start='1546941821419' status='passed' stop='1546941821421'>
+            <name>Should return the comitter if found in account</name>
+            <title>Should return the comitter if found in account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821421' status='passed' stop='1546941821425'>
+            <name>Should set active account on the user</name>
+            <title>Should set active account on the user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941813407' stop='1546941818439'>
+    <name>Build Manager Terminator</name>
+    <title>Build Manager Terminator</title>
+    <test-cases>
+        <test-case start='1546941813407' status='passed' stop='1546941813412'>
+            <name>no workflows at all</name>
+            <title>no workflows at all</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813412' status='passed' stop='1546941813413'>
+            <name>get some workflows</name>
+            <title>get some workflows</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813414' status='passed' stop='1546941814416'>
+            <name>terminate 2 workflows that are in status RUNNING</name>
+            <title>terminate 2 workflows that are in status RUNNING</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941814417' status='passed' stop='1546941815422'>
+            <name>terminate one workflow that is in status RUNNING</name>
+            <title>terminate one workflow that is in status RUNNING</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941815423' status='passed' stop='1546941816426'>
+            <name>dont terminate, log is new</name>
+            <title>dont terminate, log is new</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941816426' status='passed' stop='1546941817433'>
+            <name>terminate a workflow that is in terminating status should terminate in case diff is bigger than 5*60</name>
+            <title>terminate a workflow that is in terminating status should terminate in case diff is bigger than 5*60</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941817433' status='passed' stop='1546941818438'>
+            <name>terminate a workflow that is in terminating status should not terminate in case diff is less than 5*60</name>
+            <title>terminate a workflow that is in terminating status should not terminate in case diff is less than 5*60</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

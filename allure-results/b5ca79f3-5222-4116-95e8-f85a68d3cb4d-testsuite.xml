@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962849228' stop='1546962849231'>
+    <name>Kubernetes logic getSquashedPodWithInternalImageIds</name>
+    <title>Kubernetes logic getSquashedPodWithInternalImageIds</title>
+    <test-cases>
+        <test-case start='1546962849228' status='passed' stop='1546962849231'>
+            <name>Should get squashed pods</name>
+            <title>Should get squashed pods</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

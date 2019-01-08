@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941834166' stop='1546941834175'>
+    <name>monitor node Docker-node class update - receives a new node model and updates the existing one</name>
+    <title>monitor node Docker-node class update - receives a new node model and updates the existing one</title>
+    <test-cases>
+        <test-case start='1546941834166' status='passed' stop='1546941834170'>
+            <name>should add a new object for running flows in case received from an additional source</name>
+            <title>should add a new object for running flows in case received from an additional source</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941834170' status='passed' stop='1546941834172'>
+            <name>should update existing runningFlows from a host if passed</name>
+            <title>should update existing runningFlows from a host if passed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941834172' status='passed' stop='1546941834173'>
+            <name>should add a new object for workers in case received from an additional source</name>
+            <title>should add a new object for workers in case received from an additional source</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941834173' status='passed' stop='1546941834174'>
+            <name>should update existing workers from a host if passed</name>
+            <title>should update existing workers from a host if passed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941834174' status='pending' stop='1546941834174'>
+            <name>should call updateBuildManager if previous status is manualPause and new status is running</name>
+            <title>should call updateBuildManager if previous status is manualPause and new status is running</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941834174' status='pending' stop='1546941834174'>
+            <name>should call updateBuildManager if previous status is limitPause and new status is running</name>
+            <title>should call updateBuildManager if previous status is limitPause and new status is running</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941834174' status='passed' stop='1546941834175'>
+            <name>should not call updateBuildManager if previous status is limitPause and new status is manualPause</name>
+            <title>should not call updateBuildManager if previous status is limitPause and new status is manualPause</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

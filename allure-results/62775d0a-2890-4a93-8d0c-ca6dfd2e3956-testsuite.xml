@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962842937' stop='1546962842952'>
+    <name>Sections controller unit tests Delete all sections in board</name>
+    <title>Sections controller unit tests Delete all sections in board</title>
+    <test-cases>
+        <test-case start='1546962842937' status='passed' stop='1546962842952'>
+            <name>should response with 200 and deleted section</name>
+            <title>should response with 200 and deleted section</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

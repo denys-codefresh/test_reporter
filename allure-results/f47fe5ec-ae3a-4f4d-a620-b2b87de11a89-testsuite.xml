@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606357811' stop='1546606357819'>
+    <name>API keys unit tests createNewToken flow</name>
+    <title>API keys unit tests createNewToken flow</title>
+    <test-cases>
+        <test-case start='1546606357812' status='passed' stop='1546606357814'>
+            <name>Call to createNewToken with default subject</name>
+            <title>Call to createNewToken with default subject</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606357814' status='passed' stop='1546606357815'>
+            <name>Call to createNewToken with runtime as subject</name>
+            <title>Call to createNewToken with runtime as subject</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

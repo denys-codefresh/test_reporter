@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962825001' stop='1546962825002'>
+    <name>monitor api - exposes an external interface to trigger functionalities related to nodes start - starts listening on events positive tests</name>
+    <title>monitor api - exposes an external interface to trigger functionalities related to nodes start - starts listening on events positive tests</title>
+    <test-cases>
+        <test-case start='1546962825001' status='passed' stop='1546962825002'>
+            <name>should succeed in case received an event an handler succeeded</name>
+            <title>should succeed in case received an event an handler succeeded</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

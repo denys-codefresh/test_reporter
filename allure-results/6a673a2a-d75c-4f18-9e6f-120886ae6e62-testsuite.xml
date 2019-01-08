@@ -1,0 +1,91 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386321' stop='1546606386321'>
+    <name>Registry AuthN Logic #checkAuthentication</name>
+    <title>Registry AuthN Logic #checkAuthentication</title>
+    <test-cases>
+        <test-case start='1546606386321' status='pending' stop='1546606386321'>
+            <name>should throw error for empty authN request</name>
+            <title>should throw error for empty authN request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606386321' status='pending' stop='1546606386321'>
+            <name>should throw error for authN request w/out user name</name>
+            <title>should throw error for authN request w/out user name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606386321' status='pending' stop='1546606386321'>
+            <name>should throw error for authN request w/out token</name>
+            <title>should throw error for authN request w/out token</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606386321' status='pending' stop='1546606386321'>
+            <name>should build valid mongo query from request</name>
+            <title>should build valid mongo query from request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606386321' status='pending' stop='1546606386321'>
+            <name>should pass if token generated HMAC is valid</name>
+            <title>should pass if token generated HMAC is valid</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606386321' status='pending' stop='1546606386321'>
+            <name>should fail if token does not match valid HMAC</name>
+            <title>should fail if token does not match valid HMAC</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546606386321' status='pending' stop='1546606386321'>
+            <name>should fail on any dal.find error</name>
+            <title>should fail on any dal.find error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

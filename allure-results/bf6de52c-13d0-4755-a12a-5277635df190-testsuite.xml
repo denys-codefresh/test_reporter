@@ -1,0 +1,79 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941821605' stop='1546941821625'>
+    <name>Compositions Unit Tests Compositions Update</name>
+    <title>Compositions Unit Tests Compositions Update</title>
+    <test-cases>
+        <test-case start='1546941821606' status='passed' stop='1546941821612'>
+            <name>By inserting explicit ports on a private environment</name>
+            <title>By inserting explicit ports on a private environment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821612' status='passed' stop='1546941821615'>
+            <name>By inserting volumes on a shared environment</name>
+            <title>By inserting volumes on a shared environment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821615' status='passed' stop='1546941821617'>
+            <name>By inserting volumes on a private environment</name>
+            <title>By inserting volumes on a private environment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821617' status='passed' stop='1546941821624'>
+            <name>By adding one encrypted element</name>
+            <title>By adding one encrypted element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821624' status='passed' stop='1546941821624'>
+            <name>Environment vars if exists</name>
+            <title>Environment vars if exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821624' status='passed' stop='1546941821624'>
+            <name>origVars to be the updated vars when origvars are empty</name>
+            <title>origVars to be the updated vars when origvars are empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821624' status='passed' stop='1546941821624'>
+            <name>OrigVars to be empty if the updaedVars are empty and origVars are empty</name>
+            <title>OrigVars to be empty if the updaedVars are empty and origVars are empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821625' status='passed' stop='1546941821625'>
+            <name>OrigVars to return the same</name>
+            <title>OrigVars to return the same</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821625' status='passed' stop='1546941821625'>
+            <name>OrigVars to return the same if newVars are undefined</name>
+            <title>OrigVars to return the same if newVars are undefined</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

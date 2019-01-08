@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962843366' stop='1546962843371'>
+    <name>Composition controller unit test fixWarnings route</name>
+    <title>Composition controller unit test fixWarnings route</title>
+    <test-cases>
+        <test-case start='1546962843366' status='passed' stop='1546962843367'>
+            <name>Should return error when body has no yaml</name>
+            <title>Should return error when body has no yaml</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843367' status='passed' stop='1546962843368'>
+            <name>Should return status 200 with errors</name>
+            <title>Should return status 200 with errors</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962843368' status='passed' stop='1546962843371'>
+            <name>Should validate proper flow</name>
+            <title>Should validate proper flow</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

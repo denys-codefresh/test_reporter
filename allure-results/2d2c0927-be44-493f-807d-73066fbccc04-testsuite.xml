@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962857506' stop='1546962857517'>
+    <name>providers.cloud.azure delete</name>
+    <title>providers.cloud.azure delete</title>
+    <test-cases>
+        <test-case start='1546962857506' status='passed' stop='1546962857506'>
+            <name>delete allowed</name>
+            <title>delete allowed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857506' status='passed' stop='1546962857506'>
+            <name>delete not allowed</name>
+            <title>delete not allowed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857506' status='passed' stop='1546962857515'>
+            <name>delete - success</name>
+            <title>delete - success</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857515' status='passed' stop='1546962857517'>
+            <name>delete - failure</name>
+            <title>delete - failure</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

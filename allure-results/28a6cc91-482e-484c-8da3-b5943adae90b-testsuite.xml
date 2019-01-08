@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941820909' stop='1546941820934'>
+    <name>Sections controller unit tests Get section Get section by name</name>
+    <title>Sections controller unit tests Get section Get section by name</title>
+    <test-cases>
+        <test-case start='1546941820909' status='passed' stop='1546941820922'>
+            <name>should return section</name>
+            <title>should return section</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941820922' status='passed' stop='1546941820934'>
+            <name>should return null</name>
+            <title>should return null</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

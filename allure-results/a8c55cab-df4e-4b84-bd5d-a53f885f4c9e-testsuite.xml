@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962799018' stop='1546962799032'>
+    <name>Notifications Repo status reportNewFlow positive tests</name>
+    <title>Notifications Repo status reportNewFlow positive tests</title>
+    <test-cases>
+        <test-case start='1546962799018' status='passed' stop='1546962799023'>
+            <name>should not report status in case trigger is not BUILD or WEBHOOK</name>
+            <title>should not report status in case trigger is not BUILD or WEBHOOK</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962799023' status='passed' stop='1546962799025'>
+            <name>should report status in case trigger is WEBHOOK</name>
+            <title>should report status in case trigger is WEBHOOK</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962799025' status='passed' stop='1546962799027'>
+            <name>should report status in case trigger is BUILD</name>
+            <title>should report status in case trigger is BUILD</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962799027' status='passed' stop='1546962799030'>
+            <name>should report status in case trigger is BUILD for two different pipelines</name>
+            <title>should report status in case trigger is BUILD for two different pipelines</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962799030' status='passed' stop='1546962799032'>
+            <name>should return public URL if pipeline is public</name>
+            <title>should return public URL if pipeline is public</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

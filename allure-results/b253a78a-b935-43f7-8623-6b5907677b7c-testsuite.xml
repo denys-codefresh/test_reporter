@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606362833' stop='1546606362840'>
+    <name>Bitbucket Provider Unit Tests 1. Refresh Token Tests 1.4 Calling a general bitbucket api when expiry time has passed should call refresh token function once</name>
+    <title>Bitbucket Provider Unit Tests 1. Refresh Token Tests 1.4 Calling a general bitbucket api when expiry time has passed should call refresh token function once</title>
+    <test-cases>
+        <test-case start='1546606362833' status='passed' stop='1546606362840'>
+            <name>1.4.1 calling getCurrentUser</name>
+            <title>1.4.1 calling getCurrentUser</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384655' stop='1546606384657'>
+    <name>Pipeline controller unit test CRUD on pipeline-manager getLabels</name>
+    <title>Pipeline controller unit test CRUD on pipeline-manager getLabels</title>
+    <test-cases>
+        <test-case start='1546606384655' status='passed' stop='1546606384656'>
+            <name>Happy path...</name>
+            <title>Happy path...</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384656' status='passed' stop='1546606384657'>
+            <name>On error call next with error</name>
+            <title>On error call next with error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

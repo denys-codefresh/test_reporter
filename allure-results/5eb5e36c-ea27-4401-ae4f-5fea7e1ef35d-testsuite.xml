@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606384340' stop='1546606384378'>
+    <name>Kubernetes controller unit test Test credentials</name>
+    <title>Kubernetes controller unit test Test credentials</title>
+    <test-cases>
+        <test-case start='1546606384341' status='passed' stop='1546606384351'>
+            <name>Should success</name>
+            <title>Should success</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606384354' status='passed' stop='1546606384375'>
+            <name>Should fail</name>
+            <title>Should fail</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

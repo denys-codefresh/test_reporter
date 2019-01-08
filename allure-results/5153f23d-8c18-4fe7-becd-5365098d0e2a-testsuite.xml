@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941822834' stop='1546941822899'>
+    <name>environments terminator process - will perform the actual termination of environments positive tests</name>
+    <title>environments terminator process - will perform the actual termination of environments positive tests</title>
+    <test-cases>
+        <test-case start='1546941822835' status='passed' stop='1546941822877'>
+            <name>should not perform anything in case no old environments were returned</name>
+            <title>should not perform anything in case no old environments were returned</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941822877' status='passed' stop='1546941822899'>
+            <name>should only kill environments with runtimeEnvironment of codefresh</name>
+            <title>should only kill environments with runtimeEnvironment of codefresh</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

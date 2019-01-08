@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941835480' stop='1546941835484'>
+    <name>Cloud provider Aws deleteAllowed - returns true if real instance terminate is allowed negative</name>
+    <title>Cloud provider Aws deleteAllowed - returns true if real instance terminate is allowed negative</title>
+    <test-cases>
+        <test-case start='1546941835481' status='passed' stop='1546941835484'>
+            <name>should return false for customer docker-node</name>
+            <title>should return false for customer docker-node</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

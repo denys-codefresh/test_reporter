@@ -1,0 +1,143 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941813097' stop='1546941813405'>
+    <name>Initiate Workflow workflow with a pipeline</name>
+    <title>Initiate Workflow workflow with a pipeline</title>
+    <test-cases>
+        <test-case start='1546941813097' status='passed' stop='1546941813178'>
+            <name>should have dockerNode</name>
+            <title>should have dockerNode</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813179' status='passed' stop='1546941813192'>
+            <name>should have eventReporting</name>
+            <title>should have eventReporting</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813193' status='passed' stop='1546941813206'>
+            <name>should have integrations</name>
+            <title>should have integrations</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813206' status='passed' stop='1546941813218'>
+            <name>should have internalRegistry</name>
+            <title>should have internalRegistry</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813218' status='passed' stop='1546941813229'>
+            <name>should have options</name>
+            <title>should have options</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813229' status='passed' stop='1546941813239'>
+            <name>should have process</name>
+            <title>should have process</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813239' status='passed' stop='1546941813248'>
+            <name>should have processScmMetadata</name>
+            <title>should have processScmMetadata</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813248' status='passed' stop='1546941813257'>
+            <name>should have progress_id</name>
+            <title>should have progress_id</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813257' status='passed' stop='1546941813265'>
+            <name>should have service</name>
+            <title>should have service</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813265' status='passed' stop='1546941813273'>
+            <name>should have variables</name>
+            <title>should have variables</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813274' status='passed' stop='1546941813284'>
+            <name>should have workflow</name>
+            <title>should have workflow</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813284' status='passed' stop='1546941813294'>
+            <name>should include previous workflow context</name>
+            <title>should include previous workflow context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813294' status='passed' stop='1546941813302'>
+            <name>Should not include previous workflow context in case its not exist on the current workflow</name>
+            <title>Should not include previous workflow context in case its not exist on the current workflow</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813302' status='passed' stop='1546941813313'>
+            <name>Should not include previous workflow context in case the revision its not exist on current workflow</name>
+            <title>Should not include previous workflow context in case the revision its not exist on current workflow</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813313' status='passed' stop='1546941813317'>
+            <name>Should throw an error incase the previous workflow exitst on current one but the workflow context revision was not found</name>
+            <title>Should throw an error incase the previous workflow exitst on current one but the workflow context revision was not found</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813318' status='passed' stop='1546941813327'>
+            <name>should remove from steps metadata all git-clone steps</name>
+            <title>should remove from steps metadata all git-clone steps</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941813328' status='passed' stop='1546941813339'>
+            <name>Should remove all failed steps when executing with proper build strategy</name>
+            <title>Should remove all failed steps when executing with proper build strategy</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962798053' stop='1546962798054'>
+    <name>abac.controller getTeamsGrants</name>
+    <title>abac.controller getTeamsGrants</title>
+    <test-cases>
+        <test-case start='1546962798053' status='passed' stop='1546962798054'>
+            <name>get grants for the specific team in active account</name>
+            <title>get grants for the specific team in active account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

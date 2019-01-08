@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386688' stop='1546606386693'>
+    <name>security extend trigger context negative</name>
+    <title>security extend trigger context negative</title>
+    <test-cases>
+        <test-case start='1546606386688' status='passed' stop='1546606386693'>
+            <name>in case id exists in the endpoint and no matching trigger exists an error should be returned</name>
+            <title>in case id exists in the endpoint and no matching trigger exists an error should be returned</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

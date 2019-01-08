@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941800430' stop='1546941800437'>
+    <name>IDP unit tests /:clientName/callback/withoutVerification</name>
+    <title>IDP unit tests /:clientName/callback/withoutVerification</title>
+    <test-cases>
+        <test-case start='1546941800430' status='passed' stop='1546941800432'>
+            <name>Should callback and login</name>
+            <title>Should callback and login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941800432' status='passed' stop='1546941800434'>
+            <name>Should callback and create context</name>
+            <title>Should callback and create context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941800434' status='passed' stop='1546941800436'>
+            <name>Should callback and update context</name>
+            <title>Should callback and update context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

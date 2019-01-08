@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962821931' stop='1546962822104'>
+    <name>Group sync operations</name>
+    <title>Group sync operations</title>
+    <test-cases>
+        <test-case start='1546962821931' status='passed' stop='1546962822023'>
+            <name>sync groups - create new</name>
+            <title>sync groups - create new</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962822023' status='passed' stop='1546962822104'>
+            <name>sync groups - remove</name>
+            <title>sync groups - remove</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

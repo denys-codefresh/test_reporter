@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962858308' stop='1546962858317'>
+    <name>Workflow revision dal unit test Get workflow revision Transform options into query</name>
+    <title>Workflow revision dal unit test Get workflow revision Transform options into query</title>
+    <test-cases>
+        <test-case start='1546962858308' status='passed' stop='1546962858309'>
+            <name>Should include revision in query if passed</name>
+            <title>Should include revision in query if passed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962858309' status='passed' stop='1546962858311'>
+            <name>Should include final in query if passed</name>
+            <title>Should include final in query if passed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962858311' status='passed' stop='1546962858312'>
+            <name>Should include restartable in query if passed</name>
+            <title>Should include restartable in query if passed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962858312' status='passed' stop='1546962858315'>
+            <name>Should include step in query if passed</name>
+            <title>Should include step in query if passed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962858315' status='passed' stop='1546962858317'>
+            <name>Should include event in query if passed</name>
+            <title>Should include event in query if passed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

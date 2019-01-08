@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851926' stop='1546962852132'>
+    <name>Workflows Workflow statistic</name>
+    <title>Workflows Workflow statistic</title>
+    <test-cases>
+        <test-case start='1546962851926' status='passed' stop='1546962851972'>
+            <name>buildStatisticByPipeline</name>
+            <title>buildStatisticByPipeline</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851972' status='passed' stop='1546962852012'>
+            <name>buildStatisticByPipeline with elected date</name>
+            <title>buildStatisticByPipeline with elected date</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962852012' status='passed' stop='1546962852050'>
+            <name>buildStatisticByPipeline with metrics</name>
+            <title>buildStatisticByPipeline with metrics</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962852050' status='passed' stop='1546962852092'>
+            <name>buildStatisticByPipeline with metrics, but without branch</name>
+            <title>buildStatisticByPipeline with metrics, but without branch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962852092' status='passed' stop='1546962852132'>
+            <name>buildStatisticByPipeline with metrics, without pipeline ,  but with branch</name>
+            <title>buildStatisticByPipeline with metrics, without pipeline ,  but with branch</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

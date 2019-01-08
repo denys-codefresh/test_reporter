@@ -1,0 +1,79 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851191' stop='1546962851198'>
+    <name>Registry AuthZ model unit tests</name>
+    <title>Registry AuthZ model unit tests</title>
+    <test-cases>
+        <test-case start='1546962851191' status='passed' stop='1546962851192'>
+            <name>should be invalid if user name is empty</name>
+            <title>should be invalid if user name is empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851192' status='passed' stop='1546962851193'>
+            <name>should be invalid if user name contains not allowed characters</name>
+            <title>should be invalid if user name contains not allowed characters</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851193' status='passed' stop='1546962851193'>
+            <name>should be ok if user contains valid regex</name>
+            <title>should be ok if user contains valid regex</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851193' status='passed' stop='1546962851194'>
+            <name>should be invalid if user does not contains valid regex</name>
+            <title>should be invalid if user does not contains valid regex</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851194' status='passed' stop='1546962851195'>
+            <name>should be invalid if image name is empty</name>
+            <title>should be invalid if image name is empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851195' status='passed' stop='1546962851195'>
+            <name>should be invalid if image name contains not allowed characters</name>
+            <title>should be invalid if image name contains not allowed characters</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851196' status='passed' stop='1546962851196'>
+            <name>should be ok if name contains valid regex</name>
+            <title>should be ok if name contains valid regex</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851196' status='passed' stop='1546962851197'>
+            <name>should be invalid if name does not contains valid regex</name>
+            <title>should be invalid if name does not contains valid regex</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851197' status='passed' stop='1546962851197'>
+            <name>should be ok if everything is passed</name>
+            <title>should be ok if everything is passed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

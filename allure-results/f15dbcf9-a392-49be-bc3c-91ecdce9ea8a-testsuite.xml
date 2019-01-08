@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606393362' stop='1546606393367'>
+    <name>pki - certs.js</name>
+    <title>pki - certs.js</title>
+    <test-cases>
+        <test-case start='1546606393362' status='passed' stop='1546606393363'>
+            <name>getServerValidateCa - firstCall</name>
+            <title>getServerValidateCa - firstCall</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393363' status='passed' stop='1546606393363'>
+            <name>getServerValidateCa - secondCall takes from cache</name>
+            <title>getServerValidateCa - secondCall takes from cache</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393363' status='passed' stop='1546606393364'>
+            <name>getClientCerts</name>
+            <title>getClientCerts</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393364' status='passed' stop='1546606393365'>
+            <name>getClientCertsByPath</name>
+            <title>getClientCertsByPath</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393365' status='passed' stop='1546606393366'>
+            <name>_getClientCerts - call tlsSign - positive</name>
+            <title>_getClientCerts - call tlsSign - positive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393366' status='passed' stop='1546606393367'>
+            <name>_getClientCerts - call tlsSign - negative</name>
+            <title>_getClientCerts - call tlsSign - negative</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

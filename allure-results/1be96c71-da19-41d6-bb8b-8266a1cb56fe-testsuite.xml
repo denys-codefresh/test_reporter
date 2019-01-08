@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941804060' stop='1546941804067'>
+    <name>monitor index - starts all operations related to monitoring start - starts monitoring</name>
+    <title>monitor index - starts all operations related to monitoring start - starts monitoring</title>
+    <test-cases>
+        <test-case start='1546941804060' status='passed' stop='1546941804064'>
+            <name>prepareLocalNode - should set id by process.env.API_ID</name>
+            <title>prepareLocalNode - should set id by process.env.API_ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941804064' status='passed' stop='1546941804064'>
+            <name>prepareLocalNode - should set id by hostname if not process.env.API_ID</name>
+            <title>prepareLocalNode - should set id by hostname if not process.env.API_ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941804065' status='undefined'>
+            <name>should start successfully</name>
+            <title>should start successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

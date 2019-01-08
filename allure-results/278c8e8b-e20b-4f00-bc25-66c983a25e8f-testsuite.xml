@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606393296' stop='1546606393314'>
+    <name>Account Limits Unit Tests Limit Manipulation</name>
+    <title>Account Limits Unit Tests Limit Manipulation</title>
+    <test-cases>
+        <test-case start='1546606393296' status='passed' stop='1546606393303'>
+            <name>should be able to raise the limit</name>
+            <title>should be able to raise the limit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393303' status='passed' stop='1546606393309'>
+            <name>should be able to lower the limit</name>
+            <title>should be able to lower the limit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606393309' status='passed' stop='1546606393314'>
+            <name>should fail to lower the limit to a negative value</name>
+            <title>should fail to lower the limit to a negative value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962851159' stop='1546962851162'>
+    <name>Registry AuthN Logic #deleteToken</name>
+    <title>Registry AuthN Logic #deleteToken</title>
+    <test-cases>
+        <test-case start='1546962851159' status='passed' stop='1546962851160'>
+            <name>should delete a token</name>
+            <title>should delete a token</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851160' status='passed' stop='1546962851161'>
+            <name>Should fail delete  token with no user name</name>
+            <title>Should fail delete  token with no user name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962851161' status='passed' stop='1546962851162'>
+            <name>Should fail delete  token with no id</name>
+            <title>Should fail delete  token with no id</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

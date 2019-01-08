@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962830589' stop='1546962830599'>
+    <name>Github SCM Service Unit Tests 18. addRepositoryWebHook</name>
+    <title>Github SCM Service Unit Tests 18. addRepositoryWebHook</title>
+    <test-cases>
+        <test-case start='1546962830589' status='passed' stop='1546962830593'>
+            <name>should create a webhook in case webhook does not yet exists</name>
+            <title>should create a webhook in case webhook does not yet exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962830593' status='passed' stop='1546962830596'>
+            <name>should not create a webhook in case webhook already exists with the same endpoint</name>
+            <title>should not create a webhook in case webhook already exists with the same endpoint</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962830596' status='passed' stop='1546962830599'>
+            <name>should not create a webhook in case webhook already exists with the old deprecated endpoint</name>
+            <title>should not create a webhook in case webhook already exists with the old deprecated endpoint</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941802897' stop='1546941802926'>
+    <name>User Integration Tests 10 getUserByUserName positive</name>
+    <title>User Integration Tests 10 getUserByUserName positive</title>
+    <test-cases>
+        <test-case start='1546941802897' status='passed' stop='1546941802926'>
+            <name>should return a user that exists</name>
+            <title>should return a user that exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

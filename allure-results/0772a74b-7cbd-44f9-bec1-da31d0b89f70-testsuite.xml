@@ -1,0 +1,151 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941829189' stop='1546941829189'>
+    <name>Registry AuthZ Logic #checkAuthorization</name>
+    <title>Registry AuthZ Logic #checkAuthorization</title>
+    <test-cases>
+        <test-case start='1546941829189' status='pending' stop='1546941829189'>
+            <name>should throw error for empty authZ request</name>
+            <title>should throw error for empty authZ request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941829189' status='pending' stop='1546941829189'>
+            <name>should throw error for authZ request w/out user name</name>
+            <title>should throw error for authZ request w/out user name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941829189' status='pending' stop='1546941829189'>
+            <name>should build valid mongo query from request</name>
+            <title>should build valid mongo query from request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941829189' status='pending' stop='1546941829189'>
+            <name>should be called with rules and enriched request</name>
+            <title>should be called with rules and enriched request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941829189' status='pending' stop='1546941829189'>
+            <name>should pass if request matches validation rule: regexp</name>
+            <title>should pass if request matches validation rule: regexp</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941829189' status='pending' stop='1546941829189'>
+            <name>should fail on any dal.find error</name>
+            <title>should fail on any dal.find error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941829189' status='pending' stop='1546941829189'>
+            <name>should fail on any users.getUserByUserName error</name>
+            <title>should fail on any users.getUserByUserName error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941829189' status='pending' stop='1546941829189'>
+            <name>should pass if request matches validation rule: name</name>
+            <title>should pass if request matches validation rule: name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941829189' status='pending' stop='1546941829189'>
+            <name>should pass if request matches validation actions: [*]</name>
+            <title>should pass if request matches validation actions: [*]</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941829189' status='pending' stop='1546941829189'>
+            <name>should deny if rule actions are empty</name>
+            <title>should deny if rule actions are empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941829189' status='pending' stop='1546941829189'>
+            <name>should deny if rule actions have no match</name>
+            <title>should deny if rule actions have no match</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546941829189' status='pending' stop='1546941829189'>
+            <name>should deny if no user match</name>
+            <title>should deny if no user match</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

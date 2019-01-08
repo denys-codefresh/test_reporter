@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941829352' stop='1546941829358'>
+    <name>Runtime Logic tests Launch Pipeline</name>
+    <title>Runtime Logic tests Launch Pipeline</title>
+    <test-cases>
+        <test-case start='1546941829352' status='passed' stop='1546941829354'>
+            <name>Fail On No Pipeline</name>
+            <title>Fail On No Pipeline</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829354' status='passed' stop='1546941829355'>
+            <name>Fail On Wrong Build Strategy</name>
+            <title>Fail On Wrong Build Strategy</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941829356' status='passed' stop='1546941829358'>
+            <name>Successfully</name>
+            <title>Successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962841887' stop='1546962841888'>
+    <name>Admin Account Integration Tests deleteAccount positive</name>
+    <title>Admin Account Integration Tests deleteAccount positive</title>
+    <test-cases>
+        <test-case start='1546962841888' status='pending' stop='1546962841888'>
+            <name>delete a non private account should remove the account from the user</name>
+            <title>delete a non private account should remove the account from the user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962841888' status='pending' stop='1546962841888'>
+            <name>delete a non private account should remove the account from the user and restart default account field</name>
+            <title>delete a non private account should remove the account from the user and restart default account field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962841888' status='pending' stop='1546962841888'>
+            <name>delete a private account with "deleteUserIfPrivateAccount=true" should delete the account and the user and remove the user from other accounts</name>
+            <title>delete a private account with "deleteUserIfPrivateAccount=true" should delete the account and the user and remove the user from other accounts</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1546962841888' status='pending' stop='1546962841888'>
+            <name>delete a private account with "deleteUserIfPrivateAccount=false" should delete only the account</name>
+            <title>delete a private account with "deleteUserIfPrivateAccount=false" should delete only the account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

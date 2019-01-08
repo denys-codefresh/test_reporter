@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941805107' stop='1546941805111'>
+    <name>monitor nodes - handles all operations on nodes addNode - adds a new node positive tests</name>
+    <title>monitor nodes - handles all operations on nodes addNode - adds a new node positive tests</title>
+    <test-cases>
+        <test-case start='1546941805107' status='passed' stop='1546941805108'>
+            <name>should call onAdded function once finished</name>
+            <title>should call onAdded function once finished</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941805108' status='passed' stop='1546941805109'>
+            <name>should remove creatingNode with same provider.machineName</name>
+            <title>should remove creatingNode with same provider.machineName</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941805110' status='passed' stop='1546941805111'>
+            <name>should not remove any node if there is not same provider.machineName </name>
+            <title>should not remove any node if there is not same provider.machineName </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

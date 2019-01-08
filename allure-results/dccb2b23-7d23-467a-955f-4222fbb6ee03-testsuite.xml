@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962827187' stop='1546962827193'>
+    <name>monitor nodes - handles all operations on nodes addNode - adds a new node negative tests</name>
+    <title>monitor nodes - handles all operations on nodes addNode - adds a new node negative tests</title>
+    <test-cases>
+        <test-case start='1546962827187' status='passed' stop='1546962827189'>
+            <name>should throw an error in case no node was provided</name>
+            <title>should throw an error in case no node was provided</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827189' status='passed' stop='1546962827190'>
+            <name>should throw an error in case provided node is not a Node class</name>
+            <title>should throw an error in case provided node is not a Node class</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827190' status='passed' stop='1546962827192'>
+            <name>should throw an error in case id param is missing</name>
+            <title>should throw an error in case id param is missing</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962827192' status='passed' stop='1546962827193'>
+            <name>should throw an error in case node already exists</name>
+            <title>should throw an error in case node already exists</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

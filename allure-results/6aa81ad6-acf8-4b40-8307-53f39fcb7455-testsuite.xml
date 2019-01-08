@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606361383' stop='1546606361387'>
+    <name>monitor consul - handles all operations performed through consul getDockerNodesKvData - return all key value data related to all docker nodes negative tests</name>
+    <title>monitor consul - handles all operations performed through consul getDockerNodesKvData - return all key value data related to all docker nodes negative tests</title>
+    <test-cases>
+        <test-case start='1546606361383' status='passed' stop='1546606361387'>
+            <name>should return an error in case failed to retrieve key value data</name>
+            <title>should return an error in case failed to retrieve key value data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

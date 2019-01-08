@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606386407' stop='1546606386414'>
+    <name>Repo Entity Tests remove webhook negative</name>
+    <title>Repo Entity Tests remove webhook negative</title>
+    <test-cases>
+        <test-case start='1546606386407' status='passed' stop='1546606386414'>
+            <name>should fail in case user does not have admin permissions to the repo</name>
+            <title>should fail in case user does not have admin permissions to the repo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

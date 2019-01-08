@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941835703' stop='1546941835719'>
+    <name>Account Limits Unit Tests Current State</name>
+    <title>Account Limits Unit Tests Current State</title>
+    <test-cases>
+        <test-case start='1546941835703' status='passed' stop='1546941835713'>
+            <name>should return updated data (no stale state)</name>
+            <title>should return updated data (no stale state)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941835713' status='passed' stop='1546941835719'>
+            <name>should return empty when no there is no limit</name>
+            <title>should return empty when no there is no limit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

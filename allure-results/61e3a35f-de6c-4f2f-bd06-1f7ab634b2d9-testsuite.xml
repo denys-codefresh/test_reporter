@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962821357' stop='1546962821489'>
+    <name>Stash Provider Unit Tests getFileUrl</name>
+    <title>Stash Provider Unit Tests getFileUrl</title>
+    <test-cases>
+        <test-case start='1546962821357' status='passed' stop='1546962821489'>
+            <name>should return proper stash file URL</name>
+            <title>should return proper stash file URL</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606378875' stop='1546606378877'>
+    <name>custom_clusters - KubernetesClusters.js</name>
+    <title>custom_clusters - KubernetesClusters.js</title>
+    <test-cases>
+        <test-case start='1546606378876' status='passed' stop='1546606378876'>
+            <name>validate</name>
+            <title>validate</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606378876' status='passed' stop='1546606378877'>
+            <name>register</name>
+            <title>register</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

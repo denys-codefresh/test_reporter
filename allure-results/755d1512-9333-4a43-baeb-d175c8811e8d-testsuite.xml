@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962841573' stop='1546962841621'>
+    <name>Accounts Unit Tests 6. getPrivateAccount negative</name>
+    <title>Accounts Unit Tests 6. getPrivateAccount negative</title>
+    <test-cases>
+        <test-case start='1546962841573' status='passed' stop='1546962841597'>
+            <name>should return an error in case the user does not have a private account</name>
+            <title>should return an error in case the user does not have a private account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962841597' status='passed' stop='1546962841621'>
+            <name>should return an error in case the account field on the user is not populated</name>
+            <title>should return an error in case the account field on the user is not populated</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606357852' stop='1546606357855'>
+    <name>IDP unit tests /:clientName/context/:type/:name/create createContextMid</name>
+    <title>IDP unit tests /:clientName/context/:type/:name/create createContextMid</title>
+    <test-cases>
+        <test-case start='1546606357852' status='passed' stop='1546606357855'>
+            <name>add flow to the cookie and call authentication from idp</name>
+            <title>add flow to the cookie and call authentication from idp</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

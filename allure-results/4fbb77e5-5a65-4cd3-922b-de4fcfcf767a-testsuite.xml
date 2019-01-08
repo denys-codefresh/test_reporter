@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546941820992' stop='1546941821031'>
+    <name>Sections controller unit tests Patch section</name>
+    <title>Sections controller unit tests Patch section</title>
+    <test-cases>
+        <test-case start='1546941820992' status='passed' stop='1546941821008'>
+            <name>should response with 200 and board</name>
+            <title>should response with 200 and board</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821008' status='passed' stop='1546941821019'>
+            <name>should throw NotFoundGatewayError while patching section from another account</name>
+            <title>should throw NotFoundGatewayError while patching section from another account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546941821019' status='passed' stop='1546941821031'>
+            <name>should throw DuplicationGatewayError while patching section with existing name</name>
+            <title>should throw DuplicationGatewayError while patching section with existing name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

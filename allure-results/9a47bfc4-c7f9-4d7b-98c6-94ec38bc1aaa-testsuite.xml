@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962857500' stop='1546962857501'>
+    <name>providers.cloud.azure createDnsRecords</name>
+    <title>providers.cloud.azure createDnsRecords</title>
+    <test-cases>
+        <test-case start='1546962857500' status='passed' stop='1546962857500'>
+            <name>dns action called</name>
+            <title>dns action called</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857500' status='passed' stop='1546962857501'>
+            <name>dns action not called</name>
+            <title>dns action not called</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

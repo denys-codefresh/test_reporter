@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546962857662' stop='1546962857683'>
+    <name>Account Limits Unit Tests Used Manipulation</name>
+    <title>Account Limits Unit Tests Used Manipulation</title>
+    <test-cases>
+        <test-case start='1546962857663' status='passed' stop='1546962857669'>
+            <name>should be able to reset the used counter</name>
+            <title>should be able to reset the used counter</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546962857669' status='passed' stop='1546962857683'>
+            <name>should be able to increment the used counter</name>
+            <title>should be able to increment the used counter</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

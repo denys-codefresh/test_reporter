@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1546606368973' stop='1546606368973'>
+    <name>SCMServices Logic Unit Tests 2. Base classes</name>
+    <title>SCMServices Logic Unit Tests 2. Base classes</title>
+    <test-cases>
+        <test-case start='1546606368973' status='passed' stop='1546606368973'>
+            <name>2.1. should fail with some methods not implemented</name>
+            <title>2.1. should fail with some methods not implemented</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606368973' status='passed' stop='1546606368973'>
+            <name>2.2. should fail when creating abstract class</name>
+            <title>2.2. should fail when creating abstract class</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1546606368973' status='passed' stop='1546606368973'>
+            <name>2.2. should fail when calling abstract static methods</name>
+            <title>2.2. should fail when calling abstract static methods</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
